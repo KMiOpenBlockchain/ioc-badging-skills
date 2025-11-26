@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/15fff7eb1ff2496658be815fd9252d8e2e7cff3be1ba737af78bdc41f0a1425f.json",
+  "name": "Competence in Systems development management at level 5",
+  "description": "Competence in the planning, estimating and execution of programmes of systems development work to time, budget and quality targets. The identification of the resources needed for systems development and how this will be met with an effective supply capacity. The alignment of systems development activity and deliverables with agreed architectures and standards. The development of roadmaps to communicate future systems development plans. The adoption and adaptation of systems development lifecycle models based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/DLMG_5_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/eea60e43ccec6d696ca761c5d205687d619abc39c00665f3ee34c111e99a2f9b",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Defines systems development projects which support the organisation's objectives and plans. Selects, adopts and adapts appropriate systems development methods, tools and techniques selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches. Ensures that senior management is both aware of and able to provide the required resources. Facilitates availability and optimum utilisation of resources. Monitors and reports on the progress of development projects, ensuring that projects are carried out in accordance with agreed architectures, standards, methods and procedures (including secure software development). Develops road maps to communicate future development activity."
+  },
+  "tags": [
+    "Competence",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/fa6840d69ac14a575246f92648183dfeb6d230adf9fe649a95c762d8fccf0963",
+      "targetName": "Systems development management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/systems-development/systems-development-management",
+      "targetDescription": "The planning, estimating and execution of programmes of systems development work to time, budget and quality targets. The identification of the resources needed for systems development and how this will be met with an effective supply capacity. The alignment of systems development activity and deliverables with agreed architectures and standards. The development of roadmaps to communicate future systems development plans. The adoption and adaptation of systems development lifecycle models based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+      "targetCode": "DLMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

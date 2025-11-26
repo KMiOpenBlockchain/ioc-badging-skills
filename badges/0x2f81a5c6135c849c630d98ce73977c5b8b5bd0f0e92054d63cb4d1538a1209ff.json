@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x2f81a5c6135c849c630d98ce73977c5b8b5bd0f0e92054d63cb4d1538a1209ff.json",
+  "name": "Proficiency in Enterprise IT governance at level 7",
+  "description": "Proficiency in the establishment and oversight of an organisation's approach to the use of Information systems and digital services, and associated technology, in line with the needs of the principal stakeholders of the organisation and overall organisational corporate governance requirements. The determination and accountability for evaluation of current and future needs; directing the planning for both supply and demand of these services; the quality, characteristics, and level of IT services; and for monitoring the conformance to obligations (including regulatory, legislation, control, and other standards) to ensure positive contribution of IT to the organisation's goals and objectives.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/GOVN_7_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x97b3a438e3122ccfb45673ccf0adeec404322db89702d7adb448b31924d4be1c",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Leads the establishment and maintenance of a function that provides a consistent and integrated approach to IT governance in line with the organisation's corporate governance requirements. At the highest levels in the organisation's governance activities, provides assurance to principal stakeholders that IT services meet the organisation's obligations (including legislation, regulatory, contractual and agreed standards/policies). Ensures that a framework of policies, standards, process and practices is in place to guide provision of enterprise IT services, and that suitable monitoring of the governance framework is in place to report on adherence to these obligations as needed. Establishes the appropriate guidance to enable transparent decision-making to be demonstrated, working with senior leaders to ensure the needs of principal stakeholders are understood, the value proposition offered by enterprise IT is accepted by these stakeholders and the evolving needs of the stakeholders and their appetite for balancing benefits, opportunities, costs and risks is embedded into strategic and operational plans.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level7"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/475913d5c94c6f8a5b40fd09e8fe22eb145c0cc420afe95745ff3084cf9af7ba",
+      "targetName": "Enterprise IT governance",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/information-strategy/it-governance",
+      "targetDescription": "The establishment and oversight of an organisation's approach to the use of Information systems and digital services, and associated technology, in line with the needs of the principal stakeholders of the organisation and overall organisational corporate governance requirements. The determination and accountability for evaluation of current and future needs; directing the planning for both supply and demand of these services; the quality, characteristics, and level of IT services; and for monitoring the conformance to obligations (including regulatory, legislation, control, and other standards) to ensure positive contribution of IT to the organisation's goals and objectives.",
+      "targetCode": "GOVN",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

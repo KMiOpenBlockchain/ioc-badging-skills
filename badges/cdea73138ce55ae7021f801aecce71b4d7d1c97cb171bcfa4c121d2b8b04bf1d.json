@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/cdea73138ce55ae7021f801aecce71b4d7d1c97cb171bcfa4c121d2b8b04bf1d.json",
+  "name": "Competence in Asset management at level 4",
+  "description": "Competence in the management of the lifecycle for all managed assets (hardware, software, intellectual property, licences, warranties etc) including security, inventory, compliance, usage and disposal, aiming to protect and secure the corporate assets portfolio, optimise the total cost of ownership and sustainability by minimising operating costs, improving investment decisions and capitalising on potential opportunities. Knowledge and use of international standards for asset management and close integration with security, change, and configuration management are examples of enhanced asset management development.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ASMG_4_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/803f470719a5e836c4a101ca4fed4e50f193a492108b5a96f6ae23ef4b8c6647",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Controls IT assets in one or more significant areas, ensuring that administration of the acquisition, storage, distribution, movement and disposal of assets is carried out. Produces and analyses registers and histories of authorised assets (including secure master copies of software, documentation, data, licenses and agreements for supply, warranty and maintenance), and verifies that all these assets are in a known state and location. Acts to highlight and resolve potential instances of unauthorised assets such as unlicensed copies of software."
+  },
+  "tags": [
+    "Competence",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/5c2e7c8d3f48543e0c92c6e2fc978a34720af670f541a85d0fc6dd3fa563d678",
+      "targetName": "Asset management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-transition/asset-management",
+      "targetDescription": "The management of the lifecycle for all managed assets (hardware, software, intellectual property, licences, warranties etc) including security, inventory, compliance, usage and disposal, aiming to protect and secure the corporate assets portfolio, optimise the total cost of ownership and sustainability by minimising operating costs, improving investment decisions and capitalising on potential opportunities. Knowledge and use of international standards for asset management and close integration with security, change, and configuration management are examples of enhanced asset management development.",
+      "targetCode": "ASMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

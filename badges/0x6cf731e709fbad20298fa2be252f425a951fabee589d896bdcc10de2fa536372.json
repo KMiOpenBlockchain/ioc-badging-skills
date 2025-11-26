@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x6cf731e709fbad20298fa2be252f425a951fabee589d896bdcc10de2fa536372.json",
+  "name": "Super",
+  "description": "This badge represents an additional, non academic, reward for attaining multiple other badges at an Institute of Coding related event.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ioc/super.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xfa9e5da5d4bbf3b88051a40ed26e281ca0409c973908dfbe8c77c145bc8cb666",
+    "narrative": "To earn this badge the recipient must have completed a set of Institute of Coding badges."
+  },
+  "tags": [],
+  "alignment": []
+}

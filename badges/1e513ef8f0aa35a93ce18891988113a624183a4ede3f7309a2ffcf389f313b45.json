@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/1e513ef8f0aa35a93ce18891988113a624183a4ede3f7309a2ffcf389f313b45.json",
+  "name": "Competence in Customer service support at level 1",
+  "description": "Competence in the management and operation of one or more customer service or service desk functions. Acting as a point of contact to support service users and customers reporting issues, requesting information, access, or other services. The delivery of customer service through multiple channels including human, digital, self-service and automated.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/CSMG_1_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/6fb229498e7fb0ae57f2a91b45b095bb1bfe8f30627e811876d3013070a4341b",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Receives and handles requests for service, following agreed procedures. Promptly allocates calls as appropriate. Logs incidents and service requests and maintains relevant records."
+  },
+  "tags": [
+    "Competence",
+    "level1"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/8b9492f3db15edd338988cbcb92d7338b26d918b92541b38dddf8effdf206787",
+      "targetName": "Customer service support",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/relationship-management/client-services-management",
+      "targetDescription": "The management and operation of one or more customer service or service desk functions. Acting as a point of contact to support service users and customers reporting issues, requesting information, access, or other services. The delivery of customer service through multiple channels including human, digital, self-service and automated.",
+      "targetCode": "CSMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

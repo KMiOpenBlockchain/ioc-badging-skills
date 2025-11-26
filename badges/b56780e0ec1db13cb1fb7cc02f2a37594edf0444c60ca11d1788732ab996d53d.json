@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/b56780e0ec1db13cb1fb7cc02f2a37594edf0444c60ca11d1788732ab996d53d.json",
+  "name": "Competence in Knowledge management at level 5",
+  "description": "Competence in the systematic management of vital knowledge to create value for the organisation by capturing, sharing, developing and exploiting the collective knowledge of the organisation to improve performance, support decision making and mitigate risks. The development of a supportive and collaborative knowledge sharing culture to drive the successful adoption of technology solutions for knowledge management. Providing access to informal, tacit knowledge as well as formal, documented, explicit knowledge by facilitating internal and external collaboration and communications.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/KNOW_5_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/f38bed0efd23487a81dae523e290767616babbe207d27d28fec9bda15f512775",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Provides advice, guidance, and support to help people to adopt and embed best-practice approaches to information and knowledge management into all areas of their work. Evaluates and selects appropriate knowledge management methods and tools in line with agreed policies and standards. Promotes collaborative technologies, processes and behaviours to facilitate sharing of ideas and work-knowledge among internal teams and external partners. Provides support for the establishment and nurturing of communities of practice, including workshops, one-on-one guidance, and troubleshooting. Develops and implements processes and behaviours which help people easily access and use data, learning, and knowledge to improve performance. Shares ideas and examples of existing practices to encourage adoption. Implements knowledge management at programme, project and team level including tailoring in line with agreed standards. Contributes to the definition of organisational policies, standards, and guidelines for knowledge management."
+  },
+  "tags": [
+    "Competence",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/2f50329085615d6b53de81b83ef46fd3c78ee26b850884f104565b48c792dbbc",
+      "targetName": "Knowledge management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/knowledge-management",
+      "targetDescription": "The systematic management of vital knowledge to create value for the organisation by capturing, sharing, developing and exploiting the collective knowledge of the organisation to improve performance, support decision making and mitigate risks. The development of a supportive and collaborative knowledge sharing culture to drive the successful adoption of technology solutions for knowledge management. Providing access to informal, tacit knowledge as well as formal, documented, explicit knowledge by facilitating internal and external collaboration and communications.",
+      "targetCode": "KNOW",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

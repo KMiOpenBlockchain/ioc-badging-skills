@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/f44efe2e1af476ff6a5df42baac94ca4d0b3bf4ee922bfa668ac23121e08a1b6.json",
+  "name": "Competence in Software design at level 3",
+  "description": "Competence in the specification and design of software to meet defined requirements by following agreed design standards and principles. The definition of software, components, interfaces and related characteristics. The identification of concepts and patterns and the translation into a design which provides a basis for software construction and verification. The evaluation of alternative solutions and trade-offs. The facilitation of design decisions within the constraints of systems designs, design standards, quality, feasibility, extensibility and maintainability. The development and iteration of prototypes/simulations to enable informed decision-making. The adoption and adaptation of software design models, tools and techniques based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SWDN_3_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/61bc284191d6f0ba77e85d193a2d704ef33730269894999a4c8b6ab025f9f3b4",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Undertakes complete design of moderately complex software applications or components applying agreed standards, patterns and tools. Assists as part of a team in the design of components of larger software systems. Specifies user and/or system interfaces. Creates multiple design views to address the concerns of the different stakeholders of the design and to handle separately functional and non-functional requirements. Assists in the evaluation of options and trade-offs. Collaborates in reviews of work with others as appropriate."
+  },
+  "tags": [
+    "Competence",
+    "level3"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/62f6ce9b3d1cd5f5536ee3e9eaeb224c2bd2056fa652c4c61aed7c274665e13e",
+      "targetName": "Software design",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/systems-development/new-software-design",
+      "targetDescription": "The specification and design of software to meet defined requirements by following agreed design standards and principles. The definition of software, components, interfaces and related characteristics. The identification of concepts and patterns and the translation into a design which provides a basis for software construction and verification. The evaluation of alternative solutions and trade-offs. The facilitation of design decisions within the constraints of systems designs, design standards, quality, feasibility, extensibility and maintainability. The development and iteration of prototypes/simulations to enable informed decision-making. The adoption and adaptation of software design models, tools and techniques based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+      "targetCode": "SWDN",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

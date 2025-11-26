@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x5ea7a5ed9208ecb983fa3e6ffe4d01a7ab11f71ff5fe7a83e529c882d744e37e.json",
+  "name": "Proficiency in Hardware design at level 4",
+  "description": "Proficiency in the specification and design of computing and communications equipment (such as semiconductor processors, HPC architectures and DSP and graphics processor chips), typically for integration into, or connection to an IT infrastructure or network. The identification of concepts and their translation into implementable design. The selection and integration, or design and prototyping of components. The adherence to industry standards including compatibility, security and sustainability.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/HWDE_4_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xaa24416d57dc0ed39046831fb96aa4287e42ebdfa77779d408ab6820878a40c8",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Designs computing and communications equipment, taking account of target environment, performance, security and sustainability requirements. Translates logical designs into physical designs, and delivers technical prototypes of proposed components for approval by customer and execution by technicians. Designs tests to measure performance of prototypes and production output against specification and inform iterative development.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/809d2b2420bd20394fe61630d9932ceee03e5764d20d37ebb6597c65043455b4",
+      "targetName": "Hardware design",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/installation-and-integration/hardware-design",
+      "targetDescription": "The specification and design of computing and communications equipment (such as semiconductor processors, HPC architectures and DSP and graphics processor chips), typically for integration into, or connection to an IT infrastructure or network. The identification of concepts and their translation into implementable design. The selection and integration, or design and prototyping of components. The adherence to industry standards including compatibility, security and sustainability.",
+      "targetCode": "HWDE",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

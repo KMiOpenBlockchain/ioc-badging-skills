@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/b729900265e74d1cb69f2597b9cae180b4d0569eac4dd837b84faf1bffbc172a.json",
+  "name": "Knowledge of Radio frequency engineering at level 2",
+  "description": "Knowledge of the deployment, integration, calibration, tuning and maintenance of radio frequency (RF) and analogue elements of IT systems.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/RFEN_2_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/1ed9d4d0053ae3a1d7217f52f51b078c9074a5785a021f81f02497bf25d61870",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Assists with setting up, tuning and functional checks of radio frequency/analogue elements. Resolves faults down to line replaceable unit (LRU) level or escalates according to given procedures. Carries out user confidence checks and escalates faults according to given procedures."
+  },
+  "tags": [
+    "knowledge",
+    "level2"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/fb5f13f195603f2e0ee8bee85dcb9fa0fc24f86a7c960ec2abdecb3b7617c04d",
+      "targetName": "Radio frequency engineering",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/radio-frequency-engineering",
+      "targetDescription": "The deployment, integration, calibration, tuning and maintenance of radio frequency (RF) and analogue elements of IT systems.",
+      "targetCode": "RFEN",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/03bb1ea66c5c6b9bc0c5b512c55b6ee31f865102da9c1064bdb9e017d40cbf94.json",
+  "name": "Competence in Sales support at level 1",
+  "description": "Competence in the provision of technical advice and assistance to the sales force, sales agents, reseller/distributor staff and existing or prospective customers, either in support of customer development or sales activity or in fulfilment of sales obligations.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SSUP_1_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/7ed1eba3e9b40430aa39e84bcaeacba0104acc2e3368c75f673a5907d8796189",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Able to communicate effectively with customers by telephone and provide information about products and services. Seeks assistance from colleagues for the resolution of more complex customer service queries and complaints. Can use databases to retrieve and enter data."
+  },
+  "tags": [
+    "Competence",
+    "level1"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/9fd46c45e57bbe422090b3562a78da92415dafc35a7230877d12cee1be86eab0",
+      "targetName": "Sales support",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/sales-and-marketing/sales-support",
+      "targetDescription": "The provision of technical advice and assistance to the sales force, sales agents, reseller/distributor staff and existing or prospective customers, either in support of customer development or sales activity or in fulfilment of sales obligations.",
+      "targetCode": "SSUP",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

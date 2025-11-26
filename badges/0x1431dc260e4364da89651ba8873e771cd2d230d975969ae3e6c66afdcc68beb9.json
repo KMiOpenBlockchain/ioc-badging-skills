@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x1431dc260e4364da89651ba8873e771cd2d230d975969ae3e6c66afdcc68beb9.json",
+  "name": "Proficiency in User experience design at level 3",
+  "description": "Proficiency in the process of iterative design to enhance user satisfaction by improving the usability and accessibility provided when interacting with a system, product or service. The design of users' digital and offline tasks, interactions and interfaces to meet usability and accessibility requirements. The refinement of designs in response to user-centred evaluation and feedback and communication of the design to those responsible for design, development and implementation.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/HCEV_3_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x66f5798499383d1a30c2ee17669f00d175f31e9ca5b6df52facc089068374a24",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Applies tools and methods to design and develop users' digital and off-line tasks, interactions and interfaces to meet agreed usability and accessibility requirements for selected system, product or service components. Creates workable prototypes. Assists, as part of a team, on overall user experience design. Assists in the evaluation of design options and trade-offs. Consistently applies visual design and branding guidelines.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level3"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/d458a62173629a059d39990a84008012105b15140a49391e10d1d96be4bc7e31",
+      "targetName": "User experience design",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/human-factors/ergonomic-design",
+      "targetDescription": "The process of iterative design to enhance user satisfaction by improving the usability and accessibility provided when interacting with a system, product or service. The design of users' digital and offline tasks, interactions and interfaces to meet usability and accessibility requirements. The refinement of designs in response to user-centred evaluation and feedback and communication of the design to those responsible for design, development and implementation.",
+      "targetCode": "HCEV",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

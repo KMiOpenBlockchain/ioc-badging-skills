@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/c409e2a0be6848f2c38b47da669a7f6b1ea8e0a30bce30f28e44ea181b57f2f0.json",
+  "name": "Competence in Information systems coordination at level 6",
+  "description": "Competence in typically within a large organisation in which the information strategy function is devolved to autonomous units, or within a collaborative enterprise of otherwise independent organisations, the coordination of information strategy matters where the adoption of a common approach (such as shared services) would benefit the organisation.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ISCO_6_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/332d56fe094c448206cf6689b261a4d581ef198d8b8c8935bb5f46f4dc022a72",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Maintains an awareness of the global needs of the organisation, and promotes (to both information systems and business management) the benefits that a common approach to information and communications technology deployment will bring to the business as a whole. Coordinates the promotion, acquisition, development, and implementation of information systems and services in close liaison with those responsible for management and strategy."
+  },
+  "tags": [
+    "Competence",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/de5dc96bed37e836344f3473d83b415437902cec7cc18f8e781f153937563917",
+      "targetName": "Information systems coordination",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/information-strategy/information-systems-coordination",
+      "targetDescription": "Typically within a large organisation in which the information strategy function is devolved to autonomous units, or within a collaborative enterprise of otherwise independent organisations, the coordination of information strategy matters where the adoption of a common approach (such as shared services) would benefit the organisation.",
+      "targetCode": "ISCO",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

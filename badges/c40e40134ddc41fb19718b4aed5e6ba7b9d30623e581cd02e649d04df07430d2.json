@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/c40e40134ddc41fb19718b4aed5e6ba7b9d30623e581cd02e649d04df07430d2.json",
+  "name": "Knowledge of Systems integration and build at level 6",
+  "description": "Knowledge of the planning, implementation and control of activities to integrate/build components, subsystems and interfaces to create operational systems, products or services for delivery to customers, or for internal or interim purposes such as testing. The development of organisational capabilities for systems integration and build including automation and continuous integration.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SINT_6_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/f3125b95b29141edf2c026db19324e23e228fb5926bc186d09a4b78ff0a282ca",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Develops organisational policies, standards, and guidelines for systems integration and build. Leads the development of organisational capabilities for systems integration and build including automation and continuous integration. Provides resources to ensure systems integration and build can operate effectively and ensure adoption and adherence to policies and standards."
+  },
+  "tags": [
+    "knowledge",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/481f76c4a4105d0df6d4012c8918bd781493a0b3a1bdd9e70014bd1056e8d393",
+      "targetName": "Systems integration and build",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/installation-and-integration/systems-integration",
+      "targetDescription": "The planning, implementation and control of activities to integrate/build components, subsystems and interfaces to create operational systems, products or services for delivery to customers, or for internal or interim purposes such as testing. The development of organisational capabilities for systems integration and build including automation and continuous integration.",
+      "targetCode": "SINT",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

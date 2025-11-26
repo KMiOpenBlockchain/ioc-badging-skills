@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/5c09b3b86287a6a2d6cb4862dc4f3d899130bd85c8db77bf61cd8ca22237386a.json",
+  "name": "Knowledge of Business process testing at level 5",
+  "description": "Knowledge of the planning, design, management, execution and reporting of business process tests and usability evaluations. The application of evaluation skills to the assessment of the ergonomics, usability and fitness for purpose of defined processes. This includes the synthesis of test tasks to be performed (from statement of user needs and user interface specification), the design of an evaluation programme, the selection of user samples, the analysis of performance, and inputting results to the development team.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/BPTS_5_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/453f30b50a610d929b0656c01101b81e0b9b2860ee9c46a9eb2ccfc14f63113c",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Designs and manages tests of new/updated processes. Specifies test environment for whole life-cycle testing (for example, using a model office concept). Manages selection/creation of relevant scenarios for testing and ensures that tests reflect realistic operational business conditions. Ensure tests and results are documented, reported to stakeholders and are available for specification of user instructions. Highlights issues and risks identified during testing to business stakeholders. Provides specialist guidance and advice to less experienced colleagues and users to ensure that test are conducted in an appropriate manner."
+  },
+  "tags": [
+    "knowledge",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/cea7d973bc9c0c3e64b0c67dd9ec43ea17d4e28b3ec99368b1bdd1186dca3785",
+      "targetName": "Business process testing",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-management/business-process-testing",
+      "targetDescription": "The planning, design, management, execution and reporting of business process tests and usability evaluations. The application of evaluation skills to the assessment of the ergonomics, usability and fitness for purpose of defined processes. This includes the synthesis of test tasks to be performed (from statement of user needs and user interface specification), the design of an evaluation programme, the selection of user samples, the analysis of performance, and inputting results to the development team.",
+      "targetCode": "BPTS",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

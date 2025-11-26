@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/d297a7a6e0c49f756e1310418c7a7bf1d7bbd8bc444bf9add849b450d3cd6a8b.json",
+  "name": "Knowledge of Service acceptance at level 6",
+  "description": "Knowledge of the achievement of formal confirmation that service acceptance criteria have been met, and that the service provider is ready to operate the new service when it has been deployed. (Service acceptance criteria are used to ensure that a service meets the defined service requirements, including functionality, operational support, performance and quality requirements).",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SEAC_6_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/8f57aa52ecb68e73a0e3b4bee57391f904484d0ec00840d11973b38c4f0fe325",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Owns the transition process, develops the organisation's approach and defines the acceptance criteria for service transition. Promotes and monitors project quality outputs to ensure they are fit for purpose and fit for use within operational service. Actively engages with technical design and project managers to promote awareness and compliance with service transition quality plans and processes. Agrees the service acceptance criteria with project/programme managers."
+  },
+  "tags": [
+    "knowledge",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/14c797b1a73c229514cc64f55146ffa17ec1be4a3d1598a0835023a271acac75",
+      "targetName": "Service acceptance",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-transition/service-acceptance",
+      "targetDescription": "The achievement of formal confirmation that service acceptance criteria have been met, and that the service provider is ready to operate the new service when it has been deployed. (Service acceptance criteria are used to ensure that a service meets the defined service requirements, including functionality, operational support, performance and quality requirements).",
+      "targetCode": "SEAC",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

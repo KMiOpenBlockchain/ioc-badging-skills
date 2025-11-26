@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/502716a40b3e43ab320c6b2631b549665daede9537aa890e7fb6d54323c5fe87.json",
+  "name": "Knowledge of Service acceptance at level 4",
+  "description": "Knowledge of the achievement of formal confirmation that service acceptance criteria have been met, and that the service provider is ready to operate the new service when it has been deployed. (Service acceptance criteria are used to ensure that a service meets the defined service requirements, including functionality, operational support, performance and quality requirements).",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SEAC_4_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/258a95dc4a60ce63ef1028ce30557dfde8b0376ea9f3527d2da0e6a9f65aec7d",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Engages with project management to confirm that products developed meet the service acceptance criteria and are to the required standard. Feeds into change management processes."
+  },
+  "tags": [
+    "knowledge",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/14c797b1a73c229514cc64f55146ffa17ec1be4a3d1598a0835023a271acac75",
+      "targetName": "Service acceptance",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-transition/service-acceptance",
+      "targetDescription": "The achievement of formal confirmation that service acceptance criteria have been met, and that the service provider is ready to operate the new service when it has been deployed. (Service acceptance criteria are used to ensure that a service meets the defined service requirements, including functionality, operational support, performance and quality requirements).",
+      "targetCode": "SEAC",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

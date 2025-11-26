@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x658314c5d38128b5e369ff0dfec02be19bfd2a89a3b45d9d88292bf9d5676143.json",
+  "name": "Proficiency in Requirements definition and management at level 4",
+  "description": "Proficiency in the elicitation, analysis, specification and validation of requirements and constraints to a level that enables effective development and operations of new or changed software, systems, processes, products and services. The management of requirements throughout the whole of the delivery and operational life cycle of the software, system, processes, products or services. The negotiation of trade-offs that are both acceptable to key stakeholders and within budgetary, technical, regulatory, and other constraints. The adoption and adaptation of requirements management lifecycle models based on the context of the work and selecting appropriately from plan-driven/predictive approaches or more adaptive (iterative and agile) approaches.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/REQM_4_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xc198a6e6e34ae8c50c6051565caf90bf5f89516347d1a41020323faed2945935",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Contributes to selection of the requirements approach for projects, selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches. Defines and manages scoping, requirements definition and prioritisation activities for initiatives of medium size and complexity. Facilitates input from stakeholders, provides constructive challenge and enables effective prioritisation of requirements. Reviews requirements for errors and omissions. Establishes the requirements base-lines, obtains formal agreement to requirements, and ensures traceability to source. Investigates, manages, and applies authorised requests for changes to base-lined requirements, in line with change management policy.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/fb47894f72c7d59600ae1d2656b8b30ad6c27855e566cc6eaf0935d0621f207a",
+      "targetName": "Requirements definition and management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-management/requirements-definition-and-management",
+      "targetDescription": "The elicitation, analysis, specification and validation of requirements and constraints to a level that enables effective development and operations of new or changed software, systems, processes, products and services. The management of requirements throughout the whole of the delivery and operational life cycle of the software, system, processes, products or services. The negotiation of trade-offs that are both acceptable to key stakeholders and within budgetary, technical, regulatory, and other constraints. The adoption and adaptation of requirements management lifecycle models based on the context of the work and selecting appropriately from plan-driven/predictive approaches or more adaptive (iterative and agile) approaches.",
+      "targetCode": "REQM",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

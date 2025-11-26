@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/9418a3b88fcd38a301e1d73046b77ef20e268432af7ec524fed266409d5535ff.json",
+  "name": "Competence in Systems design at level 4",
+  "description": "Competence in the design of systems to meet specified requirements, compatible with agreed systems architectures, adhering to corporate standards and within constraints of performance and feasibility. The identification of concepts and their translation into a design which forms the basis for systems construction and verification. The design or selection of components. The development of a complete set of detailed models, properties, and/or characteristics described in a form suitable for implementation. The adoption and adaptation of systems design lifecycle models based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/DESN_4_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/f1f3d671efd133922cf32fd2e63043e9bf814c37e11c267609465f422739f07a",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Designs components using appropriate modelling techniques following agreed architectures, design standards, patterns and methodology. Identifies and evaluates alternative design options and trade-offs. Creates multiple design views to address the concerns of the different stakeholders of the architecture and to handle both functional and non-functional requirements. Models, simulates or prototypes the behaviour of proposed systems components to enable approval by stakeholders. Produces detailed design specification to form the basis for construction of systems. Reviews, verifies and improves own designs against specifications."
+  },
+  "tags": [
+    "Competence",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/0d3a5a9676927cef831667a6c0a208fce0883aea21bad4b84cdab832ab39e4df",
+      "targetName": "Systems design",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/systems-development/systems-design",
+      "targetDescription": "The design of systems to meet specified requirements, compatible with agreed systems architectures, adhering to corporate standards and within constraints of performance and feasibility. The identification of concepts and their translation into a design which forms the basis for systems construction and verification. The design or selection of components. The development of a complete set of detailed models, properties, and/or characteristics described in a form suitable for implementation. The adoption and adaptation of systems design lifecycle models based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+      "targetCode": "DESN",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

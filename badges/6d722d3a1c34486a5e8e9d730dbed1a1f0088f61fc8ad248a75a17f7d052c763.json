@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/6d722d3a1c34486a5e8e9d730dbed1a1f0088f61fc8ad248a75a17f7d052c763.json",
+  "name": "Competence in Knowledge management at level 6",
+  "description": "Competence in the systematic management of vital knowledge to create value for the organisation by capturing, sharing, developing and exploiting the collective knowledge of the organisation to improve performance, support decision making and mitigate risks. The development of a supportive and collaborative knowledge sharing culture to drive the successful adoption of technology solutions for knowledge management. Providing access to informal, tacit knowledge as well as formal, documented, explicit knowledge by facilitating internal and external collaboration and communications.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/KNOW_6_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/cb8e4df76d518cbcf7d7e5f2a3573a32c85f8dda8a2fd5c36a5026a7318dae6c",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Develops organisational policies, standards, and guidelines for knowledge management which allow organisations to respond quickly, to deliver services, make decisions and take actions. Champions and leads in the development of an organisational knowledge management approach and supporting technologies, processes and behaviours. Promotes knowledge-sharing through the organisation's operational business processes and systems. Monitors and evaluates knowledge-sharing initiatives, including external bench-marking. Manages reviews of the benefits and value of knowledge management. Identifies and recommends improvements. Creates the business case justification for investment in knowledge management; identifies alternative solutions, assesses feasibility. Shares experiences across communities of practice, business units, and networks on innovative approaches in knowledge sharing."
+  },
+  "tags": [
+    "Competence",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/2f50329085615d6b53de81b83ef46fd3c78ee26b850884f104565b48c792dbbc",
+      "targetName": "Knowledge management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/knowledge-management",
+      "targetDescription": "The systematic management of vital knowledge to create value for the organisation by capturing, sharing, developing and exploiting the collective knowledge of the organisation to improve performance, support decision making and mitigate risks. The development of a supportive and collaborative knowledge sharing culture to drive the successful adoption of technology solutions for knowledge management. Providing access to informal, tacit knowledge as well as formal, documented, explicit knowledge by facilitating internal and external collaboration and communications.",
+      "targetCode": "KNOW",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

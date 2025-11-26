@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/a28c645a326a230f27776d85ae4fdab36af92afafaa394fa2484a72dca2be06a.json",
+  "name": "Knowledge of Consultancy at level 6",
+  "description": "Knowledge of the provision of advice and recommendations, based on expertise and experience, to address client needs. May deal with one specialist subject area, or can be wide ranging and address strategic business issues. May also include support for the implementation of any agreed solutions.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/CNSL_6_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/09856a388a71177735953ec3c72591159a61d165655217b72befb998b3b9c2e2",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Manages provision of consultancy services, and/or management of a team of consultants. In own areas of expertise, provides advice and guidance to consultants and/or the client through involvement in the delivery of consultancy services. Engages with clients and maintains client relationships. Establishes agreements/contracts and manages completion and disengagement."
+  },
+  "tags": [
+    "knowledge",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/c71f0b30bf039809e25b95e8abb50d93e853dff124664d684310e09d90203b1f",
+      "targetName": "Consultancy",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/advice-and-guidance/consultancy",
+      "targetDescription": "The provision of advice and recommendations, based on expertise and experience, to address client needs. May deal with one specialist subject area, or can be wide ranging and address strategic business issues. May also include support for the implementation of any agreed solutions.",
+      "targetCode": "CNSL",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

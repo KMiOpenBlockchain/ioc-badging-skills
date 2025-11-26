@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xec22ba475c2affce0f4c90abbf85728e2657d22d40f65e6d3c2be3b6ada5c296.json",
+  "name": "Proficiency in Information content publishing at level 2",
+  "description": "Proficiency in the evaluation and application of different publishing methods and options, recognising key features, including open source and proprietary options. The management and tuning of the processes that collect, assemble and publish information, including in unstructured and semi-structured forms, for delivery to the user. The management of copyright, data protection and other legal issues associated with publishing and re-use of published information and data.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ICPM_2_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x4e7eb6fec04d39f5a0444bc23b24cefcf0546cd62ab8ca5c2e65cd8ab29fff5a",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Understands technical publication concepts, tools and methods and the way in which these are used. Uses agreed procedures to publish content. Obtains and analyses usage data and presents it effectively. Understands, and applies principles of usability and accessibility to published information.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level2"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/b1ccdc9ef345c781a4ba2e9427ae87e7ed90de2cf3415a0daaa37812297c6b7c",
+      "targetName": "Information content publishing",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/information-strategy/information-content-publishing",
+      "targetDescription": "The evaluation and application of different publishing methods and options, recognising key features, including open source and proprietary options. The management and tuning of the processes that collect, assemble and publish information, including in unstructured and semi-structured forms, for delivery to the user. The management of copyright, data protection and other legal issues associated with publishing and re-use of published information and data.",
+      "targetCode": "ICPM",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

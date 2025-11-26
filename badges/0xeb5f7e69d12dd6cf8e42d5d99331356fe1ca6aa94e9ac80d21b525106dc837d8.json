@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xeb5f7e69d12dd6cf8e42d5d99331356fe1ca6aa94e9ac80d21b525106dc837d8.json",
+  "name": "Proficiency in Capacity management at level 4",
+  "description": "Proficiency in the planning, design and management of the capability, functionality and sustainability of service components (including hardware, software, network resources and software/infrastructure as a Service) to meet current and forecast needs in a cost-efficient manner aligned to the business. The modelling of both long-term changes and short-term variations in the level of capacity required to execute the service. The deployment of techniques to control the demand and add/reduce capacity in a cost effective, timely manner to meet changes in demand.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/CPMG_4_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x92f667f217d8f6234c154a9d886d7f9cb2a49c2ab72dbe7cbabb3504c4346947",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Monitors service component capacity and initiates actions to resolve any shortfalls according to agreed procedures. Applies techniques to control the demand upon a particular resource or service. Contributes to capacity modelling and planning. Supports the design of service component capacity.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/ec0f2f27fd1e97004df664f8e03e73ce829a92b873c7925f8b2d3ac3958e291c",
+      "targetName": "Capacity management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/capacity-management",
+      "targetDescription": "The planning, design and management of the capability, functionality and sustainability of service components (including hardware, software, network resources and software/infrastructure as a Service) to meet current and forecast needs in a cost-efficient manner aligned to the business. The modelling of both long-term changes and short-term variations in the level of capacity required to execute the service. The deployment of techniques to control the demand and add/reduce capacity in a cost effective, timely manner to meet changes in demand.",
+      "targetCode": "CPMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

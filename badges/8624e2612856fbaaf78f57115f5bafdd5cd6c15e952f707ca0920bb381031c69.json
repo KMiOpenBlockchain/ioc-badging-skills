@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/8624e2612856fbaaf78f57115f5bafdd5cd6c15e952f707ca0920bb381031c69.json",
+  "name": "Knowledge of Selling at level 6",
+  "description": "Knowledge of the identification of sales prospects and their qualification, the development of customer interest and the preparation (including managing the bid process), execution and monitoring of the sale of any product or service into an external or internal market.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SALE_6_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/fa3a221dd805c8a1df913a3082b62f904e235fd6e5382dbb7e5dd646cab38e1e",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Oversees the organisation's sales activities to ensure they are aligned with corporate business objectives (organisation may be a division of a larger enterprise). Approves sales proposals and targets. Negotiates with customer representatives at the most senior level on both technical and contractual issues. Agrees and signs contracts. Develops and implements organisational sales policy and strategy, and contributes significantly to the development of marketing strategy. Initiates, with Marketing, evolution of services, products systems, and standard contracts to support alignment with future customer needs."
+  },
+  "tags": [
+    "knowledge",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/6eeb2a362356192d37c189bc44fb7519df766bf50ddabbab7e2358d605214370",
+      "targetName": "Selling",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/sales-and-marketing/selling",
+      "targetDescription": "The identification of sales prospects and their qualification, the development of customer interest and the preparation (including managing the bid process), execution and monitoring of the sale of any product or service into an external or internal market.",
+      "targetCode": "SALE",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

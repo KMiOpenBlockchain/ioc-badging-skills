@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/d8c143d3c2096d6ca6a936c324110aed8e8f3efa34a26995e5dac32d9ba4afb8.json",
+  "name": "Competence in Penetration testing at level 4",
+  "description": "Competence in the assessment of organisational vulnerabilities through the design and execution of penetration tests that demonstrate how an adversary can either subvert the organisation's security goals or achieve specific adversarial objectives. Penetration testing may be a stand-alone activity or an aspect of acceptance testing prior to an approval to operate. The identification of deeper insights into the business risks of various vulnerabilities.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PENT_4_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/885e0556d146cb7457d71b4dc66ae88729f271bee73dd8458b59d27838019eb3",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Maintains current knowledge of malware attacks, and other cyber security threats. Creates test cases using in-depth technical analysis of risks and typical vulnerabilities. Produces test scripts, materials and test packs to test new and existing software or services. Specifies requirements for environment, data, resources and tools. Interprets, executes and documents complex test scripts using agreed methods and standards. Records and analyses actions and results. Reviews test results and modifies tests if necessary. Provides reports on progress, anomalies, risks and issues associated with the overall project. Reports on system quality and collects metrics on test cases. Provides specialist advice to support others."
+  },
+  "tags": [
+    "Competence",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/fe35f8e3de74997d0c114844c20d2aa79502d616148204605aa80f0f2a50077e",
+      "targetName": "Penetration testing",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/penetration-testing",
+      "targetDescription": "The assessment of organisational vulnerabilities through the design and execution of penetration tests that demonstrate how an adversary can either subvert the organisation's security goals or achieve specific adversarial objectives. Penetration testing may be a stand-alone activity or an aspect of acceptance testing prior to an approval to operate. The identification of deeper insights into the business risks of various vulnerabilities.",
+      "targetCode": "PENT",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

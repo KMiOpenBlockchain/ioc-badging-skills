@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/dffc552b4918b00dfcf75961f47145135f5d91a5f3394c3e4ba530ccee8a023a.json",
+  "name": "Knowledge - Bronze Level",
+  "description": "This badge represents a basic knowledge of an Institute of Coding domain.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ioc/knowledge_bronze.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/3b4994387de94950d25f00dfd28ada1e9cefdc64d001c573c3bc4709bd949f96",
+    "narrative": "To earn this badge the recipient must show evidence of a basic knowledge of an Institute of Coding domain."
+  },
+  "tags": [],
+  "alignment": []
+}

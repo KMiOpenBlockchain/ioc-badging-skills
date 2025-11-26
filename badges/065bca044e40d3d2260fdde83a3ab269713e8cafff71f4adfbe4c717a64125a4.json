@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/065bca044e40d3d2260fdde83a3ab269713e8cafff71f4adfbe4c717a64125a4.json",
+  "name": "Competence in Professional development at level 6",
+  "description": "Competence in the facilitation of the professional development of individuals, including initiation, monitoring, review and validation of learning and development plans in line with organisational or business requirements. The counselling of participants in all relevant aspects of their continual professional development. The identification of appropriate learning/development resources. Liaison with internal and external training providers. The evaluation of the benefits of continual professional development activities.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PDSV_6_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/c9e3d7efb075691b019d5a3e834bd5619c74f9a69d1f4d4dd25c02000fa86e75",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Determines organisational development needs in line with business needs and strategic direction. Generates development strategies to achieve required change. Develops and leads communities of practice, including defining career pathways. Monitors progress and evaluates business benefits achieved from continual professional development."
+  },
+  "tags": [
+    "Competence",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/0d842462ceec6c4c45f8930994f7ee978b7c71576f7d7ecea2d9defe178a67ac",
+      "targetName": "Professional development",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/people-management/professional-development",
+      "targetDescription": "The facilitation of the professional development of individuals, including initiation, monitoring, review and validation of learning and development plans in line with organisational or business requirements. The counselling of participants in all relevant aspects of their continual professional development. The identification of appropriate learning/development resources. Liaison with internal and external training providers. The evaluation of the benefits of continual professional development activities.",
+      "targetCode": "PDSV",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

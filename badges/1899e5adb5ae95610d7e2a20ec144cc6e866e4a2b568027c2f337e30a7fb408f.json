@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/1899e5adb5ae95610d7e2a20ec144cc6e866e4a2b568027c2f337e30a7fb408f.json",
+  "name": "Knowledge of Solution architecture at level 6",
+  "description": "Knowledge of the design and communication of high-level structures to enable and guide the design and development of integrated solutions that meet current and future business needs. In addition to technology components, solution architecture encompasses changes to service, process, organisation, and operating models. The provision of comprehensive guidance on the development of, and modifications to, solution components to ensure that they take account of relevant architectures, strategies, policies, standards and practices (including security) and that existing and planned solution components remain compatible.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ARCH_6_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0c13a02a06df28bd5a40bee5d9b2b20abf9ac977c17d6e671b064b394561db3e",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Leads the development of architectures for complex solutions, ensuring consistency with specified requirements agreed with both external, and internal customers. Takes full responsibility for the balance between functional, service quality and systems management requirements within a significant area of the organisation. Establishes policy and strategy for the selection of solution architecture components, and co-ordinates design activities, promoting the discipline to ensure consistency. Ensures that appropriate standards (corporate, industry, national and international) are adhered to. Within a business change programme, manages the target design, policies and standards, working proactively to maintain a stable, viable architecture and ensure consistency of design across projects within the programme."
+  },
+  "tags": [
+    "knowledge",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/e2ae2985dd3a4b66e645ed5d2203d7fff33a4c02c75e87ebfd87503a17b888f5",
+      "targetName": "Solution architecture",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/technical-strategy-and-planning/solution-architecture",
+      "targetDescription": "The design and communication of high-level structures to enable and guide the design and development of integrated solutions that meet current and future business needs. In addition to technology components, solution architecture encompasses changes to service, process, organisation, and operating models. The provision of comprehensive guidance on the development of, and modifications to, solution components to ensure that they take account of relevant architectures, strategies, policies, standards and practices (including security) and that existing and planned solution components remain compatible.",
+      "targetCode": "ARCH",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

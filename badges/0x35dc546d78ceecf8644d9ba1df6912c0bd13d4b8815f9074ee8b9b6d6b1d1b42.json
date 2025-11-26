@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x35dc546d78ceecf8644d9ba1df6912c0bd13d4b8815f9074ee8b9b6d6b1d1b42.json",
+  "name": "Proficiency in Security administration at level 3",
+  "description": "Proficiency in the provision of operational security management and administrative services. Typically includes the authorisation and monitoring of access to IT facilities or infrastructure, the investigation of unauthorised access and compliance with relevant legislation.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SCAD_3_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xac5079cbe4d3868c1535aa075a27b138458ddfd89ec1f4edec02eac7623de7e7",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Investigates minor security breaches in accordance with established procedures. Assists users in defining their access rights and privileges. Performs non-standard security administration tasks and resolves security administration issues.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level3"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/58f381b95f46f078fda33429f1dce7e2e2eb331f60f40ee8b55eb7cdd49a8abe",
+      "targetName": "Security administration",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/security-administration",
+      "targetDescription": "The provision of operational security management and administrative services. Typically includes the authorisation and monitoring of access to IT facilities or infrastructure, the investigation of unauthorised access and compliance with relevant legislation.",
+      "targetCode": "SCAD",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

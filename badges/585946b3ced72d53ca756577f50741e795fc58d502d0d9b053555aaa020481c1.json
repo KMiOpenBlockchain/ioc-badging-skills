@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/585946b3ced72d53ca756577f50741e795fc58d502d0d9b053555aaa020481c1.json",
+  "name": "Knowledge of Animation development at level 3",
+  "description": "Knowledge of the architecture, design and development of animated and interactive systems such as games and simulations.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ADEV_3_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/990128d7d22e1ecfe62b4b1409e4fbc3b2b81c45a4ca24943368cb404667bbe2",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Uses design tools (such as wireframes) to evolve prototypes of web pages. Using complex visual design tools, employs organic modelling techniques, such as boned rigs to create and animate virtual characters within the context of a game (or similar system) design. Builds visual and audio components."
+  },
+  "tags": [
+    "knowledge",
+    "level3"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/58deac27f26c4db513843f8a4bebcc88375c0f46da255459c6d24a9353fbf780",
+      "targetName": "Animation development",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/systems-development/animation-development",
+      "targetDescription": "The architecture, design and development of animated and interactive systems such as games and simulations.",
+      "targetCode": "ADEV",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

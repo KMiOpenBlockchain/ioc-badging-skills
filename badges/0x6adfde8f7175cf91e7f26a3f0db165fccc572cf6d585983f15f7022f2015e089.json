@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x6adfde8f7175cf91e7f26a3f0db165fccc572cf6d585983f15f7022f2015e089.json",
+  "name": "Proficiency in Configuration management at level 5",
+  "description": "Proficiency in the planning, management, control and governance of organisational, project and service assets and artefacts. The identification, classification and specification of configuration items (CIs) and their inter-relationships. Identifying the configuration and version of source code, software, systems, documents and service dependent CIs at distinct points in time. Systematically controlling changes to the configuration and maintaining the integrity and traceability of the configuration throughout the project, system and/or service life cycle. Identifying and documenting the functional and physical characteristics of CIs, controlling changes to those characteristics, recording and reporting change processing and implementation status. Verifying and auditing CIs for data quality and compliance with specified internal and external requirements.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/CFMG_5_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x39b71b5cdf0024a4e4adaf614d75fb097cbc6558d9810545f7b031cfaf0dc7a4",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Agrees scope of configuration management processes and the configuration items (CIs) and related information to be controlled. Identifies, evaluates and manages the adoption of appropriate tools, techniques and processes (including automation) for configuration management to ensure information is complete, current and accurate. Plans the capture and management of CIs and related information. Contributes to development of configuration management strategies, policies, standards, and guidelines.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/c9d43a6760e0e8d131e0cca0701f4813bbc7a1025bc6d85619862f176d71c446",
+      "targetName": "Configuration management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-transition/configuration-management",
+      "targetDescription": "The planning, management, control and governance of organisational, project and service assets and artefacts. The identification, classification and specification of configuration items (CIs) and their inter-relationships. Identifying the configuration and version of source code, software, systems, documents and service dependent CIs at distinct points in time. Systematically controlling changes to the configuration and maintaining the integrity and traceability of the configuration throughout the project, system and/or service life cycle. Identifying and documenting the functional and physical characteristics of CIs, controlling changes to those characteristics, recording and reporting change processing and implementation status. Verifying and auditing CIs for data quality and compliance with specified internal and external requirements.",
+      "targetCode": "CFMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

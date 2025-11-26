@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/9cb292130fe2fb656b4884ca796a410d46e4ce03ad4855b23eb2e9a963b96783.json",
+  "name": "Knowledge of User research at level 6",
+  "description": "Knowledge of the identification of users' behaviours, needs and motivations through ethnography, observation techniques, task analysis, and other methodologies that incorporate both the social and technological context. Taking an approach that incorporates significant involvement of users in research to generate deep understanding and uncover new opportunities for systems, products and services. The quantification of different user populations and their needs, identifying target users and segments in order to maximise the chances of design success for systems, products and services. The inclusion of a range of users in research activities to capture the diversity of users of the organisation's systems, products and services and the imperative to make these usable and accessible for everyone.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/URCH_6_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/2b20222cabb158a25ac312732076a1881e540270b0641e7e1c0b0297b686fbaf",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Champions user-centred design and secures organisational commitment to the significant involvement of users in research to achieve a deep understanding of their current and future needs. Develops organisational policies, standards, and guidelines to ensure research continually informs the development of systems, interactions, products and services to optimise utility and usability for users and enable them to achieve their required outcomes. Develops or sources organisational resources and capabilities to facilitate adoption and exploitation of user research, including specialist user-centred facilities and user communities. Collaborates with internal and external partners to facilitate effective user research."
+  },
+  "tags": [
+    "knowledge",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/997f5a1d6f5d24ee7750c49736191bbf92fdd558dffd3868e47ede52f9b7b2d2",
+      "targetName": "User research",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/human-factors/user-research",
+      "targetDescription": "The identification of users' behaviours, needs and motivations through ethnography, observation techniques, task analysis, and other methodologies that incorporate both the social and technological context. Taking an approach that incorporates significant involvement of users in research to generate deep understanding and uncover new opportunities for systems, products and services. The quantification of different user populations and their needs, identifying target users and segments in order to maximise the chances of design success for systems, products and services. The inclusion of a range of users in research activities to capture the diversity of users of the organisation's systems, products and services and the imperative to make these usable and accessible for everyone.",
+      "targetCode": "URCH",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

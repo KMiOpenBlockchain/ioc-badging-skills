@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/c2ebee7a6cb144bf27c9569c90b741bc763e50fcf0a4da881761371f64b16e07.json",
+  "name": "Knowledge of User experience analysis at level 4",
+  "description": "Knowledge of the identification, analysis, clarification and communication of the context of use in which applications will operate, and of the goals of products, systems or services. Analysis and prioritisation of stakeholders' user experience needs and definition of required system, product or service attributes, behaviour and performance. The definition and management of user experience and user accessibility requirements for all potential users.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/UNAN_4_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/25af2225cb5bd31639cab30307871284a547bed9bef5afaf37af791a0cda3564",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Identifies and describes the user objectives for systems, products and services. Identifies the roles of affected stakeholder groups. Defines the required behaviour and performance of the system, product or service in terms of the total user experience, resolving potential conflicts between differing user requirements. Specifies measurable criteria for the required usability and accessibility of the system, products and services."
+  },
+  "tags": [
+    "knowledge",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/bc92abaa9e533849b909656247210991ef8ce6cff62f1ba4175e425ccbe5d9b5",
+      "targetName": "User experience analysis",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/human-factors/user-experience-analysis",
+      "targetDescription": "The identification, analysis, clarification and communication of the context of use in which applications will operate, and of the goals of products, systems or services. Analysis and prioritisation of stakeholders' user experience needs and definition of required system, product or service attributes, behaviour and performance. The definition and management of user experience and user accessibility requirements for all potential users.",
+      "targetCode": "UNAN",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

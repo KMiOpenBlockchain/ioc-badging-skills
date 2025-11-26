@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/5b6dc389fd87aac8b20f0a294fd9524b0f16f3a1ff373bbf7a78fb9a92b1ead2.json",
+  "name": "Knowledge of Database administration at level 2",
+  "description": "Knowledge of the installation, configuration, upgrade, administration, monitoring and maintenance of databases. Providing support for operational databases in production use and for internal or interim purposes such as iterative developments and testing. Improving the performance of databases and the tools and processes for database administration (including automation).",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/DBAD_2_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/216fff20ae3b693bfd5247edb9cba7479e4ded2b4c125f3c8171a14ad45349f4",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Assists in database support activities."
+  },
+  "tags": [
+    "knowledge",
+    "level2"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/d9770fcb7ca8efa8db5ddbe036a5aba1da9641862df2cbbe9caf969867e532c0",
+      "targetName": "Database administration",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/database-administration",
+      "targetDescription": "The installation, configuration, upgrade, administration, monitoring and maintenance of databases. Providing support for operational databases in production use and for internal or interim purposes such as iterative developments and testing. Improving the performance of databases and the tools and processes for database administration (including automation).",
+      "targetCode": "DBAD",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

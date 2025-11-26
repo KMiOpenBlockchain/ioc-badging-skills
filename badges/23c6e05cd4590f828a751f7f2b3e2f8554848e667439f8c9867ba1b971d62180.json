@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/23c6e05cd4590f828a751f7f2b3e2f8554848e667439f8c9867ba1b971d62180.json",
+  "name": "Knowledge of Information governance at level 4",
+  "description": "Knowledge of the overall governance of how all types of information, structured and unstructured, whether produced internally or externally, are used to support decision-making, business processes and digital services. Encompasses development and promotion of the strategy and policies covering the design of information structures and taxonomies, the setting of policies for the sourcing and maintenance of the data content, and the development of policies, procedures, working practices and training to promote compliance with legislation regulating all aspects of holding, use and disclosure of data.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/IRMG_4_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/c466536f5af6858019286b181a14dae8ca56ae32ccaf37b575199ef85f894e82",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Ensures implementation of information and records management policies and standard practice. Ensures effective controls are in place for internal delegation, audit and control relating to information and records management. Assesses and manages risks around the use of information. Provides reports on the consolidated status of information controls to inform effective decision making. Recommends remediation actions as required. Ensures that information is presented effectively."
+  },
+  "tags": [
+    "knowledge",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/98cff68585bf5ec4a5dc5a53ffa69cb99f2b153298910fdd42c3e452d02bc9fd",
+      "targetName": "Information governance",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/information-strategy/information-management",
+      "targetDescription": "The overall governance of how all types of information, structured and unstructured, whether produced internally or externally, are used to support decision-making, business processes and digital services. Encompasses development and promotion of the strategy and policies covering the design of information structures and taxonomies, the setting of policies for the sourcing and maintenance of the data content, and the development of policies, procedures, working practices and training to promote compliance with legislation regulating all aspects of holding, use and disclosure of data.",
+      "targetCode": "IRMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

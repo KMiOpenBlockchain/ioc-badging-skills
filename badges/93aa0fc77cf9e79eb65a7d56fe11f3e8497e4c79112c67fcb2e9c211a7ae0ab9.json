@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/93aa0fc77cf9e79eb65a7d56fe11f3e8497e4c79112c67fcb2e9c211a7ae0ab9.json",
+  "name": "Competence in User experience evaluation at level 6",
+  "description": "Competence in validation of systems, products or services, to assure that the stakeholder and organisational requirements have been met, required practice has been followed, and systems in use continue to meet organisational and user needs. Iterative assessment (from early prototypes to final live implementation) of effectiveness, efficiency, user satisfaction, health and safety, and accessibility to measure or improve the usability of new or existing processes, with the intention of achieving optimum levels of product or service usability.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/USEV_6_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/5930fb3348c2ab29e4fa766777736ae078936672fbe6c88a15937bf5d61115b1",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Champions high standards in all aspects of the interaction between users and the organisation's systems, products and services including involvement of users in evaluation activities. Specifies standards and methods to achieve organisational objectives for usability and accessibility and to ensure that this is addressed in future design. Develops or sources organisational resources and capabilities to conduct effective user experience evaluation including specialist user-centred facilities, communities of users. Collaborates with internal and external partners to facilitate effective evaluation of systems, products and services."
+  },
+  "tags": [
+    "Competence",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/2bf7669f204df4e118a92a3a74a54b757c9689cf0a9e37a209ae20507f92ac33",
+      "targetName": "User experience evaluation",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/human-factors/user-experience-evaluation",
+      "targetDescription": "Validation of systems, products or services, to assure that the stakeholder and organisational requirements have been met, required practice has been followed, and systems in use continue to meet organisational and user needs. Iterative assessment (from early prototypes to final live implementation) of effectiveness, efficiency, user satisfaction, health and safety, and accessibility to measure or improve the usability of new or existing processes, with the intention of achieving optimum levels of product or service usability.",
+      "targetCode": "USEV",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

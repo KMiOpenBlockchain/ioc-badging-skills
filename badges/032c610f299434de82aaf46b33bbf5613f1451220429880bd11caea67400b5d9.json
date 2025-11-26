@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/032c610f299434de82aaf46b33bbf5613f1451220429880bd11caea67400b5d9.json",
+  "name": "Competence in Service level management at level 7",
+  "description": "Competence in the planning, implementation, control, review and audit of service provision, to meet customer business requirements. This includes negotiation, implementation and monitoring of service level agreements, and the ongoing management of operational facilities to provide the agreed levels of service, seeking continually and proactively to improve service delivery and sustainability targets.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SLMO_7_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/597bdb470a22e955b417be76b3f3c6f91e91262ed777b096b8d2561fb794368b",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Sets strategies for service delivery that support the strategic needs of the client organisation. Authorises allocation of resources for monitoring service delivery arrangements. Provides leadership within the industry on the identification of future trends (for example, technical, market, industrial, socioeconomic, legislative). Develops relationships with customers at the highest level to identify potential areas of mutual commercial interest for future development, maintains an overview of the contribution of service delivery arrangements to organisational success."
+  },
+  "tags": [
+    "Competence",
+    "level7"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/45231e7b5791a675c63c9c97e8a4ab1fd6a14d10dcddc63491c2333782ef0220",
+      "targetName": "Service level management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-design/service-level-management",
+      "targetDescription": "The planning, implementation, control, review and audit of service provision, to meet customer business requirements. This includes negotiation, implementation and monitoring of service level agreements, and the ongoing management of operational facilities to provide the agreed levels of service, seeking continually and proactively to improve service delivery and sustainability targets.",
+      "targetCode": "SLMO",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

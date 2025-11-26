@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/3a591a29f52d277d5f9f6eabd6be63d9763ca004313e7181b564b4799e520d55.json",
+  "name": "Competence in User research at level 4",
+  "description": "Competence in the identification of users' behaviours, needs and motivations through ethnography, observation techniques, task analysis, and other methodologies that incorporate both the social and technological context. Taking an approach that incorporates significant involvement of users in research to generate deep understanding and uncover new opportunities for systems, products and services. The quantification of different user populations and their needs, identifying target users and segments in order to maximise the chances of design success for systems, products and services. The inclusion of a range of users in research activities to capture the diversity of users of the organisation's systems, products and services and the imperative to make these usable and accessible for everyone.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/URCH_4_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0b78ea0038c6264b7bf50ba66d579fd8152457c4d67bb10a1a996d4396e82f0c",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Executes generative research in order to find opportunities for innovation in, and enhancement of, systems, products and services. Collects and analyses data related to people's behaviours, needs, and opinions. Supports synthesis of findings and the creation of insights, reports and presentations to inform decision making and drive actions. Contributes to selection of the user research approaches for projects and initiatives and plans own user research activities. Supports adoption of agreed approaches. Contributes to the development of organisational methods and standards for user research. Facilitates input from users and stakeholders. Provides constructive challenge and enables effective prioritisation of requirements."
+  },
+  "tags": [
+    "Competence",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/997f5a1d6f5d24ee7750c49736191bbf92fdd558dffd3868e47ede52f9b7b2d2",
+      "targetName": "User research",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/human-factors/user-research",
+      "targetDescription": "The identification of users' behaviours, needs and motivations through ethnography, observation techniques, task analysis, and other methodologies that incorporate both the social and technological context. Taking an approach that incorporates significant involvement of users in research to generate deep understanding and uncover new opportunities for systems, products and services. The quantification of different user populations and their needs, identifying target users and segments in order to maximise the chances of design success for systems, products and services. The inclusion of a range of users in research activities to capture the diversity of users of the organisation's systems, products and services and the imperative to make these usable and accessible for everyone.",
+      "targetCode": "URCH",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

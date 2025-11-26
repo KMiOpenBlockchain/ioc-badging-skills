@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x74935dd6bf6c829b396c562c57ad0146e625c1ca3a4b30854b242eff2bffcdef.json",
+  "name": "Proficiency in Consultancy at level 5",
+  "description": "Proficiency in the provision of advice and recommendations, based on expertise and experience, to address client needs. May deal with one specialist subject area, or can be wide ranging and address strategic business issues. May also include support for the implementation of any agreed solutions.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/CNSL_5_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x72c90d6b7fd1dae33525e3bbb5f5338523991e15e1dd99b5884e76a461e6db7a",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Takes responsibility for understanding client requirements, collecting data, delivering analysis and problem resolution. Identifies, evaluates and recommends options, implementing if required. Collaborates with, and facilitates stakeholder groups, as part of formal or informal consultancy agreements. Seeks to fully address client needs, enhancing the capabilities and effectiveness of client personnel, by ensuring that proposed solutions are properly understood and appropriately exploited.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/c71f0b30bf039809e25b95e8abb50d93e853dff124664d684310e09d90203b1f",
+      "targetName": "Consultancy",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/advice-and-guidance/consultancy",
+      "targetDescription": "The provision of advice and recommendations, based on expertise and experience, to address client needs. May deal with one specialist subject area, or can be wide ranging and address strategic business issues. May also include support for the implementation of any agreed solutions.",
+      "targetCode": "CNSL",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

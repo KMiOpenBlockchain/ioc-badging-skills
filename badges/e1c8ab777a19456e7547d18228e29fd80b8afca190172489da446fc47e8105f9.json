@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/e1c8ab777a19456e7547d18228e29fd80b8afca190172489da446fc47e8105f9.json",
+  "name": "Competence in Incident management at level 2",
+  "description": "Competence in the processing and coordination of appropriate and timely responses to incident reports, including channelling requests for help to appropriate functions for resolution, monitoring resolution activity, and keeping clients appraised of progress towards service restoration.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/USUP_2_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/07e1318d2ab9f5c814437e8bdfa6f49cf537bc4c680540293c2f49d34a1cc15e",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Following agreed procedures, identifies, registers and categorises incidents. Gathers information to enable incident resolution and promptly allocates incidents as appropriate."
+  },
+  "tags": [
+    "Competence",
+    "level2"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/e52a0e628cc0c980a6c4fed56c9880e79e794c0a52a3ac4d1f57dcc01a1a6e88",
+      "targetName": "Incident management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/service-desk-and-incident-management",
+      "targetDescription": "The processing and coordination of appropriate and timely responses to incident reports, including channelling requests for help to appropriate functions for resolution, monitoring resolution activity, and keeping clients appraised of progress towards service restoration.",
+      "targetCode": "USUP",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

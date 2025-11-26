@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/88c6cadd28cacedf8bd8155f0650702b45aec843f292630e1aaec87833f3540f.json",
+  "name": "Competence in Porting/software configuration at level 5",
+  "description": "Competence in the configuration of software products into new or existing software environments/platforms.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PORT_5_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/1055fd75680198f28ca91560aac4ae40b478935e06a9ba286b133ca89ed5e3f6",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Leads a team, providing expert technical knowledge in the systems testing of platform-specific versions of the software products, on varying platforms. Provides specialist guidance information to support, systems testing and quality assurance functions to assist in improving procedures."
+  },
+  "tags": [
+    "Competence",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/a132f542bce4053f49f1bfbaad8561df669783ed469e328b74f6c3e440ce1d68",
+      "targetName": "Porting/software configuration",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/installation-and-integration/porting-software-integration",
+      "targetDescription": "The configuration of software products into new or existing software environments/platforms.",
+      "targetCode": "PORT",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

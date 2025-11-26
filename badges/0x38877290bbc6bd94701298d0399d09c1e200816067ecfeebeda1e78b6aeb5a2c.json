@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x38877290bbc6bd94701298d0399d09c1e200816067ecfeebeda1e78b6aeb5a2c.json",
+  "name": "Proficiency in IT management at level 5",
+  "description": "Proficiency in the management of the IT infrastructure and resources required to plan for, develop, deliver and support IT services and products to meet the needs of a business. The preparation for new or changed services, management of the change process and the maintenance of regulatory, legal and professional standards. The management of performance of systems and services in terms of their contribution to business performance and their financial costs and sustainability. The management of bought-in services. The development of continual service improvement plans to ensure the IT infrastructure adequately supports business needs.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ITMG_5_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x387849575e2c0322908e0c1d9c0ea5bd3dfc4598a8b86fc07fb4f34e4c11883a",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Takes responsibility for the design, procurement, installation, upgrading, operation, control, maintenance (including storage, modification and communication of data, voice, text, audio and images) and effective use of IT infrastructure components and monitors their performance. Provides technical management of an IT operation, ensuring that agreed service levels are met and all relevant policies and procedures are adhered to. Schedules and supervises all IT maintenance and installation work. Ensures that operational problems are identified, recorded, monitored and resolved. Provides appropriate status and other reports to specialists, users and managers. Ensures that operational procedures and working practices are fit for purpose and current. Investigates and manages the adoption of appropriate tools, techniques and processes (including automation) for the management of systems and services.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/46318f6f32a98ce6284a6c7849f180d408d3aae5acfe6c2e3cec5ec0a018d9b1",
+      "targetName": "IT management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/it-management",
+      "targetDescription": "The management of the IT infrastructure and resources required to plan for, develop, deliver and support IT services and products to meet the needs of a business. The preparation for new or changed services, management of the change process and the maintenance of regulatory, legal and professional standards. The management of performance of systems and services in terms of their contribution to business performance and their financial costs and sustainability. The management of bought-in services. The development of continual service improvement plans to ensure the IT infrastructure adequately supports business needs.",
+      "targetCode": "ITMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

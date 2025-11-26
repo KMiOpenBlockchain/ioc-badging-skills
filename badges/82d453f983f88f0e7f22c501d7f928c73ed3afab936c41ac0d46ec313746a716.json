@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/82d453f983f88f0e7f22c501d7f928c73ed3afab936c41ac0d46ec313746a716.json",
+  "name": "Knowledge of Measurement at level 4",
+  "description": "Knowledge of the development and operation of a measurement capability to support agreed organisational information needs. The planning, implementation, and control of activities to measure attributes of processes, products, and services in order to assess performance, progress, and provide indications and insights to actual or potential problems, issues, and risks. The identification of requirements, selecting measures and measurement scales, establishing data collection and analysis methods, setting target values and thresholds. Measurement can be applied to organizations, projects, processes, and work products.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/MEAS_4_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/5d07ab36929ebc042da2fd56b7b1d26539f87e19545e0cfacca86cc1dc24e2a9",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Supports projects, functions or teams in the development of project and/or operational methods for measurement. Specifies base and derived measures which support agreed information needs. Identifies and prioritises appropriate measures, scales, and targets. Specifies how to collect and store the data for each required measure. Provides guidance on collection of data including automation. Designs reports and reporting formats."
+  },
+  "tags": [
+    "knowledge",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/796cb975dccb42e5a05cb50b92c29e86add4b12eab1330fd5a63ab384b875c7b",
+      "targetName": "Measurement",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/quality-and-conformance/measurement",
+      "targetDescription": "The development and operation of a measurement capability to support agreed organisational information needs. The planning, implementation, and control of activities to measure attributes of processes, products, and services in order to assess performance, progress, and provide indications and insights to actual or potential problems, issues, and risks. The identification of requirements, selecting measures and measurement scales, establishing data collection and analysis methods, setting target values and thresholds. Measurement can be applied to organizations, projects, processes, and work products.",
+      "targetCode": "MEAS",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

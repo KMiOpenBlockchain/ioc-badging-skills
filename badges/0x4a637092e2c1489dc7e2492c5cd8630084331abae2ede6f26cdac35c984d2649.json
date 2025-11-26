@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x4a637092e2c1489dc7e2492c5cd8630084331abae2ede6f26cdac35c984d2649.json",
+  "name": "Proficiency in Strategic planning at level 5",
+  "description": "Proficiency in the creation, iteration and maintenance of a strategy in order to align organisational actions, plans and resources with business objectives and the development of plans to drive forward and execute that strategy. Working with stakeholders to communicate and embed strategic management via objectives, accountabilities and monitoring of progress.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ITSP_5_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x00bc8618ed4b8d01b656dafdeeafcc4346e9e7916a240809e0bda0d2473c95dd",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Ensures that all stakeholders adhere to the strategic management approach and timetables. Collates information and creates reports and insights to support strategy management processes. Develops and communicates plans to drive forward the strategy. Contributes to the development of policies, standards and guidelines for strategy development and planning.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/9acf58e36e404d0885ad6562c3c42d786c37e373d66ee33ed1d8bc9bffd022e1",
+      "targetName": "Strategic planning",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/information-strategy/it-strategy-and-planning",
+      "targetDescription": "The creation, iteration and maintenance of a strategy in order to align organisational actions, plans and resources with business objectives and the development of plans to drive forward and execute that strategy. Working with stakeholders to communicate and embed strategic management via objectives, accountabilities and monitoring of progress.",
+      "targetCode": "ITSP",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

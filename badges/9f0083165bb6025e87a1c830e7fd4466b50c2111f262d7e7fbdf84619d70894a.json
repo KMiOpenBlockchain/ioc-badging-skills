@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/9f0083165bb6025e87a1c830e7fd4466b50c2111f262d7e7fbdf84619d70894a.json",
+  "name": "Knowledge of Demand management at level 5",
+  "description": "Knowledge of the analysis and proactive management of business demand for new services or modifications to existing service features or volumes. Collaborating with the business to prioritise demand in order to improve business value. Developing and communicating insights into patterns of demand. Proposing responses to meet both short-term and long-term demand and facilitating decision making and planning. Integrating demand analysis and planning with complementary strategic, operational and change planning processes.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/DEMM_5_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/5c3d6daa8ac6069ccebcd9292e333fcd39b57a037d61eceb852438f2dbee1461",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Implements demand management analysis and planning activities. Provides advice to help stakeholders adopt and adhere to the agreed demand management approach. Performs what-if analyses and scenario planning; develops insights and proposals to improve business value. Manages the process of integrating demand management with complementary strategic, operational and change management processes. Reviews new business proposals; provides advice on demand issues and routes requests to the right place. Works with business representatives to agree and implement short-term and medium-term modifications to demand. Maintains a register of business requests, including the status of each request, reporting as required."
+  },
+  "tags": [
+    "knowledge",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/5f2c6fce206b91c7ccfd44efb0a2d9d72d6e9dac3e9e895a75c374026b54bf97",
+      "targetName": "Demand management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/new-demand-management",
+      "targetDescription": "The analysis and proactive management of business demand for new services or modifications to existing service features or volumes. Collaborating with the business to prioritise demand in order to improve business value. Developing and communicating insights into patterns of demand. Proposing responses to meet both short-term and long-term demand and facilitating decision making and planning. Integrating demand analysis and planning with complementary strategic, operational and change planning processes.",
+      "targetCode": "DEMM",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

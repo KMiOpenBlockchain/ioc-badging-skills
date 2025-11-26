@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/fb06e891f76f1d73c0bf7137a4012249a0d1a85b29dcbffea43c5b42a7b6e19e.json",
+  "name": "Knowledge of Change implementation planning and management at level 5",
+  "description": "Knowledge of the definition and management of the process for deploying and integrating new digital capabilities into the business in a way that is sensitive to and fully compatible with business operations.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/CIPM_5_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/58437ad48b07867e24217d07241199e3c1fe96da7030bc8a266a5d92b6235344",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Creates the business readiness plan, taking into consideration IT deployment, data migration, capability deployment (training and engagement activities) and any business activities required to integrate new digital processes or jobs into the \"\"business as usual\"\" environment. Determines the readiness levels of business users with regard to upcoming changes; uncovers readiness gaps and creates and implements action plans to close the gaps prior to going live. Assists the user community in the provision of transition support and change planning, and liaises with the project team. Monitors and reports progress on business readiness targets, business engagement activity, training design and deployment activities, key operational metrics and return to productivity measures. Defines the series and sequence of activities to bring stakeholders to the required level of commitment, prior to going live."
+  },
+  "tags": [
+    "knowledge",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/9b1516d0820aed19aec1a8e1bb478066a67a1de8eb92cd6a347f1dea2d5dfe0c",
+      "targetName": "Change implementation planning and management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-management/change-implementation-planning-and-management",
+      "targetDescription": "The definition and management of the process for deploying and integrating new digital capabilities into the business in a way that is sensitive to and fully compatible with business operations.",
+      "targetCode": "CIPM",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

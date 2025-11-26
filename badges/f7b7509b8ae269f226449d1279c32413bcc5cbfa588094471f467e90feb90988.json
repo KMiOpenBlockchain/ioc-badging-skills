@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/f7b7509b8ae269f226449d1279c32413bcc5cbfa588094471f467e90feb90988.json",
+  "name": "Competence in Systems integration and build at level 2",
+  "description": "Competence in the planning, implementation and control of activities to integrate/build components, subsystems and interfaces to create operational systems, products or services for delivery to customers, or for internal or interim purposes such as testing. The development of organisational capabilities for systems integration and build including automation and continuous integration.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SINT_2_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/95d4df94a4fabab8b0cc4c5bd121a68a65b5d43d7cedd45b01e6a0967de745b1",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Produces software builds from software source code. Conducts tests as defined in an integration test specification, records the details of any failures. Analyses and reports on integration test activities and results. Identifies and reports issues and risks."
+  },
+  "tags": [
+    "Competence",
+    "level2"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/481f76c4a4105d0df6d4012c8918bd781493a0b3a1bdd9e70014bd1056e8d393",
+      "targetName": "Systems integration and build",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/installation-and-integration/systems-integration",
+      "targetDescription": "The planning, implementation and control of activities to integrate/build components, subsystems and interfaces to create operational systems, products or services for delivery to customers, or for internal or interim purposes such as testing. The development of organisational capabilities for systems integration and build including automation and continuous integration.",
+      "targetCode": "SINT",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

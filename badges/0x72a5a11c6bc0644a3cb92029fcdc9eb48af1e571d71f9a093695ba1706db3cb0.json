@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x72a5a11c6bc0644a3cb92029fcdc9eb48af1e571d71f9a093695ba1706db3cb0.json",
+  "name": "Proficiency in Relationship management at level 6",
+  "description": "Proficiency in the systematic identification, analysis, management, monitoring and improvement of stakeholder relationships in order to target and improve mutually beneficial outcomes. Gains commitment to action through consultation and consideration of impacts. Design the relationship management approach to be taken; including roles and responsibilities, governance, policies, processes, and tools, and support mechanisms. Creatively combines formal and informal communication channels in order to achieve the desired result.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/RLMT_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xeff8b826b303603455f483b2b1a30c7430d0f167afc03fff47206e60c7e699ff",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Leads the development of comprehensive stakeholder management strategies and plans. Builds long-term, strategic relationships with senior stakeholders (internal and external). Facilitates the engagement of stakeholders and delivery of services and change projects, acting as a single point of contact for senior stakeholders, facilitating relationships between them. Negotiates to ensure that stakeholders understand and agree what will meet their needs, and that appropriate agreements are defined. Oversees monitoring of relationships including lessons learned and appropriate feedback. Leads actions to improve relations and open communications with and between stakeholders.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/cfa64a25e8a30e9f3ded77c14adb99f9102538413e549b232b88ac20c7475556",
+      "targetName": "Relationship management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/relationship-management/stakeholder-relationship-management",
+      "targetDescription": "The systematic identification, analysis, management, monitoring and improvement of stakeholder relationships in order to target and improve mutually beneficial outcomes. Gains commitment to action through consultation and consideration of impacts. Design the relationship management approach to be taken; including roles and responsibilities, governance, policies, processes, and tools, and support mechanisms. Creatively combines formal and informal communication channels in order to achieve the desired result.",
+      "targetCode": "RLMT",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

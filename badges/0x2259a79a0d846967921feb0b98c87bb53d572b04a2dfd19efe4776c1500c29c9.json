@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x2259a79a0d846967921feb0b98c87bb53d572b04a2dfd19efe4776c1500c29c9.json",
+  "name": "Proficiency in Information content authoring at level 1",
+  "description": "Proficiency in the application of the principles and practices of authoring, designing, controlling, and presenting textual information (supported where necessary by graphical content) to meet the requirements of intended audience(s). This information may be delivered via digital, print, or other medium. Management of the authoring process and the interaction with editorial and publication processes.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/INCA_1_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x7e415eb4763c91323d25116cc4b92463ac6ad652e5f6f87536037ea05e2fbeaf",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Contributes, under instruction, to the generation of content, and to configuration of content items and files. Executes pre-planned testing activities under supervision, recording findings.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level1"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/78d6157592fde7461eeef3aac1be83727231d3f8b4ac203e459a566be81b459c",
+      "targetName": "Information content authoring",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/systems-development/information-content-authoring",
+      "targetDescription": "The application of the principles and practices of authoring, designing, controlling, and presenting textual information (supported where necessary by graphical content) to meet the requirements of intended audience(s). This information may be delivered via digital, print, or other medium. Management of the authoring process and the interaction with editorial and publication processes.",
+      "targetCode": "INCA",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/ae7aa9a2f765b589f0b9d0f0c6e0fc505fa1fa0e3a9559dfb795da1c31ac44a0.json",
+  "name": "Knowledge of Innovation at level 6",
+  "description": "Knowledge of the capability to identify, prioritise, incubate and exploit opportunities provided by information, communication and digital technologies. To develop and implement processes, tools and infrastructures to support innovation. To involve internal and external communities, employees, commercial partners, customers, users and other stakeholders in the innovation process. To provide governance, monitoring to, and reporting on, the innovation process.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/INOV_6_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/cdf46c0137bed8e4cbbc9ec53198e6893bf20e5c193c7fa262bf1a8db7def354",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Obtains organisational commitment to innovation. Develops organisational capabilities to drive innovation. Leads and plans the development of innovation capabilities and implementation of innovation processes, tools and frameworks. Leads the communication and an open flow of creative ideas between interested parties and the set-up of innovation networks and communities."
+  },
+  "tags": [
+    "knowledge",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/112074749892f59fe006e4911eb3c570b689dbc40fd4b2114574cb44d9de38c2",
+      "targetName": "Innovation",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/innovation",
+      "targetDescription": "The capability to identify, prioritise, incubate and exploit opportunities provided by information, communication and digital technologies. To develop and implement processes, tools and infrastructures to support innovation. To involve internal and external communities, employees, commercial partners, customers, users and other stakeholders in the innovation process. To provide governance, monitoring to, and reporting on, the innovation process.",
+      "targetCode": "INOV",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

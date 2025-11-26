@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/87a6f62bd7d99d335d6b8c15797ac259ff34f4187f3ab11bedab3117904d455c.json",
+  "name": "Knowledge of Programme management at level 6",
+  "description": "Knowledge of the identification, planning and coordination of a set of related projects within a programme of business change, to manage their interdependencies in support of specific business strategies and objectives. The maintenance of a strategic view over the set of projects, providing the framework for implementing business initiatives, or large-scale change, by conceiving, maintaining and communicating a vision of the outcome of the programme and associated benefits. (The vision, and the means of achieving it, may change as the programme progresses). Agreement of business requirements, and translation of requirements into operational plans. Determination, monitoring, and review of programme scope, costs, and schedule, programme resources, inter-dependencies and programme risk.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PGMG_6_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/b4e2aceb7bf6a177e97549a7ab8eb71d8a9a05a89364f312779cabde4847cd0e",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Plans, directs, and co-ordinates activities to manage and implement a programme from contract /proposal initiation to final operational stage including the transition into �business-as-usual�; plans, schedules, monitors, and reports on activities related to the programme. Ensures that programmes are managed to realise business benefits and that programme management is informed by an awareness of current technical developments."
+  },
+  "tags": [
+    "knowledge",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/fef9db4d0a7f7c24ccdd6450a6d421bb89cc88e6e152206454d080adefb5b4e8",
+      "targetName": "Programme management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-implementation/programme-management",
+      "targetDescription": "The identification, planning and coordination of a set of related projects within a programme of business change, to manage their interdependencies in support of specific business strategies and objectives. The maintenance of a strategic view over the set of projects, providing the framework for implementing business initiatives, or large-scale change, by conceiving, maintaining and communicating a vision of the outcome of the programme and associated benefits. (The vision, and the means of achieving it, may change as the programme progresses). Agreement of business requirements, and translation of requirements into operational plans. Determination, monitoring, and review of programme scope, costs, and schedule, programme resources, inter-dependencies and programme risk.",
+      "targetCode": "PGMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

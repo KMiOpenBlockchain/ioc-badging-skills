@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xcd330ebdc6a45b91c21d976cd59a9ff0d76a2bc4be73b348be411f8185d0d7e7.json",
+  "name": "Proficiency in Sourcing at level 6",
+  "description": "Proficiency in the provision of policy, internal standards and advice on the procurement or commissioning of externally supplied and internally developed products and services. The provision of commercial governance, conformance to legislation and assurance of information security. The implementation of compliant procurement processes, taking full account of the issues and imperatives of both the commissioning and supplier sides. The identification and management of suppliers to ensure successful delivery of products and services required by the business.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SORC_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xfd15e817d97fbebafd0844b47d41cb7b4eb933c5496544fcfccd76f59c53d6bb",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Influences policy and procedures covering the selection of suppliers, tendering, procurement and benchmarking. Establishes procurement strategies, standards, methods, processes and good practices that ensure compliance with legislation, regulation and third-party information security. Identifies external partners, engaging with professionals in other related disciplines as appropriate. Ensures that terms and conditions are aligned with current legislation and policy. Leads the procurement process, from clarifying requirements through to placing, monitoring and terminating contracts.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/19d49456848d018f999f0d3a05cc9f99cad2a01e59614bc90301b0f0688e8985",
+      "targetName": "Sourcing",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/relationship-management/sourcing",
+      "targetDescription": "The provision of policy, internal standards and advice on the procurement or commissioning of externally supplied and internally developed products and services. The provision of commercial governance, conformance to legislation and assurance of information security. The implementation of compliant procurement processes, taking full account of the issues and imperatives of both the commissioning and supplier sides. The identification and management of suppliers to ensure successful delivery of products and services required by the business.",
+      "targetCode": "SORC",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

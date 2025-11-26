@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/be2ed9dfa67669bd48f961fa0849768150ecf0e51073a925250bb5550f05f94c.json",
+  "name": "Knowledge of Network design at level 6",
+  "description": "Knowledge of the production of network designs and design policies, strategies, architectures and documentation, covering voice, data, text, e-mail, facsimile and image, to support strategy and business requirements for connectivity, capacity, interfacing, security, resilience, recovery, access and remote access. This may incorporate all aspects of the communications infrastructure, internal and external, mobile, public and private, Internet, Intranet and call centres.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/NTDS_6_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/93975b99b278eb46ce68e29cdfc227bda062260fd45ee64a2b71044b1312762e",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Takes responsibility for major aspects of network specification and design within the organisation. Produces network design policies, philosophies and criteria covering connectivity, capacity, interfacing, security, resilience, recovery, access and remote access."
+  },
+  "tags": [
+    "knowledge",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/03d97138ad2618175dbae4629eabe1059dfd0d5a05b79ed147e481e49e937090",
+      "targetName": "Network design",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/systems-development/network-design",
+      "targetDescription": "The production of network designs and design policies, strategies, architectures and documentation, covering voice, data, text, e-mail, facsimile and image, to support strategy and business requirements for connectivity, capacity, interfacing, security, resilience, recovery, access and remote access. This may incorporate all aspects of the communications infrastructure, internal and external, mobile, public and private, Internet, Intranet and call centres.",
+      "targetCode": "NTDS",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

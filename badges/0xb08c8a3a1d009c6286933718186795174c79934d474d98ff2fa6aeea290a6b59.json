@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xb08c8a3a1d009c6286933718186795174c79934d474d98ff2fa6aeea290a6b59.json",
+  "name": "Proficiency in Marketing at level 5",
+  "description": "Proficiency in the research, analysis and stimulation of potential or existing markets for IT and related products and services, both to provide a sound basis for business development and to generate a satisfactory flow of customer enquiries. The management and development of strategies, campaigns and day-to-day marketing activity delivered through appropriate channels",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/MKTG_5_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x4c683be0085ad8aba50f4edfdbe4025f0c97322684cf7ac983abae43261a1486",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Devises and manages marketing campaigns within specified budgets to meet specified objectives. Manages and monitors market research, analysis and the marketing planning process. Advises on brand management and promotion of corporate reputation, and plays an active role in promoting engagement of staff and business partners. Takes overall responsibility for the production of marketing materials and staging of events. Finds innovative solutions to marketing problems. Uses experience and data to make informed recommendations to senior management, including market segmentation and customer loyalty. Reviews and reports on the effectiveness of marketing approaches and services and their impact on business outcomes.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/7fcfd396e0e01ebb0e87c41ff1204fc07e9bf2cb9ebf1d695c6d376c48c5adc4",
+      "targetName": "Marketing",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/sales-and-marketing/marketing",
+      "targetDescription": "The research, analysis and stimulation of potential or existing markets for IT and related products and services, both to provide a sound basis for business development and to generate a satisfactory flow of customer enquiries. The management and development of strategies, campaigns and day-to-day marketing activity delivered through appropriate channels",
+      "targetCode": "MKTG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

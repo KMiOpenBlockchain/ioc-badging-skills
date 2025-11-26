@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/52834202932d586e464199272ea31c98029a1de896d7a1f86e40ac1505e0d351.json",
+  "name": "Knowledge of IT management at level 6",
+  "description": "Knowledge of the management of the IT infrastructure and resources required to plan for, develop, deliver and support IT services and products to meet the needs of a business. The preparation for new or changed services, management of the change process and the maintenance of regulatory, legal and professional standards. The management of performance of systems and services in terms of their contribution to business performance and their financial costs and sustainability. The management of bought-in services. The development of continual service improvement plans to ensure the IT infrastructure adequately supports business needs.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ITMG_6_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/75ae1508e707c0c999af8b5531090b6cea0e1f5e827539de972ca2fc7ac03131",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Identifies and manages resources needed for the planning, development and delivery of specified information and communications systems services (including storage, modification and communication of data, voice, text, audio and images). Engages with and influences senior level stakeholders and project teams through change management processes, ensuring that the infrastructure is managed to provide agreed levels of service and data integrity. Takes full responsibility for budgeting, estimating, planning and objective setting. Plans and manages implementation of processes and procedures, tools and techniques for monitoring and managing the performance of automated systems and services. Aligns the contribution of systems and services to clearly stated business and financial goals and performance targets. Monitors performance and takes corrective action where necessary and in line with policies. Develops new methods and organisational capabilities (including automation) for the management of systems and services."
+  },
+  "tags": [
+    "knowledge",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/46318f6f32a98ce6284a6c7849f180d408d3aae5acfe6c2e3cec5ec0a018d9b1",
+      "targetName": "IT management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/it-management",
+      "targetDescription": "The management of the IT infrastructure and resources required to plan for, develop, deliver and support IT services and products to meet the needs of a business. The preparation for new or changed services, management of the change process and the maintenance of regulatory, legal and professional standards. The management of performance of systems and services in terms of their contribution to business performance and their financial costs and sustainability. The management of bought-in services. The development of continual service improvement plans to ensure the IT infrastructure adequately supports business needs.",
+      "targetCode": "ITMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

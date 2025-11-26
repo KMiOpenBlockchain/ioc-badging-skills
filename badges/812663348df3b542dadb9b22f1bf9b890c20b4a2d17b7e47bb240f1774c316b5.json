@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/812663348df3b542dadb9b22f1bf9b890c20b4a2d17b7e47bb240f1774c316b5.json",
+  "name": "Knowledge of Product management at level 4",
+  "description": "Knowledge of the active management of products or services throughout their lifecycle (inception through to retirement) in order to address market opportunities and customer/user needs and generate the greatest possible value for the business. The adoption and adaptation of product development models based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PROD_4_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/685f0ad75d0490a261ee1ae3fcfd363a912d167aa5486425706e704429bf72f5",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Manages aspects of the product lifecycle enabling the product to meet the needs of customers/users and achieve financial or other targets. Acts as product owner for one or more lower-value products or services; prioritises product requirements and owns a product backlog. Analyses market and/or user research, feedback, expert opinion and usage data to understand needs and opportunities. Facilitates uptake of products by planning development of product collateral, supporting and evaluating campaigns, and monitoring product performance. Rolls out product trials and product launches."
+  },
+  "tags": [
+    "knowledge",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/09e19d3591ad82b5ce39a31a75a7883315d16845466325fff38355e8094f2d1a",
+      "targetName": "Product management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/sales-and-marketing/product-management",
+      "targetDescription": "The active management of products or services throughout their lifecycle (inception through to retirement) in order to address market opportunities and customer/user needs and generate the greatest possible value for the business. The adoption and adaptation of product development models based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+      "targetCode": "PROD",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

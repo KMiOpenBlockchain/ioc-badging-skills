@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/e673637725ad10b45b3ea135dd170f1830f88b6a6e1ba7c5b0aa4af78c54f517.json",
+  "name": "Competence in Change management at level 2",
+  "description": "Competence in the management of change to the service infrastructure including service assets, configuration items and associated documentation. Change management uses requests for change (RFC) for standard or emergency changes, and changes due to incidents or problems to provide effective control and reduction of risk to the availability, performance, security and compliance of the business services impacted by the change.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/CHMG_2_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/d3f327f5a820c9749472e479c7e09065006315c8d43114126de1e99cb1653809",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Documents changes based on requests for change. Applies change control procedures."
+  },
+  "tags": [
+    "Competence",
+    "level2"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/3b28aa70f34867109bc0bfa8282c1677a6fcf204be7f2451ff6e1cd708bb2982",
+      "targetName": "Change management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-transition/change-management",
+      "targetDescription": "The management of change to the service infrastructure including service assets, configuration items and associated documentation. Change management uses requests for change (RFC) for standard or emergency changes, and changes due to incidents or problems to provide effective control and reduction of risk to the availability, performance, security and compliance of the business services impacted by the change.",
+      "targetCode": "CHMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

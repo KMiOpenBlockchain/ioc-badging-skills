@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/c1871f9ce111a40ecf81a5e148a4a5a422e537ad9d5ffbb2b93f0ac77a85b80c.json",
+  "name": "Knowledge of Information governance at level 5",
+  "description": "Knowledge of the overall governance of how all types of information, structured and unstructured, whether produced internally or externally, are used to support decision-making, business processes and digital services. Encompasses development and promotion of the strategy and policies covering the design of information structures and taxonomies, the setting of policies for the sourcing and maintenance of the data content, and the development of policies, procedures, working practices and training to promote compliance with legislation regulating all aspects of holding, use and disclosure of data.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/IRMG_5_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/8e7e1c505071d65ca3a173714c5fe789b2dfcb2f18a57d9048cf52dfcfa12085",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Understands the implications of information, both internal and external, that can be mined from business systems and elsewhere. Makes decisions based on that information, including the need to make changes to the systems. Reviews new change proposals and provides specialist advice on information and records management, including advice on and promotion of collaborative working and assessment and management of information-related risk. Creates and maintains an inventory of information assets, which are subject to relevant legislation. Prepares and reviews the periodic notification of registration details and submits them to the relevant regulatory authorities. Ensures that formal information access requests and complaints are dealt with according to approved procedures. Contributes to development of policy, standards and procedures for compliance with relevant legislation."
+  },
+  "tags": [
+    "knowledge",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/98cff68585bf5ec4a5dc5a53ffa69cb99f2b153298910fdd42c3e452d02bc9fd",
+      "targetName": "Information governance",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/information-strategy/information-management",
+      "targetDescription": "The overall governance of how all types of information, structured and unstructured, whether produced internally or externally, are used to support decision-making, business processes and digital services. Encompasses development and promotion of the strategy and policies covering the design of information structures and taxonomies, the setting of policies for the sourcing and maintenance of the data content, and the development of policies, procedures, working practices and training to promote compliance with legislation regulating all aspects of holding, use and disclosure of data.",
+      "targetCode": "IRMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

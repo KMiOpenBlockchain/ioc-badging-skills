@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/6cb597a7dadc52bc4fdc822915f2aaafcf09dff5c4e5daa2f1a87f1c6a1712b7.json",
+  "name": "Knowledge of Storage management at level 3",
+  "description": "Knowledge of the planning, implementation, configuration and tuning of storage hardware and software covering online, offline, remote and offsite data storage (backup, archiving and recovery) and ensuring compliance with regulatory and security requirements.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/STMG_3_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/417ebde088ddd6077be2e96e4d0694457f1df776f2e31f2c322e0ae6d0a32e82",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Performs regular high-performance, scalable backups and restores on a schedule and tracks offsite storage. Carries out documented configuration for allocation of storage, installation and maintenance of secure storage systems as per the agreed operational procedure. Identifies operational problems and contributes to their resolution. Uses standard management and reporting tools to collect and report on storage utilisation, performance and backup statistics."
+  },
+  "tags": [
+    "knowledge",
+    "level3"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/fae81777a595820f5699bb68c9be7cb9fd074376ac9f7171d6e4ec88871afdc4",
+      "targetName": "Storage management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/storage-management",
+      "targetDescription": "The planning, implementation, configuration and tuning of storage hardware and software covering online, offline, remote and offsite data storage (backup, archiving and recovery) and ensuring compliance with regulatory and security requirements.",
+      "targetCode": "STMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

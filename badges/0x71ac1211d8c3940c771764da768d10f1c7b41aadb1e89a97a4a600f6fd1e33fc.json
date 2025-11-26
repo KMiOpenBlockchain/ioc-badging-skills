@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x71ac1211d8c3940c771764da768d10f1c7b41aadb1e89a97a4a600f6fd1e33fc.json",
+  "name": "Proficiency in Project management at level 6",
+  "description": "Proficiency in the management of projects, typically (but not exclusively) involving the development and implementation of business processes to meet identified business needs, acquiring and utilising the necessary resources and skills, within agreed parameters of cost, timescales, and quality. The adoption and adaptation of project management methodologies based on the context of the project and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PRMG_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x6ca49dc01df7f762bf422629fc7268ab4f34f9574dc1a231419b66191bc12a48",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Takes full responsibility for the definition, documentation and successful completion of complex projects (typically with significant business, political, or high-profile impact, and high-risk dependencies). Adopts and adapts project management methods and tools, selecting appropriately from plan-driven/predictive approaches or more adaptive (iterative and agile) approaches. Ensures that effective project control, change control, risk management and testing processes are maintained. Monitors and controls resources, revenue and capital costs against the project budget and manages expectations of all project stakeholders.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/09f04e627dcaf727c137ee3b6dc9c8074f316687471870f16ca568c428d4b8bc",
+      "targetName": "Project management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-implementation/project-management",
+      "targetDescription": "The management of projects, typically (but not exclusively) involving the development and implementation of business processes to meet identified business needs, acquiring and utilising the necessary resources and skills, within agreed parameters of cost, timescales, and quality. The adoption and adaptation of project management methodologies based on the context of the project and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+      "targetCode": "PRMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

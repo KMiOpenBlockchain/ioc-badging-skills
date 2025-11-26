@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xcf10730af41306ef78b1da3e377256c2a9b7c86b6b8cc8db937b61af208aadec.json",
+  "name": "Community Service",
+  "description": "This badge represents community service actions around an Institute of Coding theme.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ioc/community_service.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x6c428d07d39ed209d2174f2b723c0a32479c4cbc492ffdc49dc6298a7050fe4e",
+    "narrative": "To earn this badge the recipient must perform a community service around an Institute of Coding theme."
+  },
+  "tags": [],
+  "alignment": []
+}

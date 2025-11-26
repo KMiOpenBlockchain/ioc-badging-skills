@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/08215d85e5c86df6624dd738b10980da4423dd117d2c720414515af206b860a6.json",
+  "name": "Knowledge of Quality management at level 4",
+  "description": "Knowledge of quality management establishes within an organisation a culture of quality and a system of processes and working practices to deliver the organisation's quality objectives. This involves the application of techniques for the monitoring and improvement of the quality of any aspect of a function, processes, products, services or data. The achievement of, and maintenance of compliance to, national and international standards, as appropriate, and to internal policies, including those relating to quality, service, sustainability and security.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/QUMG_4_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/520ad176c7ae76ba29f1fedec922133884ef17e4f050660836a6e67ff394f3dd",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Assists projects, functions or teams in planning the quality management for their area of responsibility. Assists in the development of new or improved practices and organisational processes or standards. Facilitates localised improvements to the quality system or services."
+  },
+  "tags": [
+    "knowledge",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/215b24e6328488694c1a5751d601f598d01f1197d2a8f4d99d65386f120eafc4",
+      "targetName": "Quality management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/quality-and-conformance/quality-management",
+      "targetDescription": "Quality management establishes within an organisation a culture of quality and a system of processes and working practices to deliver the organisation's quality objectives. This involves the application of techniques for the monitoring and improvement of the quality of any aspect of a function, processes, products, services or data. The achievement of, and maintenance of compliance to, national and international standards, as appropriate, and to internal policies, including those relating to quality, service, sustainability and security.",
+      "targetCode": "QUMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

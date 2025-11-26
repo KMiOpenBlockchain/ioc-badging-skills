@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/84c601d35151ac648fa07c99efe617bf2b81cc295c31f5c2576e6d6d1d03ec14.json",
+  "name": "Competence in Organisation design and implementation at level 7",
+  "description": "Competence in the planning, design and implementation of an integrated organisation structure and culture including the workplace environment, locations, role profiles, performance measurements, competencies and skills. The facilitation of changes needed to adapt to changes in technologies, society, new operating models and business processes. The identification of key attributes of the required culture and how these can be implemented and reinforced to bring about improved organisational performance.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ORDI_7_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/012dd1ab7c4800d242896f590cdc536d577ee5a3a53a3c8f4a271ed64f8c03f5",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: The planning, design and implementation of an integrated organisation structure and culture including the workplace environment, locations, role profiles, performance measurements, competencies and skills. The facilitation of changes needed to adapt to changes in technologies, society, new operating models and business processes. The identification of key attributes of the required culture and how these can be implemented and reinforced to bring about improved organisational performance."
+  },
+  "tags": [
+    "Competence",
+    "level7"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/17597f1ae04cafc86d5b4360fc3fd2ad5749c954805947abdd74b1964f57f7d6",
+      "targetName": "Organisation design and implementation",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-management/organisation-design-and-implementation",
+      "targetDescription": "The planning, design and implementation of an integrated organisation structure and culture including the workplace environment, locations, role profiles, performance measurements, competencies and skills. The facilitation of changes needed to adapt to changes in technologies, society, new operating models and business processes. The identification of key attributes of the required culture and how these can be implemented and reinforced to bring about improved organisational performance.",
+      "targetCode": "ORDI",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

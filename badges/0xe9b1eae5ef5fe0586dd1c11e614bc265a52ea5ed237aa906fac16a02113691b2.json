@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xe9b1eae5ef5fe0586dd1c11e614bc265a52ea5ed237aa906fac16a02113691b2.json",
+  "name": "Proficiency in Sustainability at level 6",
+  "description": "Proficiency in the provision of advice, assistance and leadership to enable the organisation to minimise negative environmental impact.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SUST_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xca8a707abd0effcb55091c1752a4eff577517b73ab9faf13fbe87c11f55af455",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Develops and promotes organisational strategies, policies, standards, and guidelines for sustainability. Leads the introduction and use of sustainability techniques, methodologies and tools.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/aab731b2615cecb61f105489009871f0b18f723540d9df2a66bff2d85702659d",
+      "targetName": "Sustainability",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/sustainability-strategy",
+      "targetDescription": "The provision of advice, assistance and leadership to enable the organisation to minimise negative environmental impact.",
+      "targetCode": "SUST",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

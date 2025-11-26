@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xbca7f2e5fb3585a05822727b507766e2378708bc100aa29c0f966ceedb402225.json",
+  "name": "Proficiency in Application support at level 3",
+  "description": "Proficiency in the provision of application maintenance and support services, either directly to users of the systems or to service delivery functions. Support typically includes investigation and resolution of issues and may also include performance monitoring. Issues may be resolved by providing advice or training to users, by devising corrections (permanent or temporary) for faults, making general or site-specific modifications, updating documentation, manipulating data, or defining enhancements Support often involves close collaboration with the system's developers and/or with colleagues specialising in different areas, such as Database administration or Network support.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ASUP_3_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xb949280fbb822531f329ce2ca42452859acb0c99a19fa6b3790d18d612edb420",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Identifies and resolves issues with applications, following agreed procedures. Uses application management software and tools to collect agreed performance statistics. Carries out agreed applications maintenance tasks.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level3"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/31a883a3613f74d7b207c5f230fa01ac4740f21e7c085733042fc4020d429b43",
+      "targetName": "Application support",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/application-support",
+      "targetDescription": "The provision of application maintenance and support services, either directly to users of the systems or to service delivery functions. Support typically includes investigation and resolution of issues and may also include performance monitoring. Issues may be resolved by providing advice or training to users, by devising corrections (permanent or temporary) for faults, making general or site-specific modifications, updating documentation, manipulating data, or defining enhancements Support often involves close collaboration with the system's developers and/or with colleagues specialising in different areas, such as Database administration or Network support.",
+      "targetCode": "ASUP",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

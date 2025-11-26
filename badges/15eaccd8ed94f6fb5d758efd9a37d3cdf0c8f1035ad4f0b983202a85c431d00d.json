@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/15eaccd8ed94f6fb5d758efd9a37d3cdf0c8f1035ad4f0b983202a85c431d00d.json",
+  "name": "Knowledge of Requirements definition and management at level 2",
+  "description": "Knowledge of the elicitation, analysis, specification and validation of requirements and constraints to a level that enables effective development and operations of new or changed software, systems, processes, products and services. The management of requirements throughout the whole of the delivery and operational life cycle of the software, system, processes, products or services. The negotiation of trade-offs that are both acceptable to key stakeholders and within budgetary, technical, regulatory, and other constraints. The adoption and adaptation of requirements management lifecycle models based on the context of the work and selecting appropriately from plan-driven/predictive approaches or more adaptive (iterative and agile) approaches.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/REQM_2_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/9c8218befb7f0d2de2f46a5fe08bcb7d99c1c33feea21bd768e50224033e693c",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Assists in the definition and management of requirements. Uses standard techniques to elicit, specify, and document requirements for simple subject areas with clearly-defined boundaries. Assists in the creation of a requirements baseline and in investigating and applying authorised requests for changes to base-lined requirements, in line with change management policy."
+  },
+  "tags": [
+    "knowledge",
+    "level2"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/fb47894f72c7d59600ae1d2656b8b30ad6c27855e566cc6eaf0935d0621f207a",
+      "targetName": "Requirements definition and management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-management/requirements-definition-and-management",
+      "targetDescription": "The elicitation, analysis, specification and validation of requirements and constraints to a level that enables effective development and operations of new or changed software, systems, processes, products and services. The management of requirements throughout the whole of the delivery and operational life cycle of the software, system, processes, products or services. The negotiation of trade-offs that are both acceptable to key stakeholders and within budgetary, technical, regulatory, and other constraints. The adoption and adaptation of requirements management lifecycle models based on the context of the work and selecting appropriately from plan-driven/predictive approaches or more adaptive (iterative and agile) approaches.",
+      "targetCode": "REQM",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x41f2f900ec7eaf80133c3c349da76ff54a72bd55cd025b8f2bca73d020939fd9.json",
+  "name": "Proficiency in Customer service support at level 3",
+  "description": "Proficiency in the management and operation of one or more customer service or service desk functions. Acting as a point of contact to support service users and customers reporting issues, requesting information, access, or other services. The delivery of customer service through multiple channels including human, digital, self-service and automated.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/CSMG_3_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x3ab1eeaf6c7c4fed1eedfb3a80dc3230d4aead75f8f2e959917ae9ee98259fe4",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Acts as the routine contact point, receiving and handling requests for support. Responds to a broad range of service requests for support by providing information to fulfill requests or enable resolution. Provides first line investigation and diagnosis and promptly allocates unresolved issues as appropriate. Assists with the development of standards, and applies these to track, monitor, report, resolve or escalate issues. Contributes to creation of support documentation.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level3"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/8b9492f3db15edd338988cbcb92d7338b26d918b92541b38dddf8effdf206787",
+      "targetName": "Customer service support",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/relationship-management/client-services-management",
+      "targetDescription": "The management and operation of one or more customer service or service desk functions. Acting as a point of contact to support service users and customers reporting issues, requesting information, access, or other services. The delivery of customer service through multiple channels including human, digital, self-service and automated.",
+      "targetCode": "CSMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

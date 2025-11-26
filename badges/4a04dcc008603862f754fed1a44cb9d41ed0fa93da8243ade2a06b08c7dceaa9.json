@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/4a04dcc008603862f754fed1a44cb9d41ed0fa93da8243ade2a06b08c7dceaa9.json",
+  "name": "Competence in Emerging technology monitoring at level 6",
+  "description": "Competence in the identification of new and emerging technologies, products, services, methods and techniques. The assessment of their relevance and the potential impacts (both threats and opportunities) upon business enablers, cost, performance or sustainability. The communication of emerging technologies and their impact.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/EMRG_6_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/f06b973b5804a314ee3fe249660f96b15ce72ff0ad3bf08045cea4d181191b5e",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Plans and leads the identification and assessment of new and emerging technologies and the evaluation of the potential impacts, threats and opportunities. Creates technology roadmaps which align organisational plans with emerging technology solutions. Engages with, and influences, relevant stakeholders to obtain organisational commitment to technology roadmaps. Develops organisational guidelines for monitoring emerging technologies. Collaborates with internal and external parties to facilitate intelligence gathering."
+  },
+  "tags": [
+    "Competence",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/c127a58381bedc611aa2610fde75f4ce3cf1d841cc9467426ef43e6659f5d9ff",
+      "targetName": "Emerging technology monitoring",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/technical-strategy-and-planning/emerging-technology-monitoring",
+      "targetDescription": "The identification of new and emerging technologies, products, services, methods and techniques. The assessment of their relevance and the potential impacts (both threats and opportunities) upon business enablers, cost, performance or sustainability. The communication of emerging technologies and their impact.",
+      "targetCode": "EMRG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

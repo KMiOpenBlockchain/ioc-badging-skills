@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0b81e7195e1125469ee196c144af09dd1ec283972debb4f25e30180536f9f148.json",
+  "name": "Knowledge of Requirements definition and management at level 5",
+  "description": "Knowledge of the elicitation, analysis, specification and validation of requirements and constraints to a level that enables effective development and operations of new or changed software, systems, processes, products and services. The management of requirements throughout the whole of the delivery and operational life cycle of the software, system, processes, products or services. The negotiation of trade-offs that are both acceptable to key stakeholders and within budgetary, technical, regulatory, and other constraints. The adoption and adaptation of requirements management lifecycle models based on the context of the work and selecting appropriately from plan-driven/predictive approaches or more adaptive (iterative and agile) approaches.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/REQM_5_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/233997ac78546000a0dc2db42147b2e7effb9297c974df8ad350d6db00dc2329",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Plans and drives scoping, requirements definition and prioritisation activities for large, complex initiatives. Selects, adopts and adapts appropriate requirements definition and management methods, tools and techniques selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches. Obtains input from, and formal agreement to, requirements from a diverse range of stakeholders. Negotiates with stakeholders to manage competing priorities and conflicts. Establishes requirements baselines. Ensures changes to requirements are investigated and managed. Contributes to the development of organisational methods and standards."
+  },
+  "tags": [
+    "knowledge",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/fb47894f72c7d59600ae1d2656b8b30ad6c27855e566cc6eaf0935d0621f207a",
+      "targetName": "Requirements definition and management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-management/requirements-definition-and-management",
+      "targetDescription": "The elicitation, analysis, specification and validation of requirements and constraints to a level that enables effective development and operations of new or changed software, systems, processes, products and services. The management of requirements throughout the whole of the delivery and operational life cycle of the software, system, processes, products or services. The negotiation of trade-offs that are both acceptable to key stakeholders and within budgetary, technical, regulatory, and other constraints. The adoption and adaptation of requirements management lifecycle models based on the context of the work and selecting appropriately from plan-driven/predictive approaches or more adaptive (iterative and agile) approaches.",
+      "targetCode": "REQM",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

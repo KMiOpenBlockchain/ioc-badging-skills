@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/e8048f72cc8dc9d7566c1b7c9acc69d4266b176186b379a4b46b26df1526df68.json",
+  "name": "Knowledge of User experience evaluation at level 2",
+  "description": "Knowledge of validation of systems, products or services, to assure that the stakeholder and organisational requirements have been met, required practice has been followed, and systems in use continue to meet organisational and user needs. Iterative assessment (from early prototypes to final live implementation) of effectiveness, efficiency, user satisfaction, health and safety, and accessibility to measure or improve the usability of new or existing processes, with the intention of achieving optimum levels of product or service usability.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/USEV_2_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/e10c8ab7a19a4643c68a32d63c4868eb238beeb8046214ca712e8915925c645b",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Assists in preparations for evaluation of systems, products or services, and in the operation of the environment, facilities tools needed for effective evaluations. Assists in collection of feedback on prototypes and designs from users and others. Maintains the environment."
+  },
+  "tags": [
+    "knowledge",
+    "level2"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/2bf7669f204df4e118a92a3a74a54b757c9689cf0a9e37a209ae20507f92ac33",
+      "targetName": "User experience evaluation",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/human-factors/user-experience-evaluation",
+      "targetDescription": "Validation of systems, products or services, to assure that the stakeholder and organisational requirements have been met, required practice has been followed, and systems in use continue to meet organisational and user needs. Iterative assessment (from early prototypes to final live implementation) of effectiveness, efficiency, user satisfaction, health and safety, and accessibility to measure or improve the usability of new or existing processes, with the intention of achieving optimum levels of product or service usability.",
+      "targetCode": "USEV",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

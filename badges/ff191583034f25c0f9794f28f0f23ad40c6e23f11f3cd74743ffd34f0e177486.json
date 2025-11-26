@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/ff191583034f25c0f9794f28f0f23ad40c6e23f11f3cd74743ffd34f0e177486.json",
+  "name": "Competence in Service level management at level 6",
+  "description": "Competence in the planning, implementation, control, review and audit of service provision, to meet customer business requirements. This includes negotiation, implementation and monitoring of service level agreements, and the ongoing management of operational facilities to provide the agreed levels of service, seeking continually and proactively to improve service delivery and sustainability targets.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SLMO_6_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/29f7df9f14899fe5080aab32042043e6ea1dd8fb9aa71fc7f1c6d347ad30b1c0",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Ensures that a catalogue of available services is created and maintained and that service level agreements are complete and cost effective. Ensures that service delivery is monitored effectively and that identified actions to maintain or improve levels of service are implemented. Ensures that operational methods, procedures, facilities and tools are established, reviewed and maintained. Negotiates with relevant parties in respect of disruptions and major amendments to the provision of services. Reviews service delivery to ensure that agreed targets are met and prepares proposals to meet forecast changes in the level or type of service."
+  },
+  "tags": [
+    "Competence",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/45231e7b5791a675c63c9c97e8a4ab1fd6a14d10dcddc63491c2333782ef0220",
+      "targetName": "Service level management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-design/service-level-management",
+      "targetDescription": "The planning, implementation, control, review and audit of service provision, to meet customer business requirements. This includes negotiation, implementation and monitoring of service level agreements, and the ongoing management of operational facilities to provide the agreed levels of service, seeking continually and proactively to improve service delivery and sustainability targets.",
+      "targetCode": "SLMO",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

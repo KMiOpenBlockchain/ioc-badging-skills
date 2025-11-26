@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xf1ef3d114a3612fb614f25e436ab5f7dd3f4ed61cff7e1625d7c1c9457f7fb53.json",
+  "name": "Proficiency in Business analysis at level 6",
+  "description": "Proficiency in the methodical investigation, analysis, review and documentation of all or part of a business in terms of business goals, objectives, functions and processes, the information used and the data on which the information is based. The definition of requirements for improving processes and systems, reducing their costs, enhancing their sustainability, and the quantification of potential business benefits. The collaborative creation and iteration of viable specifications and acceptance criteria in preparation for the deployment of information and communication systems. The adoption and adaptation of business analysis approaches based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/BUAN_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x8f342261fdfc0a16f055f0f977f736df9932c808317aa2ce53d0b6001d26200b",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Takes full responsibility for business analysis within a significant segment of an organisation where the advice given, and decisions made will have a measurable impact on the profitability or effectiveness of the organisation. Leads the selection of appropriate business analysis methods, tools, techniques; selecting appropriately from plan-driven/predictive approaches or more adaptive (iterative and agile) approaches. Establishes the contribution that technology can make to business objectives, defining strategies, validating and justifying business needs, conducting feasibility studies, producing high-level and detailed business models, preparing business cases, overseeing development and implementation of solutions, taking into account the implications of change on the organisation and all stakeholders. Guides senior management towards accepting change brought about through process and organisational change.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/9628faa9e29bbc52786328e8e7be45b90880f4f42d1632a5962341d9e8943e7a",
+      "targetName": "Business analysis",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-management/business-analysis",
+      "targetDescription": "The methodical investigation, analysis, review and documentation of all or part of a business in terms of business goals, objectives, functions and processes, the information used and the data on which the information is based. The definition of requirements for improving processes and systems, reducing their costs, enhancing their sustainability, and the quantification of potential business benefits. The collaborative creation and iteration of viable specifications and acceptance criteria in preparation for the deployment of information and communication systems. The adoption and adaptation of business analysis approaches based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+      "targetCode": "BUAN",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

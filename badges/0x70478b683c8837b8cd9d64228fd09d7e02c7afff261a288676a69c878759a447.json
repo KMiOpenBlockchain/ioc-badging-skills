@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x70478b683c8837b8cd9d64228fd09d7e02c7afff261a288676a69c878759a447.json",
+  "name": "Proficiency in Conformance review at level 4",
+  "description": "Proficiency in the independent assessment of the conformity of any activity, process, deliverable, product or service to the criteria of specified standards, best practice, or other documented requirements. May relate to, for example, asset management, network security tools, firewalls and internet security, sustainability, real-time systems, application design and specific certifications.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/CORE_4_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x1cee921a67e2b728e82871fb3a7ebd21aac34a88c4a8fb23f2fceca0b19273ab",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Conducts formal reviews of activities, processes, products or services. Collects, collates and examines records as part of specified testing strategies for evidence of compliance with management directives, or the identification of abnormal occurrences. Analyses evidence collated and drafts part or all of formal reports commenting on the conformance found to exist in the reviewed part of an information systems environment.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/f4d6fb3cf905ddd96d67e00de8c491d97c557e61b0bfb8d5b1d0f27e377a8e97",
+      "targetName": "Conformance review",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/quality-and-conformance/conformance-review",
+      "targetDescription": "The independent assessment of the conformity of any activity, process, deliverable, product or service to the criteria of specified standards, best practice, or other documented requirements. May relate to, for example, asset management, network security tools, firewalls and internet security, sustainability, real-time systems, application design and specific certifications.",
+      "targetCode": "CORE",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

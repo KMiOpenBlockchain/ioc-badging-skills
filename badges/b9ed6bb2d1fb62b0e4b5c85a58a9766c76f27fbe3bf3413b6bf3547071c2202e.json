@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/b9ed6bb2d1fb62b0e4b5c85a58a9766c76f27fbe3bf3413b6bf3547071c2202e.json",
+  "name": "Knowledge of Information governance at level 7",
+  "description": "Knowledge of the overall governance of how all types of information, structured and unstructured, whether produced internally or externally, are used to support decision-making, business processes and digital services. Encompasses development and promotion of the strategy and policies covering the design of information structures and taxonomies, the setting of policies for the sourcing and maintenance of the data content, and the development of policies, procedures, working practices and training to promote compliance with legislation regulating all aspects of holding, use and disclosure of data.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/IRMG_7_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/7d4daeda1627daa2379098c4aa7276e92f30922e99c9f9c172348e3dbaf0a398",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Specifies at a strategic level the business functions and data subjects needed to support future business, thereby enabling the development of an Information Architecture. Establishes and communicates the organisation's information management strategy, developing it as an integral part of the business strategy. Directs information resources, to create value for the stakeholders by improving the performance of the organisation, whilst maintaining the principles of professional standards, accountability, openness, equality, diversity, and clarity of purpose. Responsible for compliance with regulations, standards and codes of good practice relating to information and documentation, records management, information assurance and data protection."
+  },
+  "tags": [
+    "knowledge",
+    "level7"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/98cff68585bf5ec4a5dc5a53ffa69cb99f2b153298910fdd42c3e452d02bc9fd",
+      "targetName": "Information governance",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/information-strategy/information-management",
+      "targetDescription": "The overall governance of how all types of information, structured and unstructured, whether produced internally or externally, are used to support decision-making, business processes and digital services. Encompasses development and promotion of the strategy and policies covering the design of information structures and taxonomies, the setting of policies for the sourcing and maintenance of the data content, and the development of policies, procedures, working practices and training to promote compliance with legislation regulating all aspects of holding, use and disclosure of data.",
+      "targetCode": "IRMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

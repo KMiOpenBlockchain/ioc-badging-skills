@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/9b9ad10cf2e29d53046f2ab227870ac37cf150cd317a19f5568bc47f941cb36a.json",
+  "name": "Competence in Organisation design and implementation at level 6",
+  "description": "Competence in the planning, design and implementation of an integrated organisation structure and culture including the workplace environment, locations, role profiles, performance measurements, competencies and skills. The facilitation of changes needed to adapt to changes in technologies, society, new operating models and business processes. The identification of key attributes of the required culture and how these can be implemented and reinforced to bring about improved organisational performance.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ORDI_6_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/fba6f478320ae37574cf1a96a1f37a090adcac6ebbff2c5d64090dbc3c6d3853",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Champions the value of new ways of working to address internal and external opportunities and threats arising from changes in technology, society and business models. Sets direction and leads in the introduction and use of organisation design techniques, methodologies and tools to change and improve organisation structures and culture to deliver business outcomes. Plans and leads organisation design activities; identifies alternatives, assesses feasibility, and recommends solutions. Identifies major changes affecting the organisation, and mobilises resources to implement changes. Initiates the definition of new organisation boundaries, and creates future organisation design, including location strategy and the number of locations required. Outlines performance measurement objectives and the high-level implementation approach."
+  },
+  "tags": [
+    "Competence",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/17597f1ae04cafc86d5b4360fc3fd2ad5749c954805947abdd74b1964f57f7d6",
+      "targetName": "Organisation design and implementation",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-management/organisation-design-and-implementation",
+      "targetDescription": "The planning, design and implementation of an integrated organisation structure and culture including the workplace environment, locations, role profiles, performance measurements, competencies and skills. The facilitation of changes needed to adapt to changes in technologies, society, new operating models and business processes. The identification of key attributes of the required culture and how these can be implemented and reinforced to bring about improved organisational performance.",
+      "targetCode": "ORDI",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

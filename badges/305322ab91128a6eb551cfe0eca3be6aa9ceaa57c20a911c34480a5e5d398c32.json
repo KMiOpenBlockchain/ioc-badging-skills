@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/305322ab91128a6eb551cfe0eca3be6aa9ceaa57c20a911c34480a5e5d398c32.json",
+  "name": "Knowledge of Learning delivery at level 5",
+  "description": "Knowledge of the transfer of business and/or technical skills and knowledge and the promotion of professional attitudes in order to facilitate learning and development. Uses a range of techniques, resources and media (which might include eLearning, on-line virtual environments, self-assessment, peer-assisted learning, simulation, and other current methods).",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ETDL_5_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/180ce584d277708a3cf5bf38f788ce861324624adbed57fedf4c0812c882a5dd",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Plans and schedules the delivery of learning activities, based on learning objectives. Manages the delivery of programmes of learning. Customises formal and informal learning activities, incorporating relevant business scenarios and case studies. Designs appropriate environments, and delivers learning activities to specialist audiences. Advises/coaches others in learning delivery techniques and options."
+  },
+  "tags": [
+    "knowledge",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/0a917507e432a281ccba27401de6e443267d59377020f5de7b9e0032b36585e7",
+      "targetName": "Learning delivery",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/skill-management/learning-delivery",
+      "targetDescription": "The transfer of business and/or technical skills and knowledge and the promotion of professional attitudes in order to facilitate learning and development. Uses a range of techniques, resources and media (which might include eLearning, on-line virtual environments, self-assessment, peer-assisted learning, simulation, and other current methods).",
+      "targetCode": "ETDL",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xd8203e006f2d6a84d2e1318f2d393b50f5d689a234c230c9fad12773d3d32388.json",
+  "name": "Proficiency in Organisational capability development at level 6",
+  "description": "Proficiency in the provision of leadership, advice and implementation support to assess organisational capabilities and to identify, prioritise and implement improvements. The selection, adoption and integration of appropriate industry frameworks and models to guide improvements. The systematic use of capability maturity assessments, metrics, process definition, process management, repeatability and the introduction of appropriate techniques, tools and enhanced skills. The delivery of an integrated people, process and technology solution to deliver improved organisational performance in line with organisation's strategic plans and objectives. The scope of improvement is organisational but may also be highly focussed as necessary for example software development, systems development, project delivery or service improvement.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/OCDV_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x1961ca50a89903bba539ec2e5ac76e141d45c04313dae618aa831e9f3e24222c",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Leads substantial improvement programmes. Seeks out, identifies, proposes, and initiates capability improvement activities within the organisation typically driven by the need to enhance performance, satisfy new business opportunities or to respond to external drivers. Selects frameworks, approaches and techniques for use. Plans and manages the evaluation or assessment of organisational capabilities. Devises solutions and leads change initiatives including communication, transition and implementation activities. Takes action to exploit opportunities to deliver measurable, beneficial impacts upon operational effectiveness. Monitors international, national, and sector trends in order to establish the needed capability.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/f15ad485dfafc43ce0d9326c4d90eeff518f2195f7d90c7c6e1d7ba3d13c9823",
+      "targetName": "Organisational capability development",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-management/new-organisational-capability-development",
+      "targetDescription": "The provision of leadership, advice and implementation support to assess organisational capabilities and to identify, prioritise and implement improvements. The selection, adoption and integration of appropriate industry frameworks and models to guide improvements. The systematic use of capability maturity assessments, metrics, process definition, process management, repeatability and the introduction of appropriate techniques, tools and enhanced skills. The delivery of an integrated people, process and technology solution to deliver improved organisational performance in line with organisation's strategic plans and objectives. The scope of improvement is organisational but may also be highly focussed as necessary for example software development, systems development, project delivery or service improvement.",
+      "targetCode": "OCDV",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

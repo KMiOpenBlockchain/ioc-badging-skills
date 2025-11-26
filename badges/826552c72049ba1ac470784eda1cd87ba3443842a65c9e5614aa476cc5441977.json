@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/826552c72049ba1ac470784eda1cd87ba3443842a65c9e5614aa476cc5441977.json",
+  "name": "Knowledge of Emerging technology monitoring at level 4",
+  "description": "Knowledge of the identification of new and emerging technologies, products, services, methods and techniques. The assessment of their relevance and the potential impacts (both threats and opportunities) upon business enablers, cost, performance or sustainability. The communication of emerging technologies and their impact.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/EMRG_4_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/b14f249d75690ba233263e4d60c2b986dbd7f509463c5d180fab6ed003d26dd0",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Supports monitoring of the external environment and assessment of emerging technologies to evaluate the potential impacts, threats and opportunities to the organisation. Contributes to the creation of reports, technology roadmapping and the sharing of knowledge and insights."
+  },
+  "tags": [
+    "knowledge",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/c127a58381bedc611aa2610fde75f4ce3cf1d841cc9467426ef43e6659f5d9ff",
+      "targetName": "Emerging technology monitoring",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/technical-strategy-and-planning/emerging-technology-monitoring",
+      "targetDescription": "The identification of new and emerging technologies, products, services, methods and techniques. The assessment of their relevance and the potential impacts (both threats and opportunities) upon business enablers, cost, performance or sustainability. The communication of emerging technologies and their impact.",
+      "targetCode": "EMRG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

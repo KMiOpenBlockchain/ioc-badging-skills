@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/5d3446dd21d015fe687ec82388048a70126084887b53e66097503f7d30eaa908.json",
+  "name": "Knowledge of Portfolio management at level 5",
+  "description": "Knowledge of the development and application of a systematic management framework to define and deliver a portfolio of programmes, projects and/or ongoing services, in support of specific business strategies and objectives. Includes the implementation of a strategic investment appraisal and decision making process based on a clear understanding of cost, risk, inter-dependencies, and impact on existing business activities, enabling measurement and objective evaluation of potential changes and the benefits to be realised. The prioritisation of resource utilisation and changes to be implemented. The regular review of portfolios. The management of the service pipeline (proposed or in development), service catalogue (live or available for deployment) and retired services.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/POMG_5_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/007f3ffb55b5a51b114531b52c27bbb42f8ec839dfd7b227f3132c1e656b03ad",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Ensures that programme/project leads and/or service owners adhere to the agreed portfolio management approach and timetable and that they provide the appropriate information to agreed targets of timelines and accuracy. Produces reports as appropriate for portfolio governance, including making recommendations for changes to the portfolio."
+  },
+  "tags": [
+    "knowledge",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/32d4e3ec6f5c2f2399ccea651d425dbbf9c7736bfa6b20c14c440e8195627900",
+      "targetName": "Portfolio management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-implementation/portfolio-management",
+      "targetDescription": "The development and application of a systematic management framework to define and deliver a portfolio of programmes, projects and/or ongoing services, in support of specific business strategies and objectives. Includes the implementation of a strategic investment appraisal and decision making process based on a clear understanding of cost, risk, inter-dependencies, and impact on existing business activities, enabling measurement and objective evaluation of potential changes and the benefits to be realised. The prioritisation of resource utilisation and changes to be implemented. The regular review of portfolios. The management of the service pipeline (proposed or in development), service catalogue (live or available for deployment) and retired services.",
+      "targetCode": "POMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

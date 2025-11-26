@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xc5621426251cedc6ff68ea5b0d44a9ad9c7c08ce83a254a78a91c750ddb83d10.json",
+  "name": "Proficiency in Learning design and development at level 3",
+  "description": "Proficiency in the specification, design, creation, packaging and maintenance of materials and resources for use in learning and development in the workplace or in compulsory, further or higher education. Typically involves the assimilation of information from existing sources, selection and re-presentation in a form suitable to the intended purpose and audience. Includes instructional design, content development, configuration and testing of learning environments, and use of appropriate current technologies such as audio, video, simulation and assessment. May include third party accreditation.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/TMCR_3_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xdec4f552fa0093395d2d51c004e04dcb7d98b941ad323e389570f4ba1ea2fd75",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Designs, creates, develops, customises and maintains learning materials and resources to deliver agreed outcomes, and meet accreditation requirements if appropriate. Contributes to the design, configuration and testing of learning environments, including creation of simulated data, and replication of external systems, interfaces and assessment systems.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level3"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/8ee8553757d6d08b36a82c1ac72def659b767604d57f7b100782d369b375e503",
+      "targetName": "Learning design and development",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/skill-management/learning-design-and-development",
+      "targetDescription": "The specification, design, creation, packaging and maintenance of materials and resources for use in learning and development in the workplace or in compulsory, further or higher education. Typically involves the assimilation of information from existing sources, selection and re-presentation in a form suitable to the intended purpose and audience. Includes instructional design, content development, configuration and testing of learning environments, and use of appropriate current technologies such as audio, video, simulation and assessment. May include third party accreditation.",
+      "targetCode": "TMCR",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

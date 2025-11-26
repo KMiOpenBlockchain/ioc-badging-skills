@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x584bbca206bc75d2453f0470e1b3792bbd4e602d9fcf7bf46d86fae919559fc0.json",
+  "name": "Proficiency in Data management at level 6",
+  "description": "Proficiency in the management of practices and processes to ensure the security, quality, integrity, safety and availability of all forms of data and data structures that make up the organisation's information. The management of data and information in all its forms and the analysis of information structure (including logical analysis of taxonomies, data and metadata). The development of innovative ways of managing the information assets of the organisation.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/DATM_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x6fb66eb00c93f757600192145545b11dc1818dd94a06e0bfbd07c5f2e5f87a2d",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Derives an overall strategy of master data management, within an established information architecture, that supports the development and secure operation of information and digital services. Develops organisational policies, standards, and guidelines for data management, aligned with ethical principles. Takes overall responsibility for planning effective data storage, security, quality, sharing, availability, retention and publishing within the organisation. Plans, establishes and manages processes for regular and consistent access to, and independent validation of external information from multiple sources.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/9315937abf57b00eb6ea62218267b07fd8f58b47944ceb88ef567e4a0ede930e",
+      "targetName": "Data management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/technical-strategy-and-planning/data-management",
+      "targetDescription": "The management of practices and processes to ensure the security, quality, integrity, safety and availability of all forms of data and data structures that make up the organisation's information. The management of data and information in all its forms and the analysis of information structure (including logical analysis of taxonomies, data and metadata). The development of innovative ways of managing the information assets of the organisation.",
+      "targetCode": "DATM",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

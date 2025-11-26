@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x690eb1acaab61df1a23aa9e804810b9212e34dd93ed2c75e313d132f517ca9e7.json",
+  "name": "Proficiency in Contract management at level 6",
+  "description": "Proficiency in the overall management and control of the operation of formal contracts for supply of products and services.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ITCM_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x0e22efdea420d835f4b2cbaf3a3ae1f07d68e6251631a41185fe817df54ba6e0",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Negotiates and resolves contractual issues, including failure to meet contractual obligations. Promotes change control processes and leads variation negotiations when necessary. Champions continuous improvement programmes, jointly developing strategies and incentives to enhance performance. Undertakes comprehensive financial evaluations. Ensures non-discriminatory behaviour and legal compliance. Ensures that lessons learned from reviews are documented and promoted with all stakeholders. Develops broad industry/ category credentials as 'best practice' champion.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/3e666428ed1cf12c14f6a0e0059761ae26b01561adda2509638cade1852f0270",
+      "targetName": "Contract management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/relationship-management/contract-management",
+      "targetDescription": "The overall management and control of the operation of formal contracts for supply of products and services.",
+      "targetCode": "ITCM",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

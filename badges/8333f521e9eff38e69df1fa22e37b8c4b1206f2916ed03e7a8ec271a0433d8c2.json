@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/8333f521e9eff38e69df1fa22e37b8c4b1206f2916ed03e7a8ec271a0433d8c2.json",
+  "name": "Competence in Storage management at level 5",
+  "description": "Competence in the planning, implementation, configuration and tuning of storage hardware and software covering online, offline, remote and offsite data storage (backup, archiving and recovery) and ensuring compliance with regulatory and security requirements.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/STMG_5_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/48a2eb5a003cf52843ea90e58be2a5babd72ab0765f6d73dd74970ecad1b6a6b",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Manages the storage and backup systems to provide agreed service levels. Responsible for creating, improving, and supporting quality IT services with optimal utilisation of storage resources, ensuring data security, availability and integrity of business data. Develops standards, procedures and guidelines for implementing data protection and disaster recovery functionality for all business applications and business data using different online and offline storage devices."
+  },
+  "tags": [
+    "Competence",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/fae81777a595820f5699bb68c9be7cb9fd074376ac9f7171d6e4ec88871afdc4",
+      "targetName": "Storage management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/storage-management",
+      "targetDescription": "The planning, implementation, configuration and tuning of storage hardware and software covering online, offline, remote and offsite data storage (backup, archiving and recovery) and ensuring compliance with regulatory and security requirements.",
+      "targetCode": "STMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/8c18a5d4599bef3cfeb2293382db128a6bdf2865527223f839bb21b4921a9de7.json",
+  "name": "Competence in Facilities management at level 5",
+  "description": "Competence in the planning, control and management of all the facilities which, collectively, make up the IT estate. This involves provision and management of the physical environment, including space and power allocation, and environmental monitoring to provide statistics on energy usage. Encompasses physical access control, and adherence to all mandatory policies and regulations concerning health and safety at work.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/DCMA_5_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/4548f54d7a023f4485eb821ae445e4a32bee9d75113aba380f49d2bd4d867a91",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Develops and maintains the standards, processes and documentation for data centres. Optimises efficiency in population of data centre space. Ensures adherence to all relevant policies and processes. Uses data centre management tools to plan, record and manage the types of infrastructure installed and the associated power, space and cooling capabilities, usage and actions to meet corporate sustainability targets."
+  },
+  "tags": [
+    "Competence",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/c93871822684ce65a200fca7591b499a1f74107c35d8f15e7d2e680dd73cfbef",
+      "targetName": "Facilities management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/it-estate-management",
+      "targetDescription": "The planning, control and management of all the facilities which, collectively, make up the IT estate. This involves provision and management of the physical environment, including space and power allocation, and environmental monitoring to provide statistics on energy usage. Encompasses physical access control, and adherence to all mandatory policies and regulations concerning health and safety at work.",
+      "targetCode": "DCMA",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/51dc19750f384cdb31048511e1b20cd1bf093e00c06efbcbdc369ec7a4d25166.json",
+  "name": "Knowledge of Business risk management at level 4",
+  "description": "Knowledge of the planning and implementation of organisation-wide processes and procedures for the management of risk to the success or integrity of the business, especially those arising from the use of information technology, reduction or non-availability of energy supply or inappropriate disposal of materials, hardware or data.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/BURM_4_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/4ca0b28eecae2c3d36082c39f405b86d84b22b63fe4ef1cbfa4125991267c9af",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Investigates and reports on hazards and potential risk events within a specific function or business area."
+  },
+  "tags": [
+    "knowledge",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/8efe3aa59d1872f8cacf49d45b2b7dc66dfd5308d6fc88d5f812940010a8e2d3",
+      "targetName": "Business risk management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/business-risk-management",
+      "targetDescription": "The planning and implementation of organisation-wide processes and procedures for the management of risk to the success or integrity of the business, especially those arising from the use of information technology, reduction or non-availability of energy supply or inappropriate disposal of materials, hardware or data.",
+      "targetCode": "BURM",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

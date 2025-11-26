@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "skos": "http://www.w3.org/2004/02/skos/core#related",
+    "cso": "https://cso.kmi.open.ac.uk/schema/cso#"
+  },
+  "@id": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/computing_with_words.json",
+  "@type": "saro:Skill",
+  "skos:related": "https://cso.kmi.open.ac.uk/topics/computing_with_words"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/39edef8d8bcd3a602b80785c679bc4180d1713de0ae7ea6f50983b08f6047a3c.json",
+  "name": "Knowledge of IT management at level 7",
+  "description": "Knowledge of the management of the IT infrastructure and resources required to plan for, develop, deliver and support IT services and products to meet the needs of a business. The preparation for new or changed services, management of the change process and the maintenance of regulatory, legal and professional standards. The management of performance of systems and services in terms of their contribution to business performance and their financial costs and sustainability. The management of bought-in services. The development of continual service improvement plans to ensure the IT infrastructure adequately supports business needs.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ITMG_7_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/57478c475353577ed333387a4ad3a4b7f4ad03c1f2ea7ea36c3b4ca433102647",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Sets strategy for management of technology resources, including corporate telecommunications functions, and promotes the opportunities that technology presents to the employing organisation, including the feasibility of change and its likely impact upon the business. Authorises allocation of resources for the planning, development and delivery of all information systems services and products. Responsible for IT governance. Authorises organisational policies governing the conduct of management of change initiatives and standards of professional conduct. Maintains an overview of the contribution of programmes to organisational success. Inspires creativity and flexibility in the management and application of IT. Sets strategy for monitoring and managing the performance of IT-related systems and services, in respect of their contribution to business performance and benefits to the business."
+  },
+  "tags": [
+    "knowledge",
+    "level7"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/46318f6f32a98ce6284a6c7849f180d408d3aae5acfe6c2e3cec5ec0a018d9b1",
+      "targetName": "IT management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/it-management",
+      "targetDescription": "The management of the IT infrastructure and resources required to plan for, develop, deliver and support IT services and products to meet the needs of a business. The preparation for new or changed services, management of the change process and the maintenance of regulatory, legal and professional standards. The management of performance of systems and services in terms of their contribution to business performance and their financial costs and sustainability. The management of bought-in services. The development of continual service improvement plans to ensure the IT infrastructure adequately supports business needs.",
+      "targetCode": "ITMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

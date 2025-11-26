@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xd53a8087e410241bc9d2a32a7dec82682c45bd52f509e0b10ea017e02037f36b.json",
+  "name": "Proficiency in Consultancy at level 7",
+  "description": "Proficiency in the provision of advice and recommendations, based on expertise and experience, to address client needs. May deal with one specialist subject area, or can be wide ranging and address strategic business issues. May also include support for the implementation of any agreed solutions.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/CNSL_7_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xeb2e9266d15a0746fd8dfdd8c4f7446c7d57f19bd7f7f5d0d1718b01744b965f",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Takes responsibility for a significant consultancy practice, including practice development, proposals/sales to internal or external clients, account management and managing the delivery of consultancy services over a wide range of topics.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level7"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/c71f0b30bf039809e25b95e8abb50d93e853dff124664d684310e09d90203b1f",
+      "targetName": "Consultancy",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/advice-and-guidance/consultancy",
+      "targetDescription": "The provision of advice and recommendations, based on expertise and experience, to address client needs. May deal with one specialist subject area, or can be wide ranging and address strategic business issues. May also include support for the implementation of any agreed solutions.",
+      "targetCode": "CNSL",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

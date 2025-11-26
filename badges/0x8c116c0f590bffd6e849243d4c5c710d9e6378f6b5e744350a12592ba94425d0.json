@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x8c116c0f590bffd6e849243d4c5c710d9e6378f6b5e744350a12592ba94425d0.json",
+  "name": "Proficiency in Measurement at level 6",
+  "description": "Proficiency in the development and operation of a measurement capability to support agreed organisational information needs. The planning, implementation, and control of activities to measure attributes of processes, products, and services in order to assess performance, progress, and provide indications and insights to actual or potential problems, issues, and risks. The identification of requirements, selecting measures and measurement scales, establishing data collection and analysis methods, setting target values and thresholds. Measurement can be applied to organizations, projects, processes, and work products.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/MEAS_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x6d079d168b29fa76d9fedb5b72959295dbfd26d686520f5cec657cb0770d8c6a",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Creates the measurement framework and aligns measurement objectives with business objectives. Develops organisational policies, standards, guidelines for measurement. Leads the development of organisational capabilities for measurement (including automation). Provides resources to ensure adoption and adherence to policies and standards.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/796cb975dccb42e5a05cb50b92c29e86add4b12eab1330fd5a63ab384b875c7b",
+      "targetName": "Measurement",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/quality-and-conformance/measurement",
+      "targetDescription": "The development and operation of a measurement capability to support agreed organisational information needs. The planning, implementation, and control of activities to measure attributes of processes, products, and services in order to assess performance, progress, and provide indications and insights to actual or potential problems, issues, and risks. The identification of requirements, selecting measures and measurement scales, establishing data collection and analysis methods, setting target values and thresholds. Measurement can be applied to organizations, projects, processes, and work products.",
+      "targetCode": "MEAS",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

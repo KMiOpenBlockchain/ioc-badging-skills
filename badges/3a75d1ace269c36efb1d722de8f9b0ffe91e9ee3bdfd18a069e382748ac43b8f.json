@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/3a75d1ace269c36efb1d722de8f9b0ffe91e9ee3bdfd18a069e382748ac43b8f.json",
+  "name": "Competence in Contract management at level 6",
+  "description": "Competence in the overall management and control of the operation of formal contracts for supply of products and services.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ITCM_6_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/82393a674ffdaab46f3351a7dcc38ae50adebe9ee20cf63d97d40b4c4ff46871",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Negotiates and resolves contractual issues, including failure to meet contractual obligations. Promotes change control processes and leads variation negotiations when necessary. Champions continuous improvement programmes, jointly developing strategies and incentives to enhance performance. Undertakes comprehensive financial evaluations. Ensures non-discriminatory behaviour and legal compliance. Ensures that lessons learned from reviews are documented and promoted with all stakeholders. Develops broad industry/ category credentials as 'best practice' champion."
+  },
+  "tags": [
+    "Competence",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/3e666428ed1cf12c14f6a0e0059761ae26b01561adda2509638cade1852f0270",
+      "targetName": "Contract management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/relationship-management/contract-management",
+      "targetDescription": "The overall management and control of the operation of formal contracts for supply of products and services.",
+      "targetCode": "ITCM",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

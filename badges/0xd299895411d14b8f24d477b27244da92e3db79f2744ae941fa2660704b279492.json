@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xd299895411d14b8f24d477b27244da92e3db79f2744ae941fa2660704b279492.json",
+  "name": "Proficiency in Analytics at level 6",
+  "description": "Proficiency in the application of mathematics, statistics, predictive modeling and machine-learning techniques to discover meaningful patterns and knowledge in recorded data. Analysis of data with high volumes, velocities and variety (numbers, symbols, text, sound and image). Development of forward-looking, predictive, real-time, model-based insights to create value and drive effective decision-making. The identification, validation and exploitation of internal and external data sets generated from a diverse range of processes.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/INAN_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xf23cf9033f523f9eb1a7c33ee674fd5bad9886e07599419b3ed90c2d8b5c04e4",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Develops analytics policy, standards and guidelines. Establishes and manages analytics methods, techniques and capabilities to enable the organisation to analyse data, to generate insights, create value and drive decision-making. Sets direction and leads the introduction and use of analytics to meet overall business requirements, ensuring consistency across all user groups. Identifies and establishes the veracity of the external sources of information which are relevant to the operational needs of the enterprise.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/d2df8413f03d80fbef83940602b62626b1545a50ef1309a522a984add4ca2b6b",
+      "targetName": "Analytics",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/information-strategy/information-analysis",
+      "targetDescription": "The application of mathematics, statistics, predictive modeling and machine-learning techniques to discover meaningful patterns and knowledge in recorded data. Analysis of data with high volumes, velocities and variety (numbers, symbols, text, sound and image). Development of forward-looking, predictive, real-time, model-based insights to create value and drive effective decision-making. The identification, validation and exploitation of internal and external data sets generated from a diverse range of processes.",
+      "targetCode": "INAN",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

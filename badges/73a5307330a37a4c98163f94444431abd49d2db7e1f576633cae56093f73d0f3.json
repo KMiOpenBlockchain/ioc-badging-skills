@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/73a5307330a37a4c98163f94444431abd49d2db7e1f576633cae56093f73d0f3.json",
+  "name": "Competence in Penetration testing at level 5",
+  "description": "Competence in the assessment of organisational vulnerabilities through the design and execution of penetration tests that demonstrate how an adversary can either subvert the organisation's security goals or achieve specific adversarial objectives. Penetration testing may be a stand-alone activity or an aspect of acceptance testing prior to an approval to operate. The identification of deeper insights into the business risks of various vulnerabilities.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PENT_5_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/146a8e255a7cafcde20484b9c5e91a264aad48a195017445dddd5ec2aedaa7f5",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Coordinates and manages planning of penetration tests, within a defined area of business activity. Delivers objective insights into the existence of vulnerabilities, the effectiveness of defences and mitigating controls - both those already in place and those planned for future implementation. Takes responsibility for integrity of testing activities and coordinates the execution of these activities. Provides authoritative advice and guidance on the planning and execution of vulnerability tests. Defines and communicates the test strategy. Manages all test processes, and contributes to corporate security testing standards."
+  },
+  "tags": [
+    "Competence",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/fe35f8e3de74997d0c114844c20d2aa79502d616148204605aa80f0f2a50077e",
+      "targetName": "Penetration testing",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/penetration-testing",
+      "targetDescription": "The assessment of organisational vulnerabilities through the design and execution of penetration tests that demonstrate how an adversary can either subvert the organisation's security goals or achieve specific adversarial objectives. Penetration testing may be a stand-alone activity or an aspect of acceptance testing prior to an approval to operate. The identification of deeper insights into the business risks of various vulnerabilities.",
+      "targetCode": "PENT",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

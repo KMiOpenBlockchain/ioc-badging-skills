@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/75cee3e49341f8e9177920713fafab9ed3714e069af0f69a0ba0c8378d008a20.json",
+  "name": "Competence in Data modelling and design at level 2",
+  "description": "Competence in the development of models to represent and communicate data requirements and to enable organisations to understand their data assets and the relationships between real-world entities. The investigation, analysis and scoping of data requirements to support the development of software systems, data integration and data retrieval activities. The iteration, review and maintenance of data requirements and data models.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/DTAN_2_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/f77686fe4b34fa27629c3fcf2c28d614bb92adf06712f705df6f3d0baf6e2e2d",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Applies data analysis, design, and modelling techniques to establish, modify or maintain a data structure and its associated components (entity descriptions, relationship descriptions, attribute definitions)."
+  },
+  "tags": [
+    "Competence",
+    "level2"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/4f22783eae949f61662844d32db4bc4802a0b133c66324d59dd1b2694fdf3af4",
+      "targetName": "Data modelling and design",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/systems-development/data-analysis",
+      "targetDescription": "The development of models to represent and communicate data requirements and to enable organisations to understand their data assets and the relationships between real-world entities. The investigation, analysis and scoping of data requirements to support the development of software systems, data integration and data retrieval activities. The iteration, review and maintenance of data requirements and data models.",
+      "targetCode": "DTAN",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

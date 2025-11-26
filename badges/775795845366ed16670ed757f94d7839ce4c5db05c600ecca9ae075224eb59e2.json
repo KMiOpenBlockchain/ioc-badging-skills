@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/775795845366ed16670ed757f94d7839ce4c5db05c600ecca9ae075224eb59e2.json",
+  "name": "Competence in Business process improvement at level 6",
+  "description": "Competence in the creation of new and potentially disruptive approaches to performing business activities in order to create business opportunities; deliver new or improved products/services; or to improve supply chains. The identification and implementation of improvements to business operations, services and models. The assessment of the costs and potential benefits of the new approaches. The analysis and design of business processes in order to adopt and exploit technologies to improve business performance. The development of enterprise process management capabilities to increase organisational agility and responsiveness to change.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/BPRE_6_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/3b41477fde1c7f182c2484574ed4b41036c11abd8eef87e4d13057e067111940",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Develops organisational policies, standards, and guidelines for business process improvement which allow the organisation to quickly improve and implement business processes to meet business requirements. Sets direction and leads in the introduction and use of techniques, methodologies and tools, to meet overall business requirements, ensuring consistency across all user groups. Leads and plans business process improvement activities to analyse business processes; identify alternative solutions, assess feasibility, and recommend solutions which exploit new technologies and automation. Leads the development of organisational capabilities for business process improvement and ensures adoption and adherence to policies and standards."
+  },
+  "tags": [
+    "Competence",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/f5a4b69fa8fb985d99424a27ce98b70cc0606f2cec3d8b0df1e1e77a79609fb1",
+      "targetName": "Business process improvement",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/business-process-improvement",
+      "targetDescription": "The creation of new and potentially disruptive approaches to performing business activities in order to create business opportunities; deliver new or improved products/services; or to improve supply chains. The identification and implementation of improvements to business operations, services and models. The assessment of the costs and potential benefits of the new approaches. The analysis and design of business processes in order to adopt and exploit technologies to improve business performance. The development of enterprise process management capabilities to increase organisational agility and responsiveness to change.",
+      "targetCode": "BPRE",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

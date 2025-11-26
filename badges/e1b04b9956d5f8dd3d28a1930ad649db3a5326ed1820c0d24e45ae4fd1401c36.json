@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/e1b04b9956d5f8dd3d28a1930ad649db3a5326ed1820c0d24e45ae4fd1401c36.json",
+  "name": "Knowledge of Financial management at level 6",
+  "description": "Knowledge of the overall financial management, control and stewardship of the IT assets and resources used in the provision of IT services, including the identification of materials and energy costs, ensuring compliance with all governance, legal and regulatory requirements.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/FMIT_6_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/9fd8cf94350e10f2941eb780d782029ae8ae46cd2ae21eaa7ffe52f356234a22",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Develops financial planning processes and standards to support execution of business strategy and promotes adoption and adherence. Sets strategy and develops plans, policies and processes for the accounting, budgeting and, where applicable, charging of IT resources and services, including the definition of cost models and charging models. Sets, negotiates, agrees and manages all financial budgets and targets, ensuring that there is adequate funding for all IT targets and plans, especially to meet development and capacity needs. Analyses actual expenditure, explains variances, and determines options in use of available budget to meet real needs. Assesses financial performance and instigates required improvements."
+  },
+  "tags": [
+    "knowledge",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/50fe7579b534b1f2e2ec67973171bc23f5b1ac226f3d00db212720a63cabc728",
+      "targetName": "Financial management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/financial-management-for-it",
+      "targetDescription": "The overall financial management, control and stewardship of the IT assets and resources used in the provision of IT services, including the identification of materials and energy costs, ensuring compliance with all governance, legal and regulatory requirements.",
+      "targetCode": "FMIT",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

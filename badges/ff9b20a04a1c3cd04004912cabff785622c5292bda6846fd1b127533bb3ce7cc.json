@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/ff9b20a04a1c3cd04004912cabff785622c5292bda6846fd1b127533bb3ce7cc.json",
+  "name": "Competence in Information content authoring at level 4",
+  "description": "Competence in the application of the principles and practices of authoring, designing, controlling, and presenting textual information (supported where necessary by graphical content) to meet the requirements of intended audience(s). This information may be delivered via digital, print, or other medium. Management of the authoring process and the interaction with editorial and publication processes.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/INCA_4_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/3c937d9837f6c8a2d39a9134eec13e03c322b8110bc3623815dac9073ca89539",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Controls, monitors and evaluates content to ensure quality, consistency and accessibility of messages. Designs the content and appearance of complex information deliverables (for example, collections of artefacts, which maybe spread across multiple mediums) in collaboration with clients and/or representatives of the intended audience(s). Moderates content (in both draft and published forms) and ensures content can be re-purposed appropriately. Creates and evaluates complex, well-engineered deliverables, ensuring alignment with the agreed requirements, making optimal use of the chosen medium(s). Reviews work of other content designers and authors for consistency and accuracy, and takes responsibility for ensuring appropriate publication. Understands the implications of publishing content and manages the associated risks."
+  },
+  "tags": [
+    "Competence",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/78d6157592fde7461eeef3aac1be83727231d3f8b4ac203e459a566be81b459c",
+      "targetName": "Information content authoring",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/systems-development/information-content-authoring",
+      "targetDescription": "The application of the principles and practices of authoring, designing, controlling, and presenting textual information (supported where necessary by graphical content) to meet the requirements of intended audience(s). This information may be delivered via digital, print, or other medium. Management of the authoring process and the interaction with editorial and publication processes.",
+      "targetCode": "INCA",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

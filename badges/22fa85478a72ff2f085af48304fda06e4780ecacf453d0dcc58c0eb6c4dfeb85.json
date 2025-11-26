@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/22fa85478a72ff2f085af48304fda06e4780ecacf453d0dcc58c0eb6c4dfeb85.json",
+  "name": "Knowledge of Information assurance at level 5",
+  "description": "Knowledge of the protection of integrity, availability, authenticity, non-repudiation and confidentiality of information and data in storage and in transit. The management of risk in a pragmatic and cost effective manner to ensure stakeholder confidence.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/INAS_5_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/4547e59c4f36845a672888227b7fc5af25c7758a70ae0a78b558879f07329282",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Interprets information assurance and security policies and applies these in order to manage risks. Provides advice and guidance to ensure adoption of and adherence to information assurance architectures, strategies, policies, standards and guidelines. Uses testing to support information assurance. Contributes to the development of policies, standards and guidelines."
+  },
+  "tags": [
+    "knowledge",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/053c36cd18c09c00db4df33b0f21f2d1814f3859e36fccd51be8433ab36cfba4",
+      "targetName": "Information assurance",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/information-strategy/information-assurance",
+      "targetDescription": "The protection of integrity, availability, authenticity, non-repudiation and confidentiality of information and data in storage and in transit. The management of risk in a pragmatic and cost effective manner to ensure stakeholder confidence.",
+      "targetCode": "INAS",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

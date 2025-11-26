@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/c9b3e8831ddf66db81a4357ec726838dd7091deef37b8ba042b63398159105a1.json",
+  "name": "Knowledge of Competency assessment at level 6",
+  "description": "Knowledge of the assessment of knowledge, skills and behaviours by any means whether formal or informal against frameworks such as SFIA. The evaluation, selection, adoption and adaptation of assessment methods, tools, and techniques based on the context of the assessment and how the results of the assessment are to be used. The evaluation of learning or educational activities against defined skills/competency development outcomes.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/LEDA_6_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/1675bc2f1437d3cc7b846144a329739e4df9e07bffff691877f71279cc6a4dc4",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Champions the importance and value of skills/competency assessment and of appropriate assessment methods, tools and techniques. Develops organisational policies, standards, and guidelines for skills/competency assessments aligned with ethical, legal and regulatory requirements. Leads in the introduction and use of assessment methodologies and tools. Determines the need for internal and/or external consistency and reliability of assessment outcomes and how this can be achieved across different user groups."
+  },
+  "tags": [
+    "knowledge",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/f7b40a15715e0c174aeb5678fb8cbbdc048f0014004577b0b8491d4851521794",
+      "targetName": "Competency assessment",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/skill-management/learning-and-development-assessment",
+      "targetDescription": "The assessment of knowledge, skills and behaviours by any means whether formal or informal against frameworks such as SFIA. The evaluation, selection, adoption and adaptation of assessment methods, tools, and techniques based on the context of the assessment and how the results of the assessment are to be used. The evaluation of learning or educational activities against defined skills/competency development outcomes.",
+      "targetCode": "LEDA",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

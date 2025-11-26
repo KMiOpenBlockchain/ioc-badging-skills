@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xeb9f1ccde8507ff03d8475c939d1b8f72c85ad642af919590745e193f90f455f.json",
+  "name": "Proficiency in Data modelling and design at level 4",
+  "description": "Proficiency in the development of models to represent and communicate data requirements and to enable organisations to understand their data assets and the relationships between real-world entities. The investigation, analysis and scoping of data requirements to support the development of software systems, data integration and data retrieval activities. The iteration, review and maintenance of data requirements and data models.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/DTAN_4_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x7aa1e266a2f969adf68524082db9406ac2a8ea1229533dac0161b8672004dc89",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Investigates corporate data requirements, and applies data analysis, design, modelling, and quality assurance techniques, to establish, modify or maintain data structures and their associated components (entity descriptions, relationship descriptions, attribute definitions). Provides advice and guidance to database designers and others using the data structures and associated components.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/4f22783eae949f61662844d32db4bc4802a0b133c66324d59dd1b2694fdf3af4",
+      "targetName": "Data modelling and design",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/systems-development/data-analysis",
+      "targetDescription": "The development of models to represent and communicate data requirements and to enable organisations to understand their data assets and the relationships between real-world entities. The investigation, analysis and scoping of data requirements to support the development of software systems, data integration and data retrieval activities. The iteration, review and maintenance of data requirements and data models.",
+      "targetCode": "DTAN",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xee56a2930ccfc0b2cc494dd02fc8a941b056c73269b204b788e7fea0ee27e904.json",
+  "name": "Proficiency in Learning and development management at level 6",
+  "description": "Proficiency in the provision of learning and development processes (including learning management systems) in order to develop the professional, business and/or technical skills required by the organisation.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ETMG_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xfeda911c1efbd9578d615b6287b2ae583acf0ce49d72da550daf7341917b4144",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Determines the learning and development programme and delivery mechanisms needed to grow staff skills in line with business needs. Identifies appropriate accreditation and qualification paths, applicable to individuals within the organisation. Evaluates learning outcomes. Manages the development and provision of all learning, taking account of the strategic aims of the employing organisation.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/be0cbbb3f30b35533f76ce74e0fd1c108452d06ff3810e24732ae36771646aa0",
+      "targetName": "Learning and development management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/skill-management/learning-and-development-management",
+      "targetDescription": "The provision of learning and development processes (including learning management systems) in order to develop the professional, business and/or technical skills required by the organisation.",
+      "targetCode": "ETMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

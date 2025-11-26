@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/2386d794f5b68b735a8991b085b5f14582f1f3c73b4ef6d449296620e2a44e8a.json",
+  "name": "Competence in Methods and tools at level 5",
+  "description": "Competence in the definition, tailoring, implementation, assessment, measurement, automation and improvement of methods and tools to support planning, development, testing, operation, management and maintenance of systems. Ensuring methods and tools are adopted and used effectively throughout the organisation.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/METL_5_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0dd6eb07b72747536d00b8e199ea5edb19cc8605823c936532a5d17c5a83d085",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Provides advice, guidance and expertise to promote adoption of methods and tools and adherence to policies and standards. Evaluates and selects appropriate methods and tools in line with agreed policies and standards. Implements methods and tools at programme, project and team level including selection and tailoring in line with agreed standards. Manages reviews of the benefits and value of methods and tools. Identifies and recommends improvements. Contributes to organisational policies, standards, and guidelines for methods and tools."
+  },
+  "tags": [
+    "Competence",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/b38ecc0f3852f1469c3c9cd04958796df31dafcb68db9dbaa95a20aa18809eb4",
+      "targetName": "Methods and tools",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/technical-strategy-and-planning/methods-tools",
+      "targetDescription": "The definition, tailoring, implementation, assessment, measurement, automation and improvement of methods and tools to support planning, development, testing, operation, management and maintenance of systems. Ensuring methods and tools are adopted and used effectively throughout the organisation.",
+      "targetCode": "METL",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/c15ec083ce59e43a9f56e687ae169dc029e6b0e404c8144ffc2dfbcea733d7a7.json",
+  "name": "Competence in Information security at level 7",
+  "description": "Competence in the selection, design, justification, implementation and operation of controls and management strategies to maintain the security, confidentiality, integrity, availability, accountability and relevant compliance of information systems with legislation, regulation and relevant standards.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SCTY_7_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/d2bfa3f403c71471cb980e7f5f5853998c1a34141aa1212c895db416ed6a17b5",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Directs the development, implementation, delivery and support of an enterprise information security strategy aligned to the strategic requirements of the business. Ensures compliance between business strategies and information security and leads the provision of information security resources expertise, guidance and systems necessary to execute strategic and operational plans across all of the organisation's information systems."
+  },
+  "tags": [
+    "Competence",
+    "level7"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/2ae4aedf17e97ba3a9a8697e09555c4dcc45145a639bdeca587a0371eeccbd9c",
+      "targetName": "Information security",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/information-strategy/information-security",
+      "targetDescription": "The selection, design, justification, implementation and operation of controls and management strategies to maintain the security, confidentiality, integrity, availability, accountability and relevant compliance of information systems with legislation, regulation and relevant standards.",
+      "targetCode": "SCTY",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

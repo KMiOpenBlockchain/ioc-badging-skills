@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/e70aa53af3b55071eb8ceb3d831380af1c75d272b4caeaf82001989a4f838377.json",
+  "name": "Knowledge of Asset management at level 6",
+  "description": "Knowledge of the management of the lifecycle for all managed assets (hardware, software, intellectual property, licences, warranties etc) including security, inventory, compliance, usage and disposal, aiming to protect and secure the corporate assets portfolio, optimise the total cost of ownership and sustainability by minimising operating costs, improving investment decisions and capitalising on potential opportunities. Knowledge and use of international standards for asset management and close integration with security, change, and configuration management are examples of enhanced asset management development.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ASMG_6_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/c212e84751859961c0c9e9ea7562a8567ff1506be309665abc6be3a461d4d418",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Promotes the continuing economic and effective provision of services, ensuring that all changes to assets and services are appropriately and accurately controlled and recorded. Provides information and advice on issues such as maintenance of hardware assets, licensing of software, protection of intellectual property, and legal obligations. Promotes awareness of and commitment to asset control. Initiates assessment of consequences and risks arising from decisions to obtain, change or continue the possession or use of an asset, system or service."
+  },
+  "tags": [
+    "knowledge",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/5c2e7c8d3f48543e0c92c6e2fc978a34720af670f541a85d0fc6dd3fa563d678",
+      "targetName": "Asset management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-transition/asset-management",
+      "targetDescription": "The management of the lifecycle for all managed assets (hardware, software, intellectual property, licences, warranties etc) including security, inventory, compliance, usage and disposal, aiming to protect and secure the corporate assets portfolio, optimise the total cost of ownership and sustainability by minimising operating costs, improving investment decisions and capitalising on potential opportunities. Knowledge and use of international standards for asset management and close integration with security, change, and configuration management are examples of enhanced asset management development.",
+      "targetCode": "ASMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

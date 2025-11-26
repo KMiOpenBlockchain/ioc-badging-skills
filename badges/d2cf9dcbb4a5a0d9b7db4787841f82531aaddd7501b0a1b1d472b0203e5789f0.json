@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/d2cf9dcbb4a5a0d9b7db4787841f82531aaddd7501b0a1b1d472b0203e5789f0.json",
+  "name": "Competence in Financial management at level 5",
+  "description": "Competence in the overall financial management, control and stewardship of the IT assets and resources used in the provision of IT services, including the identification of materials and energy costs, ensuring compliance with all governance, legal and regulatory requirements.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/FMIT_5_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/6e835da520b55b9b45a307ec1e1015628706ddac4ef03bf0154951cc8a9e92f9",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Advises on financial planning and budgeting. Develops financial plans and forecasts. Monitors and manages IT expenditure, ensuring that all IT financial targets are met, and examining any areas where budgets and expenditure exceed their agreed tolerances. Assists with the definition and operation of effective financial control and decision making, especially in the areas of service, projects and component cost models and the allocation and apportionment of all incurred IT costs. Analyses actual expenditure, explains variances, and advises on options in use of available budget."
+  },
+  "tags": [
+    "Competence",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/50fe7579b534b1f2e2ec67973171bc23f5b1ac226f3d00db212720a63cabc728",
+      "targetName": "Financial management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/financial-management-for-it",
+      "targetDescription": "The overall financial management, control and stewardship of the IT assets and resources used in the provision of IT services, including the identification of materials and energy costs, ensuring compliance with all governance, legal and regulatory requirements.",
+      "targetCode": "FMIT",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x624ff3919438b96375ca34b8fd9d74d5510cfab732f2913d447abdb3d5b1de2b.json",
+  "name": "Proficiency in Sales support at level 6",
+  "description": "Proficiency in the provision of technical advice and assistance to the sales force, sales agents, reseller/distributor staff and existing or prospective customers, either in support of customer development or sales activity or in fulfilment of sales obligations.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SSUP_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x0f07a8a4a24edfcdc553604fb0b5a83c31967216297c328bd299a5e0bcd76db7",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Leads the organisation's customer service activities to ensure that they are aligned with corporate objectives and policy. Approves proposals and initiates the implementation of development activity in customer services and systems.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/9fd46c45e57bbe422090b3562a78da92415dafc35a7230877d12cee1be86eab0",
+      "targetName": "Sales support",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/sales-and-marketing/sales-support",
+      "targetDescription": "The provision of technical advice and assistance to the sales force, sales agents, reseller/distributor staff and existing or prospective customers, either in support of customer development or sales activity or in fulfilment of sales obligations.",
+      "targetCode": "SSUP",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xd8288399b3d7d31aabf4f6629d4bfb911e9a33645e5b3d38136cda7637ad00b5.json",
+  "name": "Proficiency in Innovation at level 7",
+  "description": "Proficiency in the capability to identify, prioritise, incubate and exploit opportunities provided by information, communication and digital technologies. To develop and implement processes, tools and infrastructures to support innovation. To involve internal and external communities, employees, commercial partners, customers, users and other stakeholders in the innovation process. To provide governance, monitoring to, and reporting on, the innovation process.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/INOV_7_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x6bd118651bc5149a240b105082babd1ce7e7cec9cd12fdfd415ce5eb984d07d9",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Leads development of a culture that encourages innovation, risk taking and collaboration. Embeds innovation processes throughout business units and links strategy execution with innovation. Aligns organisational and individual objectives, measures and rewards with innovation.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level7"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/112074749892f59fe006e4911eb3c570b689dbc40fd4b2114574cb44d9de38c2",
+      "targetName": "Innovation",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/innovation",
+      "targetDescription": "The capability to identify, prioritise, incubate and exploit opportunities provided by information, communication and digital technologies. To develop and implement processes, tools and infrastructures to support innovation. To involve internal and external communities, employees, commercial partners, customers, users and other stakeholders in the innovation process. To provide governance, monitoring to, and reporting on, the innovation process.",
+      "targetCode": "INOV",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/b238b3247fc4110e9feaa68fd419239f8d15e73ff69d2020dc5b304dd51788b9.json",
+  "name": "Competence in Performance management at level 5",
+  "description": "Competence in the optimisation of performance of people, including determination of capabilities, integration into teams, allocation of tasks, direction, support, guidance, motivation, and management of performance.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PEMT_5_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/92921ab3d807f0806dcde9521a6f1b44dfd85311474df86708bb88031058e90c",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Manages individuals and groups. Allocates responsibilities and/or packages of work, including supervisory responsibilities. Delegates responsibilities as appropriate. Sets performance targets, and monitors progress against agreed quality and performance criteria. Provides effective feedback, throughout the performance management cycle, to ensure optimum performance. Proactively works to ensure effective working relationships within the team and with those whom the team interacts with. Provides support and guidance as required, in line with individuals' abilities. Advises individuals on career paths, and encourages pro-active development of skills and capabilities and provides mentoring to support professional development. Provides input in to formal processes such as compensation negotiations and disciplinary procedures."
+  },
+  "tags": [
+    "Competence",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/01e30b4b8744d1587e3e3cf012acc4ff3039dde81c30fe310e31a312a43d653b",
+      "targetName": "Performance management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/people-management/performance-management",
+      "targetDescription": "The optimisation of performance of people, including determination of capabilities, integration into teams, allocation of tasks, direction, support, guidance, motivation, and management of performance.",
+      "targetCode": "PEMT",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

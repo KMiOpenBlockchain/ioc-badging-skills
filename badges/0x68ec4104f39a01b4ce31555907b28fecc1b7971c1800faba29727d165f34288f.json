@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x68ec4104f39a01b4ce31555907b28fecc1b7971c1800faba29727d165f34288f.json",
+  "name": "Proficiency in Customer service support at level 6",
+  "description": "Proficiency in the management and operation of one or more customer service or service desk functions. Acting as a point of contact to support service users and customers reporting issues, requesting information, access, or other services. The delivery of customer service through multiple channels including human, digital, self-service and automated.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/CSMG_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x92318d94258b2fbb13bb36a69f7c2d77c85924edbac90085ac0e8f54650c804b",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Influences the strategic direction and takes responsibility for the full range of customer service functions, including organisational frameworks for complaints, service standards and operational agreements. Defines service channels, service levels, standards and the monitoring process for customer service or service desk staff. Provides leadership to deliver the service culture required to deliver required organisational outcomes. Takes responsibility for business continuity and legal, regulatory, and contractual compliance.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/8b9492f3db15edd338988cbcb92d7338b26d918b92541b38dddf8effdf206787",
+      "targetName": "Customer service support",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/relationship-management/client-services-management",
+      "targetDescription": "The management and operation of one or more customer service or service desk functions. Acting as a point of contact to support service users and customers reporting issues, requesting information, access, or other services. The delivery of customer service through multiple channels including human, digital, self-service and automated.",
+      "targetCode": "CSMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

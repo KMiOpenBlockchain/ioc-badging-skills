@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/415be4f87a20195cf29d02a1305014e20cbefdd584e1253aa9f706c557259888.json",
+  "name": "Competence in Problem management at level 4",
+  "description": "Competence in the resolution (both reactive and proactive) of problems throughout the information system lifecycle, including classification, prioritisation and initiation of action, documentation of root causes and implementation of remedies to prevent future incidents.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PBMG_4_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/a69a0f0f569a72cb7affc9737612c64cf9eb3c2e6ba9c4a6eaa6091facb35a18",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Initiates and monitors actions to investigate and resolve problems in systems, processes and services. Determines problem fixes/remedies. Assists with the implementation of agreed remedies and preventative measures."
+  },
+  "tags": [
+    "Competence",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/c64da1b73dd4064a909309a73840bb8d63343a4adaa9f1fb8b1ebaa0d8d2a75e",
+      "targetName": "Problem management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/problem-management",
+      "targetDescription": "The resolution (both reactive and proactive) of problems throughout the information system lifecycle, including classification, prioritisation and initiation of action, documentation of root causes and implementation of remedies to prevent future incidents.",
+      "targetCode": "PBMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

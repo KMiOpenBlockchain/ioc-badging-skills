@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/e6907b831ab9a33cf635bd0e1c3d80080025ccab44e1c10d8972a0753bc454d8.json",
+  "name": "Knowledge of Product management at level 6",
+  "description": "Knowledge of the active management of products or services throughout their lifecycle (inception through to retirement) in order to address market opportunities and customer/user needs and generate the greatest possible value for the business. The adoption and adaptation of product development models based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PROD_6_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/c20335c8360032717e63d1c4bc21824862bab4e63ca21b7ec2e6840c3d1790e3",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Creates the product lifecycle management framework for internal and external customers and users. Champions the importance and value of product management principles and appropriate product development models whether predictive (plan-driven) approaches or more adaptive (iterative/agile) approaches. Aligns the product management objectives with business objectives, and authorises the selection and planning of all product management activities. Initiates creation of new products. Oversees the organisation's suite of products and accountable for delivery of customer value and/or user satisfaction over time. Identifies how new products may create new opportunities and how to adapt existing products to create new opportunities."
+  },
+  "tags": [
+    "knowledge",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/09e19d3591ad82b5ce39a31a75a7883315d16845466325fff38355e8094f2d1a",
+      "targetName": "Product management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/sales-and-marketing/product-management",
+      "targetDescription": "The active management of products or services throughout their lifecycle (inception through to retirement) in order to address market opportunities and customer/user needs and generate the greatest possible value for the business. The adoption and adaptation of product development models based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+      "targetCode": "PROD",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

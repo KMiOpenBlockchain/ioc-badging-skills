@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/31f8738c2c132ff55171b109fddd9497f9239ff0352cb524dd53c85c600cd6e3.json",
+  "name": "Competence in Real-time/embedded systems development at level 6",
+  "description": "Competence in the architecture, design and development of reliable real time software, operating systems, tools and embedded systems. Embedding computer systems with a dedicated function within a larger mechanical or electronic system, often with real-time, safety, security, and reliability constraints. Typically includes interfacing with hardware, mechanical sensors and actuators for monitoring and control in applications such as industrial, automotive, aerospace and medical machinery, robots and equipment including IoT (Internet of Things) devices.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/RESD_6_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/85d7e14e22383379c2218aad55112d7f8adf5c4e8d15b2aeb910e1d07aae0112",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Provides overall direction in the conception and design of real-time/embedded systems. Develops real-time/embedded software architectures in order to exploit new technologies or new uses for existing technologies. Develops effective implementation and procurement strategies, consistent with specified requirements, systems architectures and constraints of performance, cost and feasibility. Sets organisational policies and standards for, and leads on, the development of real-time/embedded systems including how critical non-functional requirements such as performance, safety, security, and reliability are achieved. Drives adoption of and adherence to relevant strategies, policies, standards."
+  },
+  "tags": [
+    "Competence",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/c5953a3db16aa9282ddae34040a56cdefaf04ba5a4ee03cf2672b1cf16cdbb5d",
+      "targetName": "Real-time/embedded systems development",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/systems-development/new-real-time-embedded-systems-devlopment",
+      "targetDescription": "The architecture, design and development of reliable real time software, operating systems, tools and embedded systems. Embedding computer systems with a dedicated function within a larger mechanical or electronic system, often with real-time, safety, security, and reliability constraints. Typically includes interfacing with hardware, mechanical sensors and actuators for monitoring and control in applications such as industrial, automotive, aerospace and medical machinery, robots and equipment including IoT (Internet of Things) devices.",
+      "targetCode": "RESD",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

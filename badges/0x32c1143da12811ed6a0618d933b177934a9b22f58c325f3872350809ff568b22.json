@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x32c1143da12811ed6a0618d933b177934a9b22f58c325f3872350809ff568b22.json",
+  "name": "Proficiency in Financial management at level 4",
+  "description": "Proficiency in the overall financial management, control and stewardship of the IT assets and resources used in the provision of IT services, including the identification of materials and energy costs, ensuring compliance with all governance, legal and regulatory requirements.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/FMIT_4_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x8adb86d97325c841eaf1d9c7c2ddbe86e46a351ffcf235d185c8456df1ca9678",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Monitors and maintains all required financial records for compliance and audit to all agreed requirements. Assists all other areas of IT with their financial tasks, especially in the areas of identification of process, service, project and component costs and the calculation and subsequent reduction of all IT service, project, component and process failures. Contributes to financial planning and budgeting. Collates required financial data and reports for analysis and to facilitate decision making\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/50fe7579b534b1f2e2ec67973171bc23f5b1ac226f3d00db212720a63cabc728",
+      "targetName": "Financial management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/financial-management-for-it",
+      "targetDescription": "The overall financial management, control and stewardship of the IT assets and resources used in the provision of IT services, including the identification of materials and energy costs, ensuring compliance with all governance, legal and regulatory requirements.",
+      "targetCode": "FMIT",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

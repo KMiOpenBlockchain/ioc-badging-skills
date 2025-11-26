@@ -1,0 +1,242 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Institute of Coding Badge Badge Skills - Alignment Microbadges</title>
+
+</head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Institute of Coding Badge Validation - Issuers</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<nav id="topMenu" class="navbar navbar-dark sticky-top bg-primary justify-content-between">
+		<div class="container">
+			<div class="navbar-brand" title="Open University Institute of Coding project website"><h1><img alt="Institute of Coding logo" src="images/ioclogo.svg"></h1></div>
+		</div>
+	</nav>
+
+  <div class="container">
+    <div class="holder-buttons"><a href="index.html"><div class="frontbut">Home</div></a></div>
+
+    <center><h2>Alignment Badges</h2></center>
+    <div class="form-group row">
+        <label for="categoriesFilter" class="col-sm-2 col-form-label"><strong>Category</strong></label>
+        <select class="form-control" id="categoryFilter"></select>
+        <label for="subcategoryFilter" class="col-sm-2 col-form-label"><strong>Subcategory</strong></label>
+        <select class="form-control" id="subcategoryFilter"></select>
+    </div>
+
+    <div class="text-center">
+       <span class="countblock">
+            <label>
+                Count:
+                <span id="counter"></span>
+            </label>
+        </span> 
+    </div>
+
+    <div class="tablewrap viewallbasebadges">   
+        <table id="badgeTable" class="manageTables">
+            <thead>
+            <tr>
+                <th>Image</th>
+                <th>Title</th>
+                <th>Description</th>
+                <th>View JSON</th>
+            </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <div class="pagination" id="pagination"></div>
+  </div>
+
+  <div class="container-fluid">
+    <footer class="footer mt-auto py-3 bg-primary row text-white">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 text-right">
+              <span class="footlogos"><a href="http://kmi.open.ac.uk"><img src="images/kmi-logo-white.png" height="46" alt="Knowledge Media Institute"></a></span>
+              <span class="footlogos"><a href="http://www.open.ac.uk"><img src="images/ou-logo-white.png" height="46" alt="The Open University"></a></span>
+            </div>
+          </div>    
+        </div>
+     </footer>
+  </div>
+
+  <script>
+    let badges = [];
+    let filtered = [];
+    let currentPage = 1;
+    const pageSize = 10;
+
+    const categoryMap = {
+    1: "SFIA: Strategy and architecture",
+    2: "SFIA: Change and transformation",
+    3: "SFIA: Development and implementation",
+    4: "SFIA: Delivery and operation",
+    5: "SFIA: Skills and quality",
+    6: "SFIA: Relationships and engagement",
+    7: "IoC: Gateway skill badges"
+    };
+
+    const subcategoryMap = {
+    1: "Information strategy",
+    2: "Advice and guidance",
+    3: "Business strategy and planning",
+    4: "Technical strategy and planning",
+    5: "Business change implementation",
+    6: "Business change management",
+    7: "Systems development",
+    8: "User experience",
+    9: "Installation and integration",
+    10: "Service design",
+    11: "Service transition",
+    12: "Service operation",
+    13: "Skill management",
+    14: "People management",
+    15: "Quality and conformance",
+    16: "Stakeholder management",
+    17: "Sales and marketing",
+    18: "Gateway"
+    };
+
+    const categoryToSubcategories = {};
+
+    // Utility: get unique values for dropdowns
+    function unique(arr) {
+      return [...new Set(arr)].sort((a, b) => a.localeCompare(b));
+    }
+
+    // Load JSON data
+    fetch('badges.json')
+      .then(r => r.json())
+      .then(data => {
+        badges = data;
+        setupFilters();
+        applyFilters();
+        loadSubCategories();
+    });
+  
+    function updateSubcategoryDropdown(selectedCategory) {
+        const subSel = document.getElementById('subcategoryFilter');
+        let subcategories = [];
+        if (selectedCategory && categoryToSubcategories[selectedCategory]) {
+            subcategories = categoryToSubcategories[selectedCategory];
+        } else {
+            // If no category selected, show all subcategories
+            subcategories = unique(badges.map(b => b.subcategory || ''));
+        }
+        subSel.innerHTML = `<option value="">All</option>` +
+            subcategories.map(s => `<option value="${s}">${subcategoryMap[s] || s}</option>`).join('');
+    }
+
+    // Setup filter dropdowns
+    function setupFilters() {
+        const categories = unique(badges.map(b => b.category || ''));
+        const subcategories = unique(badges.map(b => b.subcategory || ''));
+        const catSel = document.getElementById('categoryFilter');
+        const subSel = document.getElementById('subcategoryFilter');
+        catSel.innerHTML = `<option value="">All</option>` +
+        categories.map(c => `<option value="${c}">${categoryMap[c] || c}</option>`).join('');
+
+        subSel.innerHTML = `<option value="">All</option>` +
+        subcategories.map(s => `<option value="${s}">${subcategoryMap[s] || s}</option>`).join('');
+
+        catSel.onchange = () => {
+            updateSubcategoryDropdown(catSel.value);
+            currentPage = 1;
+            applyFilters();
+        };    
+        
+        subSel.onchange = () => { currentPage = 1; applyFilters(); };
+    }
+
+    function loadSubCategories() {
+        // After loading badges:
+        badges.forEach(b => {
+            if (!categoryToSubcategories[b.category]) categoryToSubcategories[b.category] = new Set();
+            categoryToSubcategories[b.category].add(b.subcategory);
+        });
+        // Convert sets to arrays for easier use:
+        Object.keys(categoryToSubcategories).forEach(cat => {
+            categoryToSubcategories[cat] = Array.from(categoryToSubcategories[cat]);
+        });
+    }
+
+    // Filter and render table
+    function applyFilters() {
+      const cat = document.getElementById('categoryFilter').value;
+      const sub = document.getElementById('subcategoryFilter').value;
+      filtered = badges.filter(b =>
+        (!cat || b.category === cat) &&
+        (!sub || b.subcategory === sub)
+      );
+      renderTable();
+      renderPagination();
+      updateCounter();
+    }
+
+    function updateCounter() {
+        const counter = document.getElementById('counter');
+        counter.textContent = `${filtered.length}`;
+    }
+
+    // Render table for current page
+    function renderTable() {
+      const tbody = document.querySelector('#badgeTable tbody');
+      tbody.innerHTML = '';
+      const start = (currentPage - 1) * pageSize;
+      const page = filtered.slice(start, start + pageSize);
+      for (const b of page) {
+        
+        const maxDesc = 60; // or whatever length you prefer
+        const shortDesc = b.description.length > maxDesc
+        ? b.description.slice(0, maxDesc) + "…"
+        : b.description;
+
+        tbody.innerHTML += `
+          <tr>
+            <td><img height="80" src="${b.imageurl}" /></td>
+            <td>${b.title}</td>
+            <td title="${b.description.replace(/"/g, '&quot;')}">${shortDesc}</td>
+            <td><a href="badges/${encodeURIComponent(b.iocid)}.json">View JSON</a></td>
+          </tr>
+        `;
+      }
+    }
+
+
+    // Render pagination controls
+    function renderPagination() {
+      const totalPages = Math.ceil(filtered.length / pageSize) || 1;
+      const pag = document.getElementById('pagination');
+      pag.innerHTML = '';
+      if (currentPage > 1) {
+        pag.innerHTML += `<button onclick="gotoPage(1)">First</button>`;
+        pag.innerHTML += `<button onclick="gotoPage(${currentPage - 1})">Prev</button>`;
+      }
+      pag.innerHTML += ` Page ${currentPage} of ${totalPages} `;
+      if (currentPage < totalPages) {
+        pag.innerHTML += `<button onclick="gotoPage(${currentPage + 1})">Next</button>`;
+        pag.innerHTML += `<button onclick="gotoPage(${totalPages})">Last</button>`;
+      }
+    }
+
+    // Pagination navigation
+    window.gotoPage = function(n) {
+      currentPage = n;
+      renderTable();
+      renderPagination();
+    };
+  </script>
+
+
+</body>
+</html>

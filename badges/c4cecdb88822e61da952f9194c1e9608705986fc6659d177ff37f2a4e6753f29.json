@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/c4cecdb88822e61da952f9194c1e9608705986fc6659d177ff37f2a4e6753f29.json",
+  "name": "Competence in Product management at level 5",
+  "description": "Competence in the active management of products or services throughout their lifecycle (inception through to retirement) in order to address market opportunities and customer/user needs and generate the greatest possible value for the business. The adoption and adaptation of product development models based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PROD_5_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/e1442a0ded945ea8558d802ce6a8bf4d9d66b45eecdfc20022daf247fa95b35f",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Manages the full product lifecycle to ensure that, over time, the needs of customers/users continue to be met and that financial and other benefits are achieved. Acts as owner/champion for one or more products or services. Selects, adopts and adapts appropriate product development methods, tools, and techniques selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches. Analyses market and/or user research, feedback, expert opinion and usage data to understand needs and opportunities. Develops product propositions and determines product positioning and variants for different customer and user segments. Prioritises product requirements and owns the product backlog. Coordinates trials and product launches and supports communications and training. Anticipates changes in customer/user needs; adapts products, and creates product retirement and transitioning plans."
+  },
+  "tags": [
+    "Competence",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/09e19d3591ad82b5ce39a31a75a7883315d16845466325fff38355e8094f2d1a",
+      "targetName": "Product management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/sales-and-marketing/product-management",
+      "targetDescription": "The active management of products or services throughout their lifecycle (inception through to retirement) in order to address market opportunities and customer/user needs and generate the greatest possible value for the business. The adoption and adaptation of product development models based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+      "targetCode": "PROD",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

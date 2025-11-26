@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x8b6d79137ccb537746c64cc89a9a90bc675114d2f8d681a2686911e1cb69c0d6.json",
+  "name": "Proficiency in IT infrastructure at level 4",
+  "description": "Proficiency in the operation and control of the IT infrastructure (comprising physical or virtual hardware, software, network services and data storage) either on-premises or provisioned as cloud services) that is required to deliver and support the information systems needs of a business. Includes preparation for new or changed services, operation of the change process, the maintenance of regulatory, legal and professional standards, the building and management of systems and components in virtualised and cloud computing environments and the monitoring of performance of systems and services in relation to their contribution to business performance, their security and their sustainability. The application of infrastructure management tools to automate the provisioning, testing, deployment and monitoring of infrastructure components.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ITOP_4_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x44c21736172fb6175c52d2d20767d550ad89bbe680b2598485b12996981f0c0a",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Provides technical expertise to enable the correct application of operational procedures. Uses infrastructure management tools to determine load and performance statistics. Contributes to the planning and implementation of maintenance and installation work, including building and configuration of infrastructure components in virtualised environments. Implements agreed infrastructure changes and maintenance routines. Configures tools to automate the provisioning, testing and deployment of new and changed infrastructure. Identifies operational problems and contributes to their resolution, checking that they are managed in accordance with agreed standards and procedures. Provides reports and proposals for improvement, to specialists, users and managers.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/fd1f5ee2d733093d970db12cd8860fc52d4c36603c59666a75edb62f72979df6",
+      "targetName": "IT infrastructure",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/it-operations",
+      "targetDescription": "The operation and control of the IT infrastructure (comprising physical or virtual hardware, software, network services and data storage) either on-premises or provisioned as cloud services) that is required to deliver and support the information systems needs of a business. Includes preparation for new or changed services, operation of the change process, the maintenance of regulatory, legal and professional standards, the building and management of systems and components in virtualised and cloud computing environments and the monitoring of performance of systems and services in relation to their contribution to business performance, their security and their sustainability. The application of infrastructure management tools to automate the provisioning, testing, deployment and monitoring of infrastructure components.",
+      "targetCode": "ITOP",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

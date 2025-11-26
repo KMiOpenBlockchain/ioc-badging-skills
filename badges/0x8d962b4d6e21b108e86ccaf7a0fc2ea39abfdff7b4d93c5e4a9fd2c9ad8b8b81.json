@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x8d962b4d6e21b108e86ccaf7a0fc2ea39abfdff7b4d93c5e4a9fd2c9ad8b8b81.json",
+  "name": "Proficiency in Systems installation/decommissioning at level 3",
+  "description": "Proficiency in the installation, testing, implementation or decommissioning and removal of cabling, wiring, equipment, hardware and associated software, following plans and instructions and in accordance with agreed standards. The testing of hardware and software components, resolution of malfunctions, and recording of results. The reporting of details of hardware and software installed so that configuration management records can be updated.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/HSIN_3_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xf602882df32c1d562bbebbae9b4bca82b5213ddde18ea5a8052d51188096db91",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Installs or removes hardware and/or software, using supplied installation instructions and tools including, where appropriate, handover to the client. Conducts tests, corrects malfunctions, and documents results in accordance with agreed procedures. Reports details of all hardware/software items that have been installed and removed so that configuration management records can be updated. Provides assistance to users in a professional manner following agreed procedures for further help or escalation. Reviews change requests. Maintains accurate records of user requests, contact details and outcomes. Contributes to the development of installation procedures and standards.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level3"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/1eb5841dbf0d27f2b93e55fd6e352c6ba4de427a70853d783726d3f736f07359",
+      "targetName": "Systems installation/decommissioning",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/installation-and-integration/systems-installation-decommissioning",
+      "targetDescription": "The installation, testing, implementation or decommissioning and removal of cabling, wiring, equipment, hardware and associated software, following plans and instructions and in accordance with agreed standards. The testing of hardware and software components, resolution of malfunctions, and recording of results. The reporting of details of hardware and software installed so that configuration management records can be updated.",
+      "targetCode": "HSIN",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

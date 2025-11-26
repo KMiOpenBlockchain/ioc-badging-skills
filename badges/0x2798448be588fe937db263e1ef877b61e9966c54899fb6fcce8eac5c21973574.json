@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x2798448be588fe937db263e1ef877b61e9966c54899fb6fcce8eac5c21973574.json",
+  "name": "Proficiency in Safety assessment at level 5",
+  "description": "Proficiency in the assessment of safety-related software systems to determine compliance with standards and required levels of safety integrity. This involves making professional judgements on software engineering approaches, including the suitability of design, testing, and validation and verification methods, as well as the identification and evaluation of risks and the means by which they can be reduced. The establishment, maintenance and management of an assessment framework and practices.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SFAS_5_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xa67ce47a083ece993d5451b3f78e3c97d531222ff8be2712687f1ebcc80c9f7b",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Participates in assessments up to IEC 61508 Safety Integrity level 3 (or equivalent standard), and undertakes safety analyses on initial designs using HAZOPS, FMEA or similar methods.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/3678e7599c194704a403ae845f812ee20bb62325b469eaeb1a89ada5fbe9a898",
+      "targetName": "Safety engineering",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/quality-and-conformance/safety-assessment",
+      "targetDescription": "The application of appropriate methods to assure safety during all lifecycle phases of safety-related systems developments, including maintenance and re-use. These include safety hazard and risk analysis, safety requirements specification, safety-related system architectural design, formal method design, safety validation and verification, and safety case preparation.",
+      "targetCode": "SFEN",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

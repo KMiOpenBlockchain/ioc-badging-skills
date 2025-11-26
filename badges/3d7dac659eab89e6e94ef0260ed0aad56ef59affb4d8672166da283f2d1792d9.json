@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/3d7dac659eab89e6e94ef0260ed0aad56ef59affb4d8672166da283f2d1792d9.json",
+  "name": "Knowledge of Business modelling at level 4",
+  "description": "Knowledge of the production of abstract or distilled representations of real world, business or gaming situations in traditional or trans-media applications, to aid the communication and understanding of existing, conceptual or proposed scenarios. Predominantly focused around the representation of processes, roles, data, organisation and time. Models may be used to represent a subject at varying levels of detail and decomposition.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/BSMO_4_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0c7e58fdc4ea1de71c000b336eeef89336333e28b418e686b8e3e0ffbcc04ecb",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Conducts advanced modelling activities for significant change programmes and across multiple business functions. Has an in-depth knowledge of organisation-standard techniques. Plans own modelling activities, selecting appropriate techniques and the correct level of detail for meeting assigned objectives. May contribute to discussions about the choice of the modelling approach to be used. Obtains input from and communicates modelling results to senior managers for agreement."
+  },
+  "tags": [
+    "knowledge",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/902c6d31f19bd5c3f6fb682fb27f2a06c9689874c1c5cb2172b66b9d0e1e6178",
+      "targetName": "Business modelling",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-management/business-modelling",
+      "targetDescription": "The production of abstract or distilled representations of real world, business or gaming situations in traditional or trans-media applications, to aid the communication and understanding of existing, conceptual or proposed scenarios. Predominantly focused around the representation of processes, roles, data, organisation and time. Models may be used to represent a subject at varying levels of detail and decomposition.",
+      "targetCode": "BSMO",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

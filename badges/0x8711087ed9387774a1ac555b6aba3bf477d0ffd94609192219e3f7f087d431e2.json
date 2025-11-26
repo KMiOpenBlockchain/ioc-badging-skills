@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x8711087ed9387774a1ac555b6aba3bf477d0ffd94609192219e3f7f087d431e2.json",
+  "name": "Proficiency in User experience evaluation at level 5",
+  "description": "Proficiency in validation of systems, products or services, to assure that the stakeholder and organisational requirements have been met, required practice has been followed, and systems in use continue to meet organisational and user needs. Iterative assessment (from early prototypes to final live implementation) of effectiveness, efficiency, user satisfaction, health and safety, and accessibility to measure or improve the usability of new or existing processes, with the intention of achieving optimum levels of product or service usability.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/USEV_5_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x4a20eb2f3b87f9625fa39cafb78fef63ea0c1f6f62f132be5ab29151536f2a5d",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Manages user experience evaluation of systems, products or services, to assure that the usability and accessibility requirements have been met, required practice has been followed, and systems in use continue to meet organisational and user needs. Advises on what to evaluate and the type of evaluation to use and the extent of user involvement required. Works iteratively with design teams to ensures that the results of evaluations are understood and acted upon by designers and developers of systems, products and services. Advises on achievement of required usability and accessibility levels of specific designs or prototypes.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/2bf7669f204df4e118a92a3a74a54b757c9689cf0a9e37a209ae20507f92ac33",
+      "targetName": "User experience evaluation",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/human-factors/user-experience-evaluation",
+      "targetDescription": "Validation of systems, products or services, to assure that the stakeholder and organisational requirements have been met, required practice has been followed, and systems in use continue to meet organisational and user needs. Iterative assessment (from early prototypes to final live implementation) of effectiveness, efficiency, user satisfaction, health and safety, and accessibility to measure or improve the usability of new or existing processes, with the intention of achieving optimum levels of product or service usability.",
+      "targetCode": "USEV",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

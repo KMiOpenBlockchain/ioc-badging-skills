@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/753d0d5e00e58e8290e81d3d5ac219f3835ec412e6d3c98cf31fda28ab55ed11.json",
+  "name": "Competence in Network support at level 5",
+  "description": "Competence in the provision of network maintenance and support services. Support may be provided both to users of the systems and to service delivery functions. Support typically takes the form of investigating and resolving problems and providing information about the systems. It may also include monitoring their performance. Problems may be resolved by providing advice or training to users about the network's functionality, correct operation or constraints, by devising work-arounds, correcting faults, or making general or site-specific modifications.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/NTAS_5_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/ae2e621d13a7401e7629ea7081e3f47e7583d971369b817bcd7138947e158009",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Drafts and maintains procedures and documentation for network support. Makes a significant contribution to the investigation, diagnosis and resolution of network problems. Ensures that all requests for support are dealt with according to set standards and procedures."
+  },
+  "tags": [
+    "Competence",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/13e492b770b099419bf52e3e91bf1d2c95f89bdba1e714ce24e1a872f17eed75",
+      "targetName": "Network support",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/network-support",
+      "targetDescription": "The provision of network maintenance and support services. Support may be provided both to users of the systems and to service delivery functions. Support typically takes the form of investigating and resolving problems and providing information about the systems. It may also include monitoring their performance. Problems may be resolved by providing advice or training to users about the network's functionality, correct operation or constraints, by devising work-arounds, correcting faults, or making general or site-specific modifications.",
+      "targetCode": "NTAS",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

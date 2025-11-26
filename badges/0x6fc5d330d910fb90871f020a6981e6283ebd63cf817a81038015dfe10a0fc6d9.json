@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x6fc5d330d910fb90871f020a6981e6283ebd63cf817a81038015dfe10a0fc6d9.json",
+  "name": "Proficiency in Professional development at level 4",
+  "description": "Proficiency in the facilitation of the professional development of individuals, including initiation, monitoring, review and validation of learning and development plans in line with organisational or business requirements. The counselling of participants in all relevant aspects of their continual professional development. The identification of appropriate learning/development resources. Liaison with internal and external training providers. The evaluation of the benefits of continual professional development activities.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PDSV_4_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xaca39732469ce3cd512fc43656a51a2ad28d1dd50135e5d8069a3aeb296dddd8",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Maintains skills framework, or information about access to standard frameworks. Advises on required outcomes for learning or development, from knowledge of skills frameworks and organisational development needs. Assists practitioners with the process of creating development plans based on outcome statements. Monitors practitioners' continuing professional development records, ensuring that achievements and enhanced capabilities are recorded and referenced to the outcome statements.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/0d842462ceec6c4c45f8930994f7ee978b7c71576f7d7ecea2d9defe178a67ac",
+      "targetName": "Professional development",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/people-management/professional-development",
+      "targetDescription": "The facilitation of the professional development of individuals, including initiation, monitoring, review and validation of learning and development plans in line with organisational or business requirements. The counselling of participants in all relevant aspects of their continual professional development. The identification of appropriate learning/development resources. Liaison with internal and external training providers. The evaluation of the benefits of continual professional development activities.",
+      "targetCode": "PDSV",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

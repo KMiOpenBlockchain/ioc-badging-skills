@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/3a8240815e3a53c0ef1fc680443d5c0dde1a17b2ddcf85689791304bb45743e8.json",
+  "name": "Competence in Database administration at level 5",
+  "description": "Competence in the installation, configuration, upgrade, administration, monitoring and maintenance of databases. Providing support for operational databases in production use and for internal or interim purposes such as iterative developments and testing. Improving the performance of databases and the tools and processes for database administration (including automation).",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/DBAD_5_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/da6b18f3dd551d2a6d08716eeeb285c92a6a4c354fd103a613ef656bce90796a",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Develops and maintains procedures and documentation for databases. Identifies, evaluates and manages the adoption of appropriate database administration tools and processes, including automation. Contributes to the setting of standards for definition, security and integrity of database objects and ensures conformance to these standards. Manages database configuration including installing and upgrading software and maintaining relevant documentation. Monitors database activity and resource usage. Optimises database performance and plans for forecast resource needs."
+  },
+  "tags": [
+    "Competence",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/d9770fcb7ca8efa8db5ddbe036a5aba1da9641862df2cbbe9caf969867e532c0",
+      "targetName": "Database administration",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/database-administration",
+      "targetDescription": "The installation, configuration, upgrade, administration, monitoring and maintenance of databases. Providing support for operational databases in production use and for internal or interim purposes such as iterative developments and testing. Improving the performance of databases and the tools and processes for database administration (including automation).",
+      "targetCode": "DBAD",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

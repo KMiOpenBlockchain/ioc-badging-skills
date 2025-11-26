@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xad3bd9310b9bfdd885fa9d358855c5de09593c81b50fe0bc00b5e080a3a41d7e.json",
+  "name": "Proficiency in Penetration testing at level 6",
+  "description": "Proficiency in the assessment of organisational vulnerabilities through the design and execution of penetration tests that demonstrate how an adversary can either subvert the organisation's security goals or achieve specific adversarial objectives. Penetration testing may be a stand-alone activity or an aspect of acceptance testing prior to an approval to operate. The identification of deeper insights into the business risks of various vulnerabilities.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PENT_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xeb172d80f99ff86f3d819dcc4c9793a48c2e1947f1f2bd660448f0554e7081f6",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Takes a comprehensive approach to seeking vulnerabilities across the full spectrum of organisation policies, processes, and defences in order to improve organisational readiness, improve training for defensive practitioners, and inspect current performance levels. Determines testing policy, and owns the supporting processes. Takes responsibility for the management of all vulnerability testing activities within the organisation. Assesses and advises on the practicality of testing process alternatives. Initiates improvements to test processes and directs their implementation. Assesses suppliers' development and testing capabilities. Manages client relationships with respect to all testing matters.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/fe35f8e3de74997d0c114844c20d2aa79502d616148204605aa80f0f2a50077e",
+      "targetName": "Penetration testing",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-operation/penetration-testing",
+      "targetDescription": "The assessment of organisational vulnerabilities through the design and execution of penetration tests that demonstrate how an adversary can either subvert the organisation's security goals or achieve specific adversarial objectives. Penetration testing may be a stand-alone activity or an aspect of acceptance testing prior to an approval to operate. The identification of deeper insights into the business risks of various vulnerabilities.",
+      "targetCode": "PENT",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

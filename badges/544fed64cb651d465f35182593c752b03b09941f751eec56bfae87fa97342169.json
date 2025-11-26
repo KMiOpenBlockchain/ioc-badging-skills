@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/544fed64cb651d465f35182593c752b03b09941f751eec56bfae87fa97342169.json",
+  "name": "Knowledge of Selling at level 4",
+  "description": "Knowledge of the identification of sales prospects and their qualification, the development of customer interest and the preparation (including managing the bid process), execution and monitoring of the sale of any product or service into an external or internal market.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SALE_4_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/9c8f03090802f0dee22a998c2d052181e664777556feff2416e544aec5103197",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Collects and uses information in order to achieve sales objectives. Responds to existing sales leads and identifies and qualifies new leads and prospects with a view to developing a pipeline of potential opportunities. Understands customer and needs, and develops and enhances customer relationships, before, during and after the conclusion of agreements/contracts. Key tasks may also include bid management, value analysis, negotiation, presentation and preparation of contracts. Monitors and reports on quota, performance, customer satisfaction, market intelligence and competitors."
+  },
+  "tags": [
+    "knowledge",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/6eeb2a362356192d37c189bc44fb7519df766bf50ddabbab7e2358d605214370",
+      "targetName": "Selling",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/sales-and-marketing/selling",
+      "targetDescription": "The identification of sales prospects and their qualification, the development of customer interest and the preparation (including managing the bid process), execution and monitoring of the sale of any product or service into an external or internal market.",
+      "targetCode": "SALE",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

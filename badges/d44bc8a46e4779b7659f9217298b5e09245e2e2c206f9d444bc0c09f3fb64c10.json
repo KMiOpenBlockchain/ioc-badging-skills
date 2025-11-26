@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/d44bc8a46e4779b7659f9217298b5e09245e2e2c206f9d444bc0c09f3fb64c10.json",
+  "name": "Competence in Research at level 6",
+  "description": "Competence in the systematic creation of new knowledge by data gathering, innovation, experimentation, evaluation and dissemination. The determination of research goals and the method by which the research will be conducted. The active participation in a community of researchers; communicating formally and informally through digital media, conferences, journals, books and seminars.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/RSCH_6_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/35b702c9f1ffbd52b0e7b7a00c4399ae83f6ba95a044743908449542df4a3715",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Develops the organisation's research policy and supervises the work of research functions. Promotes activities externally, attracts and manages significant portfolios of research funding. Sets research goals and authorises research proposals. Leads strategic and/or interdisciplinary research projects. Maintains a strong external network reaching beyond own immediate area of specialism and takes a leading part in professional activities outside own employing organisation. Presents position or keynote papers at major conferences, writes journal articles for publication in high impact journals, and presents reports to major clients."
+  },
+  "tags": [
+    "Competence",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/9e22bf6f65b8536a94f95ddb28241b8a76d1eb4006aa184546bf779c087c088e",
+      "targetName": "Research",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/research",
+      "targetDescription": "The systematic creation of new knowledge by data gathering, innovation, experimentation, evaluation and dissemination. The determination of research goals and the method by which the research will be conducted. The active participation in a community of researchers; communicating formally and informally through digital media, conferences, journals, books and seminars.",
+      "targetCode": "RSCH",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

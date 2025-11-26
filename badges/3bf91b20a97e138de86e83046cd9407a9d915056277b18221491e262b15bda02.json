@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/3bf91b20a97e138de86e83046cd9407a9d915056277b18221491e262b15bda02.json",
+  "name": "Knowledge of Safety engineering at level 4",
+  "description": "Knowledge of the application of appropriate methods to assure safety during all lifecycle phases of safety-related systems developments, including maintenance and re-use. These include safety hazard and risk analysis, safety requirements specification, safety-related system architectural design, formal method design, safety validation and verification, and safety case preparation.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SFEN_4_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/339033d97e127918054036ecf869a982012f42cf69df59b40da3a81e6590f991",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Contributes to the identification, analysis and documentation of hazards, and to the capture, evaluation and specification of safety requirements. Analyses and documents safety validation results. Contributes to the development and maintenance of project safety assurance plans, and gathers safety assurance evidence for safety case preparation."
+  },
+  "tags": [
+    "knowledge",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/3678e7599c194704a403ae845f812ee20bb62325b469eaeb1a89ada5fbe9a898",
+      "targetName": "Safety engineering",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/quality-and-conformance/safety-assessment",
+      "targetDescription": "The application of appropriate methods to assure safety during all lifecycle phases of safety-related systems developments, including maintenance and re-use. These include safety hazard and risk analysis, safety requirements specification, safety-related system architectural design, formal method design, safety validation and verification, and safety case preparation.",
+      "targetCode": "SFEN",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

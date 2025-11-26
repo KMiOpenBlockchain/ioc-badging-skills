@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x7dc8abb322c1f7059f004dadc0e050b3ee2db25118bb3afc2f5b3ed8c4568c2b.json",
+  "name": "Proficiency in Teaching and subject formation at level 6",
+  "description": "Proficiency in the specification, design, development, delivery and assessment of curricula for computing and for information technology (including electronic communication), at any level of the education system from primary through to tertiary (all age ranges) and in the workplace. The topics addressed are those of the fundamental and more advanced areas of computing and the common skills needed to make productive use of computers and IT systems for both computing and IT professionals and competent users of IT based systems including the ideas of computational thinking and the application of computational concepts to everyday and professional life. Special attention is paid to the methods, techniques and pedagogy (the study of being a teacher, tutor or lecturer, and the process of teaching) of computing & IT education.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/TEAC_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xbd0c8cbd07926421b2c2bccaab44303d349bb21bcde60c032b676dfd7846aca2",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Leads specification, development and delivery of computing and IT curricula in either a formal educational context, from primary through to tertiary level or in the workplace. Specialises in the advanced aspects of delivering Computing and IT education at the relevant educational level. Uses current techniques and methods to evaluate and critique research in computing and IT education and leads the development of good practice in learning content design, development and delivery.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/422aaee920ee494dec977a2fd934a453536bdd3794e544fde422c4ab03f79d8b",
+      "targetName": "Teaching and subject formation",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/skill-management/teaching-and-subject-formation",
+      "targetDescription": "The specification, design, development, delivery and assessment of curricula for computing and for information technology (including electronic communication), at any level of the education system from primary through to tertiary (all age ranges) and in the workplace. The topics addressed are those of the fundamental and more advanced areas of computing and the common skills needed to make productive use of computers and IT systems for both computing and IT professionals and competent users of IT based systems including the ideas of computational thinking and the application of computational concepts to everyday and professional life. Special attention is paid to the methods, techniques and pedagogy (the study of being a teacher, tutor or lecturer, and the process of teaching) of computing & IT education.",
+      "targetCode": "TEAC",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

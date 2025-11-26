@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/e624f8c5cd51f86d2898386e0f7d5939f06300c1dc05999ff8c86ec14fe3bb78.json",
+  "name": "Competence in IT management at level 5",
+  "description": "Competence in the management of the IT infrastructure and resources required to plan for, develop, deliver and support IT services and products to meet the needs of a business. The preparation for new or changed services, management of the change process and the maintenance of regulatory, legal and professional standards. The management of performance of systems and services in terms of their contribution to business performance and their financial costs and sustainability. The management of bought-in services. The development of continual service improvement plans to ensure the IT infrastructure adequately supports business needs.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ITMG_5_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/3b7ad691c1be1ab7f4326be9a915027786a210bf053d91a364be330f55500463",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Takes responsibility for the design, procurement, installation, upgrading, operation, control, maintenance (including storage, modification and communication of data, voice, text, audio and images) and effective use of IT infrastructure components and monitors their performance. Provides technical management of an IT operation, ensuring that agreed service levels are met and all relevant policies and procedures are adhered to. Schedules and supervises all IT maintenance and installation work. Ensures that operational problems are identified, recorded, monitored and resolved. Provides appropriate status and other reports to specialists, users and managers. Ensures that operational procedures and working practices are fit for purpose and current. Investigates and manages the adoption of appropriate tools, techniques and processes (including automation) for the management of systems and services."
+  },
+  "tags": [
+    "Competence",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/46318f6f32a98ce6284a6c7849f180d408d3aae5acfe6c2e3cec5ec0a018d9b1",
+      "targetName": "IT management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/it-management",
+      "targetDescription": "The management of the IT infrastructure and resources required to plan for, develop, deliver and support IT services and products to meet the needs of a business. The preparation for new or changed services, management of the change process and the maintenance of regulatory, legal and professional standards. The management of performance of systems and services in terms of their contribution to business performance and their financial costs and sustainability. The management of bought-in services. The development of continual service improvement plans to ensure the IT infrastructure adequately supports business needs.",
+      "targetCode": "ITMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/81a1221625c2ed331a8875b3fb4cdc7503bafd3f799c3260e972ab7651bbf13e.json",
+  "name": "Knowledge of Methods and tools at level 3",
+  "description": "Knowledge of the definition, tailoring, implementation, assessment, measurement, automation and improvement of methods and tools to support planning, development, testing, operation, management and maintenance of systems. Ensuring methods and tools are adopted and used effectively throughout the organisation.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/METL_3_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/1c315e59b4bc2351dc42b04376503846da5ccb6303ec6cf669b51034a7c3019c",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Provides support on the use of existing methods and tools. Configures methods and tools within a known context. Creates and updates the documentation of methods and tools."
+  },
+  "tags": [
+    "knowledge",
+    "level3"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/b38ecc0f3852f1469c3c9cd04958796df31dafcb68db9dbaa95a20aa18809eb4",
+      "targetName": "Methods and tools",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/technical-strategy-and-planning/methods-tools",
+      "targetDescription": "The definition, tailoring, implementation, assessment, measurement, automation and improvement of methods and tools to support planning, development, testing, operation, management and maintenance of systems. Ensuring methods and tools are adopted and used effectively throughout the organisation.",
+      "targetCode": "METL",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

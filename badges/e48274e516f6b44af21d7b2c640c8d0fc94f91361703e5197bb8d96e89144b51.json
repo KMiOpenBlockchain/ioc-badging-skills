@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/e48274e516f6b44af21d7b2c640c8d0fc94f91361703e5197bb8d96e89144b51.json",
+  "name": "Competence in Learning and development management at level 3",
+  "description": "Competence in the provision of learning and development processes (including learning management systems) in order to develop the professional, business and/or technical skills required by the organisation.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ETMG_3_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/03421501589ec395e50876340c64cced9c4f70a742043cadff2d55e7b1ce2e27",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Contributes to the maintenance and updates of training records and training catalogue."
+  },
+  "tags": [
+    "Competence",
+    "level3"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/be0cbbb3f30b35533f76ce74e0fd1c108452d06ff3810e24732ae36771646aa0",
+      "targetName": "Learning and development management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/skill-management/learning-and-development-management",
+      "targetDescription": "The provision of learning and development processes (including learning management systems) in order to develop the professional, business and/or technical skills required by the organisation.",
+      "targetCode": "ETMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x911dff3f0377ab6dbdd4c91e5fddedbd961c6d7b56841adbbe4b8fc574f0b843.json",
+  "name": "Proficiency in Availability management at level 6",
+  "description": "Proficiency in the definition, analysis, planning, measurement, maintenance and improvement of all aspects of the availability of services, including the availability of power. The overall control and management of service availability to ensure that the level of service delivered in all services is matched to or exceeds the current and future agreed needs of the business, in a cost effective manner.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/AVMT_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xef52100a79780ce72fd1a153956a01e4a37652278493fb4d0d0c38ccff610bd5",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Sets policy and develops strategies, plans and processes for the design, monitoring, measurement, maintenance, reporting and continuous improvement of service and component availability, including the development and implementation of new availability techniques and methods.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/eb026d3b2af2a9cf340c17bb9a97c9c2ee037e34d211d419e17b9d492af97512",
+      "targetName": "Availability management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-design/availability-management",
+      "targetDescription": "The definition, analysis, planning, measurement, maintenance and improvement of all aspects of the availability of services, including the availability of power. The overall control and management of service availability to ensure that the level of service delivered in all services is matched to or exceeds the current and future agreed needs of the business, in a cost effective manner.",
+      "targetCode": "AVMT",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

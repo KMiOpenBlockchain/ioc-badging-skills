@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/cc0a9bac7adae6db6fedb9cc8b2edae55673766c8b14574939708176387d2fd6.json",
+  "name": "Competence in Network planning at level 5",
+  "description": "Competence in the creation and maintenance of overall network plans, encompassing the communication of data, voice, text and image, in the support of an organisation's business strategy. This includes participation in the creation of service level agreements and the planning of all aspects of infrastructure necessary to ensure provision of network services to meet such agreements. Physical implementation may include copper wire, fibre-optic, wireless, or any other technology.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/NTPL_5_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/a2da51327118c5e4310dd9378e32a25506228986eb68935d8e18880dae64effc",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Creates and maintains network plans for own area of responsibility, contributes to setting service level agreements, and plans the infrastructure necessary to provide the network services to meet such agreements."
+  },
+  "tags": [
+    "Competence",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/6eba05b3f16e19e03a5ec47ec67b3b24b35105fe1a33f7facebe4825c558ce95",
+      "targetName": "Network planning",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/technical-strategy-and-planning/network-planning",
+      "targetDescription": "The creation and maintenance of overall network plans, encompassing the communication of data, voice, text and image, in the support of an organisation's business strategy. This includes participation in the creation of service level agreements and the planning of all aspects of infrastructure necessary to ensure provision of network services to meet such agreements. Physical implementation may include copper wire, fibre-optic, wireless, or any other technology.",
+      "targetCode": "NTPL",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

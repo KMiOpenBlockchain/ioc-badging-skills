@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x7cf780fb6585f6617e82adf1a2aa2035d046f86f36159af58589dc37a69ca391.json",
+  "name": "Proficiency in Information assurance at level 7",
+  "description": "Proficiency in the protection of integrity, availability, authenticity, non-repudiation and confidentiality of information and data in storage and in transit. The management of risk in a pragmatic and cost effective manner to ensure stakeholder confidence.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/INAS_7_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x8cc52292d3a9feb5b109b9fb1b6140bdc29aa836fe877bb71587f3ac79991a9b",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Directs the creation and review of an enterprise information assurance strategy to support the strategic requirements of the business. Ensures compliance between business strategies and information assurance by setting strategies, policies, standards and practices and leading the provision of information assurance expertise, advice and guidance across all of the organisation's information and information systems.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level7"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/053c36cd18c09c00db4df33b0f21f2d1814f3859e36fccd51be8433ab36cfba4",
+      "targetName": "Information assurance",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/information-strategy/information-assurance",
+      "targetDescription": "The protection of integrity, availability, authenticity, non-repudiation and confidentiality of information and data in storage and in transit. The management of risk in a pragmatic and cost effective manner to ensure stakeholder confidence.",
+      "targetCode": "INAS",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

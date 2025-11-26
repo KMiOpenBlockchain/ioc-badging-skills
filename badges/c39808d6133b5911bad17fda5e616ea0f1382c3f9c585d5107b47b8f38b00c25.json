@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/c39808d6133b5911bad17fda5e616ea0f1382c3f9c585d5107b47b8f38b00c25.json",
+  "name": "Knowledge of Database design at level 5",
+  "description": "Knowledge of the specification, design and maintenance of mechanisms for storage of and access to data in support of business information needs. Design of the physical data layer, addressing enterprise data resource needs and local stored data structures. Definition of physical or virtual data warehouse structures required to support business intelligence and data analytics services.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/DBDS_5_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/8232348d50ed29f03d553d6b8b0f2c6cc7e3a1aa7318f2480921450be3fe6c70",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Provides expert guidance in the selection, provision and use of database and data warehouse architectures, software and facilities. Provides specialist expertise in the design characteristics of database management systems (DBMS) or data warehouse products/services. Ensures that physical database design policy supports transactional data requirements for performance and availability. Ensures that data warehouse design policy supports demands for business intelligence and data analytics."
+  },
+  "tags": [
+    "knowledge",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/f4006797f79427fe4ec5af361983cf8b845a81233dd0412594b0d98f20f25395",
+      "targetName": "Database design",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/systems-development/database-repository-design",
+      "targetDescription": "The specification, design and maintenance of mechanisms for storage of and access to data in support of business information needs. Design of the physical data layer, addressing enterprise data resource needs and local stored data structures. Definition of physical or virtual data warehouse structures required to support business intelligence and data analytics services.",
+      "targetCode": "DBDS",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

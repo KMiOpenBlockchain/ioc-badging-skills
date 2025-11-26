@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/b0f61b6655d27d2394bf8d578967fd9afe733b4bfe6f10bf516ed8c4a66758ca.json",
+  "name": "Competence in Benefits management at level 6",
+  "description": "Competence in establishing an approach for forecasting, planning and monitoring the emergence and effective realisation of anticipated benefits. Identifying and implementing the actions needed to optimise the business impact of individual and combined benefits. The confirmation of the achievement of expected benefits.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/BENM_6_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/92cfd5834d05da14c0ac781a84c37e71d6d269260d7f1c5939d135138902d33c",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Promotes the change programme vision to staff at all levels of the business operation, brings order to complex situations, and keeps a focus on business objectives. Works with operational managers to ensure maximum improvements are made in the business operations as groups of projects deliver their products into operational use. Maintains the business case for funding the programme and confirms continuing business viability of the programme at regular intervals."
+  },
+  "tags": [
+    "Competence",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/88e0b3ca32a9e2a0736c53977bf09e68424126e7e04ead4fb78a39d665857c1a",
+      "targetName": "Benefits management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-management/benefits-management",
+      "targetDescription": "Establishing an approach for forecasting, planning and monitoring the emergence and effective realisation of anticipated benefits. Identifying and implementing the actions needed to optimise the business impact of individual and combined benefits. The confirmation of the achievement of expected benefits.",
+      "targetCode": "BENM",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

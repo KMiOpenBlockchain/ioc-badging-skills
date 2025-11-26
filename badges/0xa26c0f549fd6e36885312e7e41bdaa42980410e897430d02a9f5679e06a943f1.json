@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xa26c0f549fd6e36885312e7e41bdaa42980410e897430d02a9f5679e06a943f1.json",
+  "name": "Proficiency in Release and deployment at level 6",
+  "description": "Proficiency in the management of the processes, systems and functions to package, build, test and deploy changes and updates (which are bounded as �releases�) into a live environment, establishing or continuing the specified service, to enable controlled and effective handover to operational management and the user community. The application of automation to improve the efficiency and quality of releases.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/RELM_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xc60fcdeb890a68f5bad85e8b6cbf91698437781caa5c48de34732c3360bad94c",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Sets the release policy for the organisation in the context of both development and production/operations. Ensures that management processes, tools, techniques and resources (including automation) are in place to ensure that the transition of services, service components and packages are planned and compliant and that test and validation and configuration management are partnered in all release and deployment activities. Provides authorisation for critical release activity and point of escalation.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/dfa0c458a378a368d6db9f02436b3f52eeafcc0e5af1a68bee5788c0146665b8",
+      "targetName": "Release and deployment",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-transition/release-and-deployment",
+      "targetDescription": "The management of the processes, systems and functions to package, build, test and deploy changes and updates (which are bounded as �releases�) into a live environment, establishing or continuing the specified service, to enable controlled and effective handover to operational management and the user community. The application of automation to improve the efficiency and quality of releases.",
+      "targetCode": "RELM",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

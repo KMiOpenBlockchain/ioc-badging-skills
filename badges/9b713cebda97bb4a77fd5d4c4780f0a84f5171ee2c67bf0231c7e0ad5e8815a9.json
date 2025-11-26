@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/9b713cebda97bb4a77fd5d4c4780f0a84f5171ee2c67bf0231c7e0ad5e8815a9.json",
+  "name": "Competence in Project management at level 4",
+  "description": "Competence in the management of projects, typically (but not exclusively) involving the development and implementation of business processes to meet identified business needs, acquiring and utilising the necessary resources and skills, within agreed parameters of cost, timescales, and quality. The adoption and adaptation of project management methodologies based on the context of the project and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PRMG_4_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/4679d59be9035c02a2c8c3bc2c55ee3982442ac76099757ac4c9b0e7a4e10854",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Defines, documents and carries out small projects or sub-projects (typically less than six months, with limited budget, limited interdependency with other projects, and no significant strategic impact), alone or with a small team, actively participating in all phases. Identifies, assesses and manages risks to the success of the project. Applies appropriate project management methods and tools whether predictive (plan-driven) approaches or adaptive (iterative/agile) approaches. Agrees project approach with stakeholders, and prepares realistic plans (including quality, risk and communications plans) and tracks activities against the project schedule, managing stakeholder involvement as appropriate. Monitors costs, timescales and resources used, and takes action where these deviate from agreed tolerances. Ensures that own projects are formally closed and, where appropriate, subsequently reviewed, and that lessons learned are recorded."
+  },
+  "tags": [
+    "Competence",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/09f04e627dcaf727c137ee3b6dc9c8074f316687471870f16ca568c428d4b8bc",
+      "targetName": "Project management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-implementation/project-management",
+      "targetDescription": "The management of projects, typically (but not exclusively) involving the development and implementation of business processes to meet identified business needs, acquiring and utilising the necessary resources and skills, within agreed parameters of cost, timescales, and quality. The adoption and adaptation of project management methodologies based on the context of the project and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+      "targetCode": "PRMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

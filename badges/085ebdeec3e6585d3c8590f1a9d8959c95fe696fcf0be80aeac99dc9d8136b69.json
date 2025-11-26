@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/085ebdeec3e6585d3c8590f1a9d8959c95fe696fcf0be80aeac99dc9d8136b69.json",
+  "name": "Knowledge of Analytics at level 3",
+  "description": "Knowledge of the application of mathematics, statistics, predictive modeling and machine-learning techniques to discover meaningful patterns and knowledge in recorded data. Analysis of data with high volumes, velocities and variety (numbers, symbols, text, sound and image). Development of forward-looking, predictive, real-time, model-based insights to create value and drive effective decision-making. The identification, validation and exploitation of internal and external data sets generated from a diverse range of processes.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/INAN_3_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/bf44e7d10a11bd37bb0d1211aed7ae50d9e2642f2bf43cde14131946384a4055",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Undertakes analytical activities and delivers analysis outputs, in accordance with customer needs and conforming to agreed standards."
+  },
+  "tags": [
+    "knowledge",
+    "level3"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/d2df8413f03d80fbef83940602b62626b1545a50ef1309a522a984add4ca2b6b",
+      "targetName": "Analytics",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/information-strategy/information-analysis",
+      "targetDescription": "The application of mathematics, statistics, predictive modeling and machine-learning techniques to discover meaningful patterns and knowledge in recorded data. Analysis of data with high volumes, velocities and variety (numbers, symbols, text, sound and image). Development of forward-looking, predictive, real-time, model-based insights to create value and drive effective decision-making. The identification, validation and exploitation of internal and external data sets generated from a diverse range of processes.",
+      "targetCode": "INAN",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

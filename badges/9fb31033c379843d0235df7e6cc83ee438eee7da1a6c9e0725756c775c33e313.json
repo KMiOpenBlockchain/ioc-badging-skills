@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/9fb31033c379843d0235df7e6cc83ee438eee7da1a6c9e0725756c775c33e313.json",
+  "name": "Knowledge of Specialist advice at level 6",
+  "description": "Knowledge of the development and exploitation of expertise in any specific area of information or communications technology, digital working, specific techniques, methodologies, products or application areas, for the purposes of providing specialist advice.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/TECH_6_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/54b85b1ff825cb7bd192701ba58572d7b847d78734579195e32aea5875a4fc03",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Provides organisational leadership and guidelines to promote the development and exploitation of specialist knowledge in the organisation. Maintains a network of recognised experts (inside and/or outside the organisation) who can deliver expert advice in areas relevant to the organisation's current and future needs. Provides input into professional development planning across a significant part of the organisation to further the development of appropriate expertise."
+  },
+  "tags": [
+    "knowledge",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/54dfa838a0f9f157b2ae7b79237bee55d1c2eac59b34526952f5a4bfaf8b894a",
+      "targetName": "Specialist advice",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/advice-and-guidance/technical-specialism",
+      "targetDescription": "The development and exploitation of expertise in any specific area of information or communications technology, digital working, specific techniques, methodologies, products or application areas, for the purposes of providing specialist advice.",
+      "targetCode": "TECH",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

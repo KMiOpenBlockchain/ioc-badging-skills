@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/4e317ef0d16a38a5349d298dd4812df09ffe2f22708e259e1a7ef1ea9a7b5b59.json",
+  "name": "Competence in Programme management at level 7",
+  "description": "Competence in the identification, planning and coordination of a set of related projects within a programme of business change, to manage their interdependencies in support of specific business strategies and objectives. The maintenance of a strategic view over the set of projects, providing the framework for implementing business initiatives, or large-scale change, by conceiving, maintaining and communicating a vision of the outcome of the programme and associated benefits. (The vision, and the means of achieving it, may change as the programme progresses). Agreement of business requirements, and translation of requirements into operational plans. Determination, monitoring, and review of programme scope, costs, and schedule, programme resources, inter-dependencies and programme risk.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PGMG_7_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/2b14aab34eed902eed664b0ec277c6108e036aa44e1be230848c503debc5bec4",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Sets organisational strategy governing the direction and conduct of programme management, including application of appropriate methodologies. Plans, directs, and co-ordinates activities to manage and implement complex programmes from contract /proposal initiation to full integration with �business as usual�. Aligns the programme objectives with business objectives, and authorises the selection and planning of all related projects and activities. Plans, schedules, monitors, and reports on activities related to the programme, ensuring that there are appropriate and effective governance arrangements, supported by comprehensive reporting and communication."
+  },
+  "tags": [
+    "Competence",
+    "level7"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/fef9db4d0a7f7c24ccdd6450a6d421bb89cc88e6e152206454d080adefb5b4e8",
+      "targetName": "Programme management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-implementation/programme-management",
+      "targetDescription": "The identification, planning and coordination of a set of related projects within a programme of business change, to manage their interdependencies in support of specific business strategies and objectives. The maintenance of a strategic view over the set of projects, providing the framework for implementing business initiatives, or large-scale change, by conceiving, maintaining and communicating a vision of the outcome of the programme and associated benefits. (The vision, and the means of achieving it, may change as the programme progresses). Agreement of business requirements, and translation of requirements into operational plans. Determination, monitoring, and review of programme scope, costs, and schedule, programme resources, inter-dependencies and programme risk.",
+      "targetCode": "PGMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

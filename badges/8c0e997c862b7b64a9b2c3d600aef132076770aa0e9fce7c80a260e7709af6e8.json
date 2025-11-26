@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/8c0e997c862b7b64a9b2c3d600aef132076770aa0e9fce7c80a260e7709af6e8.json",
+  "name": "Competence in Consultancy at level 5",
+  "description": "Competence in the provision of advice and recommendations, based on expertise and experience, to address client needs. May deal with one specialist subject area, or can be wide ranging and address strategic business issues. May also include support for the implementation of any agreed solutions.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/CNSL_5_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/d7bf6ea1e1dfda3d2f43e0d015111b3a0993396ad382c718289802d710df4566",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Takes responsibility for understanding client requirements, collecting data, delivering analysis and problem resolution. Identifies, evaluates and recommends options, implementing if required. Collaborates with, and facilitates stakeholder groups, as part of formal or informal consultancy agreements. Seeks to fully address client needs, enhancing the capabilities and effectiveness of client personnel, by ensuring that proposed solutions are properly understood and appropriately exploited."
+  },
+  "tags": [
+    "Competence",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/c71f0b30bf039809e25b95e8abb50d93e853dff124664d684310e09d90203b1f",
+      "targetName": "Consultancy",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/advice-and-guidance/consultancy",
+      "targetDescription": "The provision of advice and recommendations, based on expertise and experience, to address client needs. May deal with one specialist subject area, or can be wide ranging and address strategic business issues. May also include support for the implementation of any agreed solutions.",
+      "targetCode": "CNSL",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

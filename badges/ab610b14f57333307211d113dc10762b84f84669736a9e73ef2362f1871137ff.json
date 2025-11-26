@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/ab610b14f57333307211d113dc10762b84f84669736a9e73ef2362f1871137ff.json",
+  "name": "Knowledge of Contract management at level 5",
+  "description": "Knowledge of the overall management and control of the operation of formal contracts for supply of products and services.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ITCM_5_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/5b24bd06ba4f43474f73d9de4a39c150d20417ed00732880398c0a3393caea38",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Oversees and measures the fulfillment of contractual obligations. Uses key performance indicators (KPIs) to monitor and challenge performance and identify opportunities for continuous improvement. Develops strategies to address under-performance and compliance failures, including application of contract terms. Identifies where changes are required, evaluates the impact, and advises stakeholders about the implications and consequences for the business and/or the procurement element of programmes/projects. Negotiates variations and seeks appropriate authorisation. Actively supports and engages with experts and stakeholders to ensure continuous improvements are identified through review and benchmarking processes. Develops and implements change management protocols."
+  },
+  "tags": [
+    "knowledge",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/3e666428ed1cf12c14f6a0e0059761ae26b01561adda2509638cade1852f0270",
+      "targetName": "Contract management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/relationship-management/contract-management",
+      "targetDescription": "The overall management and control of the operation of formal contracts for supply of products and services.",
+      "targetCode": "ITCM",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

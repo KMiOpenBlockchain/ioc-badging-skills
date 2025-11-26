@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x71cd25ee07ce87fd85355e5467fbad87f950bf0b44a9df54064e917b1c231ab3.json",
+  "name": "Proficiency in Information governance at level 6",
+  "description": "Proficiency in the overall governance of how all types of information, structured and unstructured, whether produced internally or externally, are used to support decision-making, business processes and digital services. Encompasses development and promotion of the strategy and policies covering the design of information structures and taxonomies, the setting of policies for the sourcing and maintenance of the data content, and the development of policies, procedures, working practices and training to promote compliance with legislation regulating all aspects of holding, use and disclosure of data.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/IRMG_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x630fe08e56fe9e470f18307c0237eeb95671f1ad00353b8d226ec5185ce3b7a9",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Develops organisational policies, standards, and guidelines for information and records management ensuring that uniformly recognised and accepted data definitions are developed and applied throughout the organisation. Ensures that the business processes and information required to support the organisation are defined, and devises appropriate processes and data architectures. Identifies the impact of any relevant statutory, internal or external regulations on the organisation's use of information and develops strategies for compliance. Leads and plans activities to communicate and implement information management strategies. Coordinates information resources to meet specific business objectives whilst maintaining the principles of professional standards, accountability, openness, equality, diversity and clarity of purpose. Implements systems and controls to measure performance and manage risk.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/98cff68585bf5ec4a5dc5a53ffa69cb99f2b153298910fdd42c3e452d02bc9fd",
+      "targetName": "Information governance",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/information-strategy/information-management",
+      "targetDescription": "The overall governance of how all types of information, structured and unstructured, whether produced internally or externally, are used to support decision-making, business processes and digital services. Encompasses development and promotion of the strategy and policies covering the design of information structures and taxonomies, the setting of policies for the sourcing and maintenance of the data content, and the development of policies, procedures, working practices and training to promote compliance with legislation regulating all aspects of holding, use and disclosure of data.",
+      "targetCode": "IRMG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/24137fe12598e8905ae3efad55f8864cfb4b16357c3a214457343aae1020d614.json",
+  "name": "Knowledge of Marketing at level 4",
+  "description": "Knowledge of the research, analysis and stimulation of potential or existing markets for IT and related products and services, both to provide a sound basis for business development and to generate a satisfactory flow of customer enquiries. The management and development of strategies, campaigns and day-to-day marketing activity delivered through appropriate channels",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/MKTG_4_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/9da1fd46ec3ff6002e41075c2fd4f92687fdbbdd94a40af239644d273364657a",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Plans and conducts market research to investigate and further understand customer and competitor dynamics, using appropriate channels and tools to engage with the desired audience(s). Uses research and lessons learned to inform marketing plans, including planning for customer loyalty. Creates unique selling points, and key messages for marketing material. Makes creative use of elements relevant to both digital and traditional environments, and drafts appropriate support materials. Analyses the effectiveness of campaigns and services and their impact on audience behaviour and business outcomes. Organises and participates actively in marketing events."
+  },
+  "tags": [
+    "knowledge",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/7fcfd396e0e01ebb0e87c41ff1204fc07e9bf2cb9ebf1d695c6d376c48c5adc4",
+      "targetName": "Marketing",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/sales-and-marketing/marketing",
+      "targetDescription": "The research, analysis and stimulation of potential or existing markets for IT and related products and services, both to provide a sound basis for business development and to generate a satisfactory flow of customer enquiries. The management and development of strategies, campaigns and day-to-day marketing activity delivered through appropriate channels",
+      "targetCode": "MKTG",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

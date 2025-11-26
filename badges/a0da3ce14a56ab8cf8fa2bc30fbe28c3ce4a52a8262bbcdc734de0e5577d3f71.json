@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/a0da3ce14a56ab8cf8fa2bc30fbe28c3ce4a52a8262bbcdc734de0e5577d3f71.json",
+  "name": "Knowledge of Teaching and subject formation at level 5",
+  "description": "Knowledge of the specification, design, development, delivery and assessment of curricula for computing and for information technology (including electronic communication), at any level of the education system from primary through to tertiary (all age ranges) and in the workplace. The topics addressed are those of the fundamental and more advanced areas of computing and the common skills needed to make productive use of computers and IT systems for both computing and IT professionals and competent users of IT based systems including the ideas of computational thinking and the application of computational concepts to everyday and professional life. Special attention is paid to the methods, techniques and pedagogy (the study of being a teacher, tutor or lecturer, and the process of teaching) of computing & IT education.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/TEAC_5_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/ab2729fcee286836f64c152c453e12d8eb7ff5444b9b925ebed98604fde23148",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Delivers computing and IT curricula either in a formal educational context from primary through to tertiary level or in the workplace. Specialises in delivering Computing and IT education at the relevant educational level. Is aware of the techniques and methods used to evaluate and critique research in computing and IT education and applies good practice in learning content design, development and delivery."
+  },
+  "tags": [
+    "knowledge",
+    "level5"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/422aaee920ee494dec977a2fd934a453536bdd3794e544fde422c4ab03f79d8b",
+      "targetName": "Teaching and subject formation",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/skill-management/teaching-and-subject-formation",
+      "targetDescription": "The specification, design, development, delivery and assessment of curricula for computing and for information technology (including electronic communication), at any level of the education system from primary through to tertiary (all age ranges) and in the workplace. The topics addressed are those of the fundamental and more advanced areas of computing and the common skills needed to make productive use of computers and IT systems for both computing and IT professionals and competent users of IT based systems including the ideas of computational thinking and the application of computational concepts to everyday and professional life. Special attention is paid to the methods, techniques and pedagogy (the study of being a teacher, tutor or lecturer, and the process of teaching) of computing & IT education.",
+      "targetCode": "TEAC",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

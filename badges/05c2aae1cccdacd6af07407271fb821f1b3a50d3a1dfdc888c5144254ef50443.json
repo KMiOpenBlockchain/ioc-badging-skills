@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/05c2aae1cccdacd6af07407271fb821f1b3a50d3a1dfdc888c5144254ef50443.json",
+  "name": "Knowledge of Data management at level 4",
+  "description": "Knowledge of the management of practices and processes to ensure the security, quality, integrity, safety and availability of all forms of data and data structures that make up the organisation's information. The management of data and information in all its forms and the analysis of information structure (including logical analysis of taxonomies, data and metadata). The development of innovative ways of managing the information assets of the organisation.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/DATM_4_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/6163eed5dcc24ee1da501e9c048389de939f3f4caca58bebf0f85c47250ff823",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Takes responsibility for the accessibility, retrievability, security, quality, retention and ethical handling of specific subsets of data. Assesses the integrity of data from multiple sources. Provides advice on the transformation of data/information from one format or medium to another. Maintains and implements information handling procedures. Enables the availability, integrity and searchability of information through the application of formal data and metadata structures and protection measures. Manipulates specific data from information services, to satisfy defined information needs."
+  },
+  "tags": [
+    "knowledge",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/9315937abf57b00eb6ea62218267b07fd8f58b47944ceb88ef567e4a0ede930e",
+      "targetName": "Data management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/technical-strategy-and-planning/data-management",
+      "targetDescription": "The management of practices and processes to ensure the security, quality, integrity, safety and availability of all forms of data and data structures that make up the organisation's information. The management of data and information in all its forms and the analysis of information structure (including logical analysis of taxonomies, data and metadata). The development of innovative ways of managing the information assets of the organisation.",
+      "targetCode": "DATM",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

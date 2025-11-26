@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x7d3dc9c1fe9875f19ef009fa9b7fb1371e55572de72d9848d5909fe2dcc2a0ae.json",
+  "name": "Proficiency in Service acceptance at level 6",
+  "description": "Proficiency in the achievement of formal confirmation that service acceptance criteria have been met, and that the service provider is ready to operate the new service when it has been deployed. (Service acceptance criteria are used to ensure that a service meets the defined service requirements, including functionality, operational support, performance and quality requirements).",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SEAC_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xba416b77346ff8ef512a4f428fdd5c3121e6bf9e2652591bcfbb34d2b527aad3",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Owns the transition process, develops the organisation's approach and defines the acceptance criteria for service transition. Promotes and monitors project quality outputs to ensure they are fit for purpose and fit for use within operational service. Actively engages with technical design and project managers to promote awareness and compliance with service transition quality plans and processes. Agrees the service acceptance criteria with project/programme managers.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/14c797b1a73c229514cc64f55146ffa17ec1be4a3d1598a0835023a271acac75",
+      "targetName": "Service acceptance",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/service-management/service-transition/service-acceptance",
+      "targetDescription": "The achievement of formal confirmation that service acceptance criteria have been met, and that the service provider is ready to operate the new service when it has been deployed. (Service acceptance criteria are used to ensure that a service meets the defined service requirements, including functionality, operational support, performance and quality requirements).",
+      "targetCode": "SEAC",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

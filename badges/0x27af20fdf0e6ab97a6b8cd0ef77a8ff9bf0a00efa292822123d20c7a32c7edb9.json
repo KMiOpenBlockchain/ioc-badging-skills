@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x27af20fdf0e6ab97a6b8cd0ef77a8ff9bf0a00efa292822123d20c7a32c7edb9.json",
+  "name": "Proficiency in Contract management at level 4",
+  "description": "Proficiency in the overall management and control of the operation of formal contracts for supply of products and services.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/ITCM_4_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xee036f04232669616a4e94ff78966092d285c42e88e0f1d479a98328830b3838",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Sources and collects contract performance data (such as pricing and supply chain costs), and monitors performance against KPIs. Identifies and reports under-performance and develops opportunities for improvement. Monitors compliance with Terms and Conditions and take appropriate steps to address non-compliance. Pro-actively manages risk and reward mechanisms in the contract. Monitors progress against business objectives specified in the business case. Identifies where change is required, and plans for variations. In consultation with stakeholders, ensures that change management protocols are implemented.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/3e666428ed1cf12c14f6a0e0059761ae26b01561adda2509638cade1852f0270",
+      "targetName": "Contract management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/relationship-management/contract-management",
+      "targetDescription": "The overall management and control of the operation of formal contracts for supply of products and services.",
+      "targetCode": "ITCM",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

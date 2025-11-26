@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/4a23d0fd9d70766e1c21d878506fa6e2dc0877d0993e92658e5877839b01ae6d.json",
+  "name": "Competence in Product management at level 3",
+  "description": "Competence in the active management of products or services throughout their lifecycle (inception through to retirement) in order to address market opportunities and customer/user needs and generate the greatest possible value for the business. The adoption and adaptation of product development models based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/PROD_3_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/91935ae7231b3b674bcfee6bfb8fd3bc2a013fae134137762325895da8c6113b",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Applies standard techniques and tools to carry out analysis and performance monitoring activities for specified products. Supports problem resolution, resolves issues and acts on feedback and usage of in-life products. Creates product collateral and monitors results and feedback from product campaigns."
+  },
+  "tags": [
+    "Competence",
+    "level3"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/09e19d3591ad82b5ce39a31a75a7883315d16845466325fff38355e8094f2d1a",
+      "targetName": "Product management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/sales-and-marketing/product-management",
+      "targetDescription": "The active management of products or services throughout their lifecycle (inception through to retirement) in order to address market opportunities and customer/user needs and generate the greatest possible value for the business. The adoption and adaptation of product development models based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",
+      "targetCode": "PROD",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xbc6cc1178f9ab555124fda06f6e2d26c8b8e71dc696a63f311111774f0f7754f.json",
+  "name": "Proficiency in Business process testing at level 6",
+  "description": "Proficiency in the planning, design, management, execution and reporting of business process tests and usability evaluations. The application of evaluation skills to the assessment of the ergonomics, usability and fitness for purpose of defined processes. This includes the synthesis of test tasks to be performed (from statement of user needs and user interface specification), the design of an evaluation programme, the selection of user samples, the analysis of performance, and inputting results to the development team.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/BPTS_6_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xc5f0b4832536b703ae60be9545fc90a0ec3dea1803227880ecdaf6ec2e5afa63",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Is responsible for organisational commitment to high standards in human factors. Specifies ergonomics standards and methods to meet organisational objectives. Sets the policy and standards for business process testing. Manages the design and execution of business process tests, usability evaluations, network and business trials, confidence tests. Maintains an overview of the business environment, required outcomes and potential exposures.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level6"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/cea7d973bc9c0c3e64b0c67dd9ec43ea17d4e28b3ec99368b1bdd1186dca3785",
+      "targetName": "Business process testing",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/business-change/business-change-management/business-process-testing",
+      "targetDescription": "The planning, design, management, execution and reporting of business process tests and usability evaluations. The application of evaluation skills to the assessment of the ergonomics, usability and fitness for purpose of defined processes. This includes the synthesis of test tasks to be performed (from statement of user needs and user interface specification), the design of an evaluation programme, the selection of user samples, the analysis of performance, and inputting results to the development team.",
+      "targetCode": "BPTS",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

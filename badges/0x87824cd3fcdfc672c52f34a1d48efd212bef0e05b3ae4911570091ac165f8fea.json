@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x87824cd3fcdfc672c52f34a1d48efd212bef0e05b3ae4911570091ac165f8fea.json",
+  "name": "Proficiency in Quality assurance at level 3",
+  "description": "Proficiency in the process of ensuring, through independent assessment and review, that appropriate working practices, quality control activities, organisational processes and quality standards are in place and adhered to and that best practices are promoted throughout the organisation. Quality assurance provides confidence to internal management and external bodies, such as customers or regulators, that quality requirements will be fulfilled. Quality assurance may relate to any area where quality standards are applied, including products, data, services and business processes.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/QUAS_3_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x8bee1b77c778001424ab0459d2fde7731b7661dc3beba061b6c74a286f41c61b",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Contributes to the collection of evidence and the conduct of formal audits or reviews of activities, processes, data, products or services. Examines records for evidence that appropriate testing and other quality control activities have taken place and determines compliance with organisational directives, standards and procedures. Identifies non-compliances, non-conformances and abnormal occurrences.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level3"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/7d6538001150cefe6c7a37660a696a8099751f494c5546473e35ba12276d92a2",
+      "targetName": "Quality assurance",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/procurement-management-support/quality-and-conformance/quality-assurance",
+      "targetDescription": "The process of ensuring, through independent assessment and review, that appropriate working practices, quality control activities, organisational processes and quality standards are in place and adhered to and that best practices are promoted throughout the organisation. Quality assurance provides confidence to internal management and external bodies, such as customers or regulators, that quality requirements will be fulfilled. Quality assurance may relate to any area where quality standards are applied, including products, data, services and business processes.",
+      "targetCode": "QUAS",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

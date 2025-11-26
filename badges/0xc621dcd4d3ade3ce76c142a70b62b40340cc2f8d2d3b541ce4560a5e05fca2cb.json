@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xc621dcd4d3ade3ce76c142a70b62b40340cc2f8d2d3b541ce4560a5e05fca2cb.json",
+  "name": "Proficiency in Supplier management at level 3",
+  "description": "Proficiency in the alignment of an organisation's supplier performance objectives and activities with sourcing strategies and plans, balancing costs, efficiencies and service quality. The establishment of working relationships based on collaboration, trust, and open communication in order to encourage co-innovation and service improvement with suppliers. The proactive engagement of suppliers for mutual benefit to resolve operational incidents, problems, poor performance and other sources of conflict. The use of clear escalation paths for discussing and resolving issues. The management of performance and risks across multiple suppliers (internal and external) using a set of agreed metrics.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/SUPP_3_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0xdc309e5eaf07173b7a8b8503909592a1646c235d8388d587f3b733a4c9dab382",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Acts as the routine contact point between the organisation and suppliers. Supports resolution of supplier related incidents, problems, or unsatisfactory performance. Collects and reports on supplier performance data.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level3"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/83bbdf6bca69ce7cc374825c425040da74a6942e3a2ca405bfa7c7bac2e14df3",
+      "targetName": "Supplier management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/client-interface/relationship-management/new-supplier-management",
+      "targetDescription": "The alignment of an organisation's supplier performance objectives and activities with sourcing strategies and plans, balancing costs, efficiencies and service quality. The establishment of working relationships based on collaboration, trust, and open communication in order to encourage co-innovation and service improvement with suppliers. The proactive engagement of suppliers for mutual benefit to resolve operational incidents, problems, poor performance and other sources of conflict. The use of clear escalation paths for discussing and resolving issues. The management of performance and risks across multiple suppliers (internal and external) using a set of agreed metrics.",
+      "targetCode": "SUPP",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

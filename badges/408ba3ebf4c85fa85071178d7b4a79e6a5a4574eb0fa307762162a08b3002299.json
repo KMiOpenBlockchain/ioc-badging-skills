@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/408ba3ebf4c85fa85071178d7b4a79e6a5a4574eb0fa307762162a08b3002299.json",
+  "name": "Knowledge of Information content authoring at level 2",
+  "description": "Knowledge of the application of the principles and practices of authoring, designing, controlling, and presenting textual information (supported where necessary by graphical content) to meet the requirements of intended audience(s). This information may be delivered via digital, print, or other medium. Management of the authoring process and the interaction with editorial and publication processes.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/INCA_2_K.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/b3e3f91956f391841d28468b9bf8168b5f587b02e9eaaf74279050d9c6b02640",
+    "narrative": "The holder has demonstrated that they can explain and discuss the knowledge relevant to the following SFIA description: Develops an understanding of content development and authoring activities, such as information gathering, creating draft content, identifying appropriate illustrations, and proper treatment of copyright and considering the publication medium(s). Works with colleagues and clients to understand audience needs and to assimilate source material. Creates draft materials that present information clearly, concisely and accurately in appropriate plain language, which meets the requirements of the audience(s) as clearly, simply and quickly as possible. Applies guidelines and standards to moderate content from others, escalating where appropriate."
+  },
+  "tags": [
+    "knowledge",
+    "level2"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/78d6157592fde7461eeef3aac1be83727231d3f8b4ac203e459a566be81b459c",
+      "targetName": "Information content authoring",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/solution-development-and-implementation/systems-development/information-content-authoring",
+      "targetDescription": "The application of the principles and practices of authoring, designing, controlling, and presenting textual information (supported where necessary by graphical content) to meet the requirements of intended audience(s). This information may be delivered via digital, print, or other medium. Management of the authoring process and the interaction with editorial and publication processes.",
+      "targetCode": "INCA",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/d681acb2cc5b6cfd4e658e64819f494c2331ff900199f08111f58d789d899407.json",
+  "name": "Competence in Continuity management at level 4",
+  "description": "Competence in the provision of service continuity planning and support, as part of, or in close cooperation with, the function which plans business continuity for the whole organisation. The identification of information systems which support critical business processes. The assessment of risks to critical systems' availability, integrity and confidentiality. The co-ordination of planning, designing, testing and maintenance procedures and contingency plans to address exposures and maintain agreed levels of continuity.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/COPL_4_C.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/5403b2aa43dfbc9dcf698a28d3c8b5d9858f32aa4aa221740bc937928c4999ae",
+    "narrative": "The holder has demonstrated, in a working environment, that they have consistently and reliably achieved the expected outcomes at a professional level for the following SFIA description: Implements and contributes to the development of a continuity management plan. Coordinates the assessment of risks to the availability, integrity and confidentiality of systems that support critical business processes. Coordinates the planning, designing, and testing of maintenance procedures and contingency plans."
+  },
+  "tags": [
+    "Competence",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/7c6c820831ebc2aacb3608bc23b99572afb5ed2a87ea50c6786536c573d83dfd",
+      "targetName": "Continuity management",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/technical-strategy-and-planning/continuity-management",
+      "targetDescription": "The provision of service continuity planning and support, as part of, or in close cooperation with, the function which plans business continuity for the whole organisation. The identification of information systems which support critical business processes. The assessment of risks to critical systems' availability, integrity and confidentiality. The co-ordination of planning, designing, testing and maintenance procedures and contingency plans to address exposures and maintain agreed levels of continuity.",
+      "targetCode": "COPL",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

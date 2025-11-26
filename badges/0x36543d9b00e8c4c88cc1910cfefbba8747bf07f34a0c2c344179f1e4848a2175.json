@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0x36543d9b00e8c4c88cc1910cfefbba8747bf07f34a0c2c344179f1e4848a2175.json",
+  "name": "Proficiency in Data visualisation at level 4",
+  "description": "Proficiency in the process of interpreting concepts, ideas, and facts by using graphical representations. Condensing and encapsulating the characteristics of data, making it easier to surface opportunities, identify risks, analyse trends, to drive effective decision-making. Presenting findings and data insights in creative ways to facilitate the understanding of data across a range of technical and non-technical audiences.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/VISL_4_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x55e0fb4b12aa5855bbd79e14848d7c5f0160313c92c44d10993e73d9225b16f7",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Applies a variety of visualisation techniques and designs the content and appearance of data visuals. Operationalises and automates activities for efficient and timely production of data visuals. Selects appropriate visualisation approach from a range of applicable options. Contributes to exploration and experimentation in data visualisation.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level4"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/442539f09a11fa25cc589172aa69d270a91de7b413aab08d4af3dde07dbaaf9e",
+      "targetName": "Data visualisation",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/information-strategy/data-visualisation",
+      "targetDescription": "The process of interpreting concepts, ideas, and facts by using graphical representations. Condensing and encapsulating the characteristics of data, making it easier to surface opportunities, identify risks, analyse trends, to drive effective decision-making. Presenting findings and data insights in creative ways to facilitate the understanding of data across a range of technical and non-technical audiences.",
+      "targetCode": "VISL",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}

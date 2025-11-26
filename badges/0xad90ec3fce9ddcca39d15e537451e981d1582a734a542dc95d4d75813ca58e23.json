@@ -1,0 +1,38 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xad90ec3fce9ddcca39d15e537451e981d1582a734a542dc95d4d75813ca58e23.json",
+  "name": "Proficiency in Enterprise and business architecture at level 7",
+  "description": "Proficiency in the creation, iteration, and maintenance of structures such as enterprise and business architectures embodying the key principles, methods and models that describe the organisation's future state, and that enable its evolution. This typically involves the interpretation of business goals and drivers; the translation of business strategy and objectives into an �operating model�; the strategic assessment of current capabilities; the identification of required changes in capabilities; and the description of inter-relationships between people, organisation, service, process, data, information, technology and the external environment. The architecture development process supports the formation of the constraints, standards and guiding principles necessary to define, assure and govern the required evolution; this facilitates change in the organisation's structure, business processes, systems and infrastructure in order to achieve predictable transition to the intended state.",
+  "image": "http://ioc-dev.kmi.open.ac.uk/images/badges/STPL_7_P.png",
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/issuers/2bd1895a4223ce1d243130bb7e21b23ebd2f218448116048a138aacb2ebb7829.json",
+    "name": "Institute of Coding",
+    "description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
+    "url": "https://instituteofcoding.org/",
+    "email": "ioc@bath.ac.uk",
+    "image": "https://ioc.kmi.open.ac.uk/images/ioc-logo.png"
+  },
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/criteria/0x78e81b32bcabd4eb96608cb838671ce4f54a3be5e64ebd0414ad28ec8d918ef9",
+    "narrative": "The holder has applied relevant knowledge to demonstrate in a realistic (*) environment that they can perform most of the activities defined in the following SFIA description:  Directs the creation and review of an enterprise capability strategy to support the strategic requirements of the business. Identifies the business benefits of alternative strategies. Directs development of enterprise-wide architecture and processes which ensure that the strategic application of change is embedded in the management of the organisation. Ensures compliance between business strategies, enterprise transformation activities and technology directions, setting strategies, policies, standards and practices.\n\n* Whilst proficiency must be demonstrated in a working context, a workplace supervisor may make a case to justify the use of a professional simulated environment for specific safety-critical tasks."
+  },
+  "tags": [
+    "proficiency",
+    "level7"
+  ],
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-skills/alignments/c04f58e1a8d38bcf8b788758efd5738ff1549bb79bd8e9540c52ec3b9c0340eb",
+      "targetName": "Enterprise and business architecture",
+      "targetUrl": "https://www.sfia-online.org/en/framework/sfia-7/skills/strategy-architecture/business-strategy-and-planning/enterprise-and-business-architecture-development",
+      "targetDescription": "The creation, iteration, and maintenance of structures such as enterprise and business architectures embodying the key principles, methods and models that describe the organisation's future state, and that enable its evolution. This typically involves the interpretation of business goals and drivers; the translation of business strategy and objectives into an �operating model�; the strategic assessment of current capabilities; the identification of required changes in capabilities; and the description of inter-relationships between people, organisation, service, process, data, information, technology and the external environment. The architecture development process supports the formation of the constraints, standards and guiding principles necessary to define, assure and govern the required evolution; this facilitates change in the organisation's structure, business processes, systems and infrastructure in order to achieve predictable transition to the intended state.",
+      "targetCode": "STPL",
+      "targetFramework": "SFIA version 7"
+    }
+  ]
+}
